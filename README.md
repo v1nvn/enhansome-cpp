@@ -95,28 +95,28 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *C++ generic frameworks and libraries.*
 
-* [Folly](https://github.com/facebook/folly) ⭐ 30,367 | 🐛 443 | 🌐 C++ | 📅 2026-05-09 - An open-source C++ library developed and used at Facebook. \[Apache2]
-* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 17,245 | 🐛 225 | 🌐 C++ | 📅 2026-05-09 - Abseil C++ Common Libraries. \[Apache2]
+* [Folly](https://github.com/facebook/folly) ⭐ 30,369 | 🐛 443 | 🌐 C++ | 📅 2026-05-10 - An open-source C++ library developed and used at Facebook. \[Apache2]
+* [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 17,251 | 🐛 225 | 🌐 C++ | 📅 2026-05-09 - Abseil C++ Common Libraries. \[Apache2]
 * [Dlib](https://github.com/davisking/dlib) ⭐ 14,378 | 🐛 43 | 🌐 C++ | 📅 2026-05-07 :zap: - A toolkit for making real world machine learning and data analysis applications in C++. \[Boost] [website](http://dlib.net/)
-* [C++ Workflow](https://github.com/sogou/workflow) ⭐ 14,344 | 🐛 28 | 🌐 C++ | 📅 2026-04-15 :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
-* [OpenFrameworks](https://github.com/openframeworks/openFrameworks) ⭐ 10,365 | 🐛 1,053 | 🌐 C++ | 📅 2026-04-28 - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
+* [C++ Workflow](https://github.com/sogou/workflow) ⭐ 14,344 | 🐛 27 | 🌐 C++ | 📅 2026-05-09 :zap: - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
+* [OpenFrameworks](https://github.com/openframeworks/openFrameworks) ⭐ 10,366 | 🐛 1,053 | 🌐 C++ | 📅 2026-04-28 - A cross platform open source toolkit for creative coding in C++. \[MIT] [website](http://www.openframeworks.cc/)
 * [EASTL](https://github.com/electronicarts/EASTL) ⭐ 9,232 | 🐛 110 | 🌐 C++ | 📅 2025-11-15 - Electronic Arts Standard Template Library. \[BSD]
-* [Seastar](https://github.com/scylladb/seastar) ⭐ 9,214 | 🐛 532 | 🌐 C++ | 📅 2026-05-07 - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
-* [JUCE](https://github.com/julianstorer/JUCE) ⭐ 8,384 | 🐛 451 | 🌐 C++ | 📅 2026-05-08 - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
+* [Seastar](https://github.com/scylladb/seastar) ⭐ 9,216 | 🐛 532 | 🌐 C++ | 📅 2026-05-07 - An advanced, open-source C++ framework for high-performance server applications on modern hardware. \[Apache-2.0 License] [seastar.io](http://seastar.io/)
+* [JUCE](https://github.com/julianstorer/JUCE) ⭐ 8,388 | 🐛 451 | 🌐 C++ | 📅 2026-05-08 - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 * [tbox](https://github.com/tboox/tbox) ⭐ 5,111 | 🐛 37 | 🌐 C | 📅 2026-05-02 - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 * [Coost](https://github.com/idealvin/coost) ⭐ 4,205 | 🐛 14 | 🌐 C++ | 📅 2025-05-27 - A tiny boost library in C++11. \[MIT]
-* [ETL](https://github.com/ETLCPP/etl) ⭐ 2,989 | 🐛 72 | 🌐 C++ | 📅 2026-05-08 - Embedded Template Library. \[MIT]
+* [ETL](https://github.com/ETLCPP/etl) ⭐ 2,992 | 🐛 71 | 🌐 C++ | 📅 2026-05-09 - Embedded Template Library. \[MIT]
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) ⭐ 2,285 | 🐛 0 | 🌐 C++ | 📅 2026-05-06 - Functional Programming Library for C++. Write concise and readable C++ code. \[MIT]
-* [CGraph](https://github.com/ChunelFeng/CGraph) ⭐ 2,269 | 🐛 16 | 🌐 C++ | 📅 2026-05-04 - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
-* [BDE](https://github.com/bloomberg/bde) ⭐ 1,809 | 🐛 15 | 🌐 C++ | 📅 2026-05-08 - The BDE Development Environment from Bloomberg Labs. \[Apache2]
+* [CGraph](https://github.com/ChunelFeng/CGraph) ⭐ 2,270 | 🐛 15 | 🌐 C++ | 📅 2026-05-10 - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+* [BDE](https://github.com/bloomberg/bde) ⭐ 1,810 | 🐛 15 | 🌐 C++ | 📅 2026-05-08 - The BDE Development Environment from Bloomberg Labs. \[Apache2]
 * [libPhenom](https://github.com/facebook/libphenom) ⚠️ Archived - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
-* [LibSourcey](https://github.com/sourcey/libsourcey) ⭐ 1,358 | 🐛 6 | 🌐 C++ | 📅 2026-05-09 - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
+* [LibSourcey](https://github.com/sourcey/libsourcey) ⭐ 1,359 | 🐛 6 | 🌐 C++ | 📅 2026-05-09 - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
 * [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) ⭐ 1,191 | 🐛 30 | 🌐 C++ | 📅 2026-05-07 - A comprehensive C++ framework featuring efficient user-space threading (coroutine with work-stealing), I/O, networking, RPC, HTTP, etc., and used extensively in Alibaba. It is compatible with C++ 14/17/20/23, Linux, MacOS, x86-64, ARM64, gcc and clang. \[Apache2] [website](https://photonlibos.github.io/)
 * [Siv3D](https://github.com/Siv3D/OpenSiv3D) ⭐ 1,167 | 🐛 174 | 🌐 C++ | 📅 2026-01-25 - Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). \[MIT] [website](https://siv3d.github.io/)
-* [xtd](https://github.com/gammasoft71/xtd) ⭐ 1,149 | 🐛 99 | 🌐 C++ | 📅 2026-05-08 - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. \[MIT]
+* [xtd](https://github.com/gammasoft71/xtd) ⭐ 1,148 | 🐛 99 | 🌐 C++ | 📅 2026-05-09 - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. \[MIT]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) ⭐ 740 | 🐛 0 | 🌐 C++ | 📅 2025-03-16 - Framework for Enterprise Application Development. \[Apache2]
 * [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) ⭐ 617 | 🐛 3 | 🌐 C++ | 📅 2026-05-08 - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
-* [AUI](https://github.com/aui-framework/aui) ⭐ 554 | 🐛 110 | 🌐 C++ | 📅 2026-05-08 - Declarative UI toolkit for C++20. \[MPL2]
+* [AUI](https://github.com/aui-framework/aui) ⭐ 555 | 🐛 108 | 🌐 C++ | 📅 2026-05-09 - Declarative UI toolkit for C++20. \[MPL2]
 * [LibU](https://github.com/koanlogic/libu) ⭐ 459 | 🐛 2 | 🌐 C | 📅 2023-01-03 - A multiplatform utility library written in C. \[BSD]
 * [Yomm2](https://github.com/jll63/yomm2) ⚠️ Archived - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) ⭐ 118 | 🐛 0 | 🌐 C++ | 📅 2018-01-15 \[Boost]
 * [rpp](https://github.com/TheNumbat/rpp) ⭐ 210 | 🐛 1 | 🌐 C++ | 📅 2024-12-25 - Minimal Rust-inspired C++20 STL replacement. \[MIT]
@@ -144,32 +144,32 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Artificial Intelligence
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 195,036 | 🐛 5,003 | 🌐 C++ | 📅 2026-05-09 - An open source software library for numerical computation using data flow graphs. \[Apache]
-* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 99,772 | 🐛 18,534 | 🌐 Python | 📅 2026-05-09 - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 195,042 | 🐛 5,033 | 🌐 C++ | 📅 2026-05-10 - An open source software library for numerical computation using data flow graphs. \[Apache]
+* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 99,785 | 🐛 18,496 | 🌐 Python | 📅 2026-05-10 - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 * [MXNet](https://github.com/apache/incubator-mxnet) ⚠️ Archived - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
 * [CNTK](https://github.com/Microsoft/CNTK) ⚠️ Archived - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. \[Boost]
 * [Kaldi](https://github.com/kaldi-asr/kaldi) ⭐ 15,385 | 🐛 257 | 🌐 Shell | 📅 2025-09-22 - Toolkit for speech recognition. \[Apache]
-* [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,705 | 🐛 126 | 🌐 C++ | 📅 2026-02-27 - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+* [Recast/Detour](https://github.com/recastnavigation/recastnavigation) ⭐ 7,708 | 🐛 127 | 🌐 C++ | 📅 2026-02-27 - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) ⭐ 6,021 | 🐛 297 | 🌐 C++ | 📅 2022-04-17 - A header only, dependency-free deep learning framework in C++11. \[BSD]
-* [flashlight](https://github.com/flashlight/flashlight) ⭐ 5,442 | 🐛 127 | 🌐 C++ | 📅 2026-02-23 - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
-* [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 3,989 | 🐛 145 | 🌐 C++ | 📅 2026-05-09 - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
+* [flashlight](https://github.com/flashlight/flashlight) ⭐ 5,441 | 🐛 127 | 🌐 C++ | 📅 2026-02-23 - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
+* [oneDNN](https://github.com/oneapi-src/oneDNN) ⭐ 3,989 | 🐛 147 | 🌐 C++ | 📅 2026-05-09 - An open-source cross-platform performance library for deep learning applications. \[Apache] [website](https://01.org/onednn)
 * [Genann](https://github.com/codeplea/genann) ⭐ 2,263 | 🐛 15 | 🌐 C | 📅 2024-06-26 - Simple neural network library in C. \[zlib]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep) ⭐ 1,123 | 🐛 0 | 🌐 C++ | 📅 2026-05-06 - Header-only library for using Keras models in C++. \[MIT]
 * [Veles](https://github.com/Samsung/veles) ⭐ 917 | 🐛 36 | 🌐 C++ | 📅 2023-11-21 - Distributed platform for rapid Deep learning application development. \[Apache]
 * [btsk](https://github.com/aigamedev/btsk) ⭐ 485 | 🐛 3 | 🌐 C++ | 📅 2022-07-22 - Game Behavior Tree Starter Kit. \[zlib]
-* [cpp-mcp](https://github.com/hkr04/cpp-mcp) ⭐ 271 | 🐛 11 | 🌐 C++ | 📅 2026-04-28 - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
+* [cpp-mcp](https://github.com/hkr04/cpp-mcp) ⭐ 273 | 🐛 12 | 🌐 C++ | 📅 2026-04-28 - Lightweight C++ MCP (Model Context Protocol) SDK. \[MIT]
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) ⭐ 113 | 🐛 4 | 🌐 C++ | 📅 2021-09-25 - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
 * [Txeo](https://github.com/rdabra/txeo) ⭐ 55 | 🐛 8 | 🌐 C++ | 📅 2025-05-08 - A modern C++ wrapper for TensorFlow. \[Apache]
 * [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. \[LGPL]
 
 ## Asynchronous Event Loop
 
-* [libuv](https://github.com/libuv/libuv) ⭐ 26,825 | 🐛 214 | 🌐 C | 📅 2026-05-03 - Cross-platform asynchronous I/O. \[BSD]
+* [libuv](https://github.com/libuv/libuv) ⭐ 26,827 | 🐛 214 | 🌐 C | 📅 2026-05-03 - Cross-platform asynchronous I/O. \[BSD]
 * [libhv](https://github.com/ithewei/libhv) ⭐ 7,511 | 🐛 56 | 🌐 C | 📅 2026-04-20 - Cross-platform event loop library. \[BSD]
-* [Asio](https://github.com/chriskohlhoff/asio/) ⭐ 5,844 | 🐛 1,065 | 🌐 C++ | 📅 2026-03-03 - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. \[Boost] [website](http://think-async.com/)
-* [C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,417 | 🐛 64 | 🌐 C++ | 📅 2026-05-06 - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
+* [Asio](https://github.com/chriskohlhoff/asio/) ⭐ 5,848 | 🐛 1,065 | 🌐 C++ | 📅 2026-03-03 - A cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. \[Boost] [website](http://think-async.com/)
+* [C++ Actor Framework](https://github.com/actor-framework/actor-framework) ⭐ 3,418 | 🐛 64 | 🌐 C++ | 📅 2026-05-06 - An Open Source Implementation of the Actor Model in C++. \[BSD-3-Clause] [website](http://actor-framework.org/)
 * [uvw](https://github.com/skypjack/uvw) ⭐ 2,041 | 🐛 13 | 🌐 C++ | 📅 2025-12-17 - C++ wrapper for libuv. \[MIT]
-* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,569 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
+* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,570 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
 * [uv-cpp](https://github.com/wlgq2/uv-cpp) ⭐ 841 | 🐛 5 | 🌐 C++ | 📅 2025-11-13 - a simple interface, high-performance network library based on C++11. \[MIT]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp) ⭐ 693 | 🐛 14 | 🌐 C++ | 📅 2024-04-19 - Header only library that implements Promise/A+ standard. \[Anti-996]
 * [Ichor](https://github.com/volt-software/ichor) ⭐ 233 | 🐛 0 | 🌐 C++ | 📅 2026-03-08 - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
@@ -180,24 +180,24 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Audio, Sound, Music, Digitized Voice Libraries*
 
-* [miniaudio](https://github.com/mackron/miniaudio) ⭐ 6,740 | 🐛 4 | 🌐 C | 📅 2026-05-06 - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) ⭐ 6,446 | 🐛 107 | 🌐 C++ | 📅 2026-01-12 - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
-* [rnnoise](https://github.com/xiph/rnnoise) ⭐ 5,561 | 🐛 204 | 🌐 C | 📅 2025-02-22 - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
-* [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) ⭐ 4,297 | 🐛 35 | 🌐 C | 📅 2026-05-06 - A lightweight speech recognition engine. \[BSD-2-Clause] [website](https://cmusphinx.github.io/)
+* [miniaudio](https://github.com/mackron/miniaudio) ⭐ 6,746 | 🐛 5 | 🌐 C | 📅 2026-05-10 - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) ⭐ 6,445 | 🐛 107 | 🌐 C++ | 📅 2026-01-12 - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. \[BSD]
+* [rnnoise](https://github.com/xiph/rnnoise) ⭐ 5,565 | 🐛 204 | 🌐 C | 📅 2025-02-22 - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
+* [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) ⭐ 4,296 | 🐛 35 | 🌐 C | 📅 2026-05-06 - A lightweight speech recognition engine. \[BSD-2-Clause] [website](https://cmusphinx.github.io/)
 * [Aubio](https://github.com/aubio/aubio) ⭐ 3,698 | 🐛 155 | 🌐 C | 📅 2026-04-10 - A library for audio and music analysis.\[GPL-3.0] [website](https://aubio.org/)
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,312 | 🐛 16 | 🌐 C | 📅 2026-03-06 - A C library for audio and music analysis, feature extraction. \[MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud) ⭐ 2,106 | 🐛 120 | 🌐 C | 📅 2024-08-13 - Easy, portable audio engine for games. \[zlib]
-* [libsoundio](https://github.com/andrewrk/libsoundio) ⭐ 2,084 | 🐛 136 | 🌐 C | 📅 2025-01-13 - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
-* [minimp3](https://github.com/lieff/minimp3) ⭐ 1,889 | 🐛 49 | 🌐 C | 📅 2026-03-12 - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
-* [dr\_libs](https://github.com/mackron/dr_libs) ⭐ 1,733 | 🐛 8 | 🌐 C | 📅 2026-04-26 - Single file audio decoding libraries for C and C++. \[Unlicense]
+* [libsoundio](https://github.com/andrewrk/libsoundio) ⭐ 2,085 | 🐛 136 | 🌐 C | 📅 2025-01-13 - C library for cross-platform real-time audio input and output. \[MIT] [website](http://libsound.io/)
+* [minimp3](https://github.com/lieff/minimp3) ⭐ 1,890 | 🐛 49 | 🌐 C | 📅 2026-03-12 - Public domain, header-only MP3 decoder with clean-room implementation. \[CC0]
+* [dr\_libs](https://github.com/mackron/dr_libs) ⭐ 1,734 | 🐛 8 | 🌐 C | 📅 2026-04-26 - Single file audio decoding libraries for C and C++. \[Unlicense]
 * [libsndfile](https://github.com/erikd/libsndfile/) ⭐ 1,697 | 🐛 208 | 🌐 C | 📅 2025-12-16 - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 * [Maximilian](https://github.com/micknoise/Maximilian) ⭐ 1,684 | 🐛 32 | 🌐 C++ | 📅 2025-01-04 - C++ Audio and Music DSP Library. \[MIT]
 * [AudioFile](https://github.com/adamstark/AudioFile) ⭐ 1,135 | 🐛 3 | 🌐 C++ | 📅 2025-10-15 - A simple C++ library for reading and writing audio files. \[MIT]
-* [Verovio](https://github.com/rism-ch/verovio) ⭐ 854 | 🐛 163 | 🌐 C++ | 📅 2026-05-08 - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+* [Verovio](https://github.com/rism-ch/verovio) ⭐ 855 | 🐛 163 | 🌐 C++ | 📅 2026-05-08 - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 * [Tonic](https://github.com/TonicAudio/Tonic) ⭐ 555 | 🐛 53 | 🌐 C++ | 📅 2024-12-24 - Easy and efficient audio synthesis in C++. \[Unlicense]
-* [ni-media](https://github.com/NativeInstruments/ni-media) ⭐ 253 | 🐛 15 | 🌐 C++ | 📅 2024-08-21 - C++ library for reading and writing audio files. \[MIT]
+* [ni-media](https://github.com/NativeInstruments/ni-media) ⭐ 254 | 🐛 15 | 🌐 C++ | 📅 2024-08-21 - C++ library for reading and writing audio files. \[MIT]
 * [SELA](https://github.com/sahaRatul/sela) ⭐ 216 | 🐛 11 | 🌐 C++ | 📅 2020-04-11 - SimplE Lossless Audio. \[MIT]
-* [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) ⭐ 75 | 🐛 1 | 🌐 C++ | 📅 2026-04-25 - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+* [Amplitude Audio SDK](https://github.com/SparkyStudios/AmplitudeAudioSDK) ⭐ 76 | 🐛 2 | 🌐 C++ | 📅 2026-05-09 - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. \[Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. \[GPL/Proprietary]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. \[LGPL]
@@ -221,18 +221,18 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## BitTorrent
 
-* [libtorrent](https://github.com/arvidn/libtorrent) ⭐ 5,920 | 🐛 215 | 🌐 C++ | 📅 2026-05-08 (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
+* [libtorrent](https://github.com/arvidn/libtorrent) ⭐ 5,924 | 🐛 221 | 🌐 C++ | 📅 2026-05-10 (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
 * [libutp](https://github.com/bittorrent/libutp) ⭐ 1,154 | 🐛 47 | 🌐 C++ | 📅 2023-10-19 - uTorrent Transport Protocol library. \[MIT]
-* [LibTorrent](https://github.com/rakshasa/libtorrent) ⭐ 976 | 🐛 54 | 🌐 C++ | 📅 2026-05-08 (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
+* [LibTorrent](https://github.com/rakshasa/libtorrent) ⭐ 976 | 🐛 55 | 🌐 C++ | 📅 2026-05-09 (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 * [jech/dht](https://github.com/jech/dht) ⭐ 709 | 🐛 5 | 🌐 C | 📅 2023-03-18 - BitTorrent DHT library in C. \[MIT]
 
 ## Chemistry
 
 *Chemistry, Quantum Chemistry, Solid-State Chemistry/Physics, Geochemistry, Biochemistry*
 
-* [LAMMPS](https://github.com/lammps/lammps) ⭐ 2,886 | 🐛 117 | 🌐 C++ | 📅 2026-05-09 - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
-* [Psi](https://github.com/psi4/psi4) ⭐ 1,172 | 🐛 447 | 🌐 C++ | 📅 2026-05-02 - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
-* [gromacs](https://github.com/gromacs/gromacs) ⭐ 909 | 🐛 0 | 🌐 C++ | 📅 2026-05-08 - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+* [LAMMPS](https://github.com/lammps/lammps) ⭐ 2,887 | 🐛 116 | 🌐 C++ | 📅 2026-05-09 - A classical molecular dynamics code with a focus on materials modeling. It's an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. \[GPL] [website](https://lammps.sandia.gov/)
+* [Psi](https://github.com/psi4/psi4) ⭐ 1,169 | 🐛 447 | 🌐 C++ | 📅 2026-05-02 - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
+* [gromacs](https://github.com/gromacs/gromacs) ⭐ 910 | 🐛 0 | 🌐 C++ | 📅 2026-05-08 - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 * [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) ⭐ 218 | 🐛 51 | 🌐 C++ | 📅 2026-05-06 - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website](https://github.com/m-a-d-n-e-s-s/madness) ⭐ 218 | 🐛 51 | 🌐 C++ | 📅 2026-05-06
 * [Reaktoro](https://github.com/reaktoro/reaktoro) ⭐ 211 | 🐛 32 | 🌐 C++ | 📅 2026-02-02 - A computational framework in C++ and Python for modeling chemically reactive systems. \[LGPL] [website](https://reaktoro.org)
 * [MPQC](https://github.com/ValeevGroup/mpqc) ⭐ 81 | 🐛 5 | 🌐 C++ | 📅 2023-08-08 - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
@@ -242,16 +242,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Console/Terminal User Interface, Command Line Interface*
 
-* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,096 | 🐛 105 | 🌐 C++ | 📅 2026-05-08 - C++ Functional Terminal User Interface. \[MIT]
+* [FTXUI](https://github.com/ArthurSonzogni/FTXUI) ⭐ 10,101 | 🐛 107 | 🌐 C++ | 📅 2026-05-09 - C++ Functional Terminal User Interface. \[MIT]
 * [cxxopts](https://github.com/jarro2783/cxxopts) ⭐ 4,762 | 🐛 71 | 🌐 C++ | 📅 2026-04-29 - Lightweight C++ command line option parser. \[MIT]
-* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,279 | 🐛 67 | 🌐 C++ | 📅 2026-05-08 - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
-* [linenoise](https://github.com/antirez/linenoise) ⭐ 4,256 | 🐛 150 | 🌐 C | 📅 2026-05-02 - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
+* [CLI11](https://github.com/CLIUtils/CLI11) ⭐ 4,282 | 🐛 67 | 🌐 C++ | 📅 2026-05-08 - Header only single or multi-file C++11 library for simple and advanced CLI parsing. \[BSD]
+* [linenoise](https://github.com/antirez/linenoise) ⭐ 4,259 | 🐛 150 | 🌐 C | 📅 2026-05-02 - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
 * [imtui](https://github.com/ggerganov/imtui) ⭐ 3,570 | 🐛 21 | 🌐 C++ | 📅 2025-10-10 - Immediate Mode Text-based User Interface. \[MIT]
-* [argparse](https://github.com/p-ranav/argparse) ⭐ 3,454 | 🐛 77 | 🌐 C++ | 📅 2025-01-26 - Argument Parser for Modern C++. \[MIT]
-* [indicators](https://github.com/p-ranav/indicators/) ⭐ 3,391 | 🐛 45 | 🌐 C++ | 📅 2025-05-09 - Activity indicators for Modern C++. \[MIT]
+* [argparse](https://github.com/p-ranav/argparse) ⭐ 3,453 | 🐛 77 | 🌐 C++ | 📅 2025-01-26 - Argument Parser for Modern C++. \[MIT]
+* [indicators](https://github.com/p-ranav/indicators/) ⭐ 3,392 | 🐛 45 | 🌐 C++ | 📅 2025-05-09 - Activity indicators for Modern C++. \[MIT]
 * [tabulate](https://github.com/p-ranav/tabulate) ⭐ 2,163 | 🐛 44 | 🌐 C++ | 📅 2025-05-14 - Table Maker for Modern C++. \[MIT]
 * [termbox](https://github.com/nsf/termbox) ⭐ 2,008 | 🐛 20 | 🌐 C | 📅 2020-08-25 - A C library for writing text-based user interfaces. \[MIT]
-* [args](https://github.com/taywee/args) ⭐ 1,616 | 🐛 16 | 🌐 C++ | 📅 2026-05-08 - A simple header-only C++ argument parser library. \[MIT]
+* [args](https://github.com/taywee/args) ⭐ 1,618 | 🐛 16 | 🌐 C++ | 📅 2026-05-09 - A simple header-only C++ argument parser library. \[MIT]
 * [Argh!](https://github.com/adishavit/argh) ⭐ 1,432 | 🐛 22 | 🌐 C++ | 📅 2025-01-21 - A minimalist, frustration-free, header-only argument handler. \[BSD]
 * [cli](https://github.com/daniele77/cli) ⭐ 1,353 | 🐛 39 | 🌐 C++ | 📅 2025-12-22 - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 * [clipp](https://github.com/muellan/clipp) ⭐ 1,322 | 🐛 55 | 🌐 C++ | 📅 2024-05-30 - Easy to use, powerful and expressive command line argument handling for C++11/14/17 contained in a single header file. \[MIT]
@@ -264,7 +264,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal) ⭐ 654 | 🐛 44 | 🌐 C++ | 📅 2026-04-28 - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
 * [Lyra](https://github.com/bfgroup/Lyra) ⭐ 587 | 🐛 16 | 🌐 C++ | 📅 2026-04-23 - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 * [linenoise-ng](https://github.com/arangodb/linenoise-ng) ⚠️ Archived - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
-* [tuibox](https://github.com/Cubified/tuibox) ⭐ 301 | 🐛 4 | 🌐 C | 📅 2023-12-01 - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
+* [tuibox](https://github.com/Cubified/tuibox) ⭐ 302 | 🐛 4 | 🌐 C | 📅 2023-12-01 - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 * [barkeep](https://github.com/oir/barkeep) ⭐ 232 | 🐛 6 | 🌐 C++ | 📅 2026-04-19 - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
 * [popl](https://github.com/badaix/popl) ⭐ 178 | 🐛 6 | 🌐 C++ | 📅 2023-03-16 - A single-header templated command line arguments and ini file parser for C++ 11 and beyond. \[MIT]
 * [Crossline](https://github.com/jcwangxp/Crossline) ⭐ 153 | 🐛 1 | 🌐 C | 📅 2023-06-05 - A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. \[MIT]
@@ -280,29 +280,29 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Compression and Archiving Libraries*
 
-* [zstd](https://github.com/facebook/zstd) ⭐ 27,067 | 🐛 285 | 🌐 C | 📅 2026-05-05 - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
-* [Brotli](https://github.com/google/brotli) ⭐ 14,696 | 🐛 93 | 🌐 TypeScript | 📅 2026-05-05 - Brotli compression format. Developed by Google. \[MIT]
-* [LZ4](https://github.com/lz4/lz4) ⭐ 11,808 | 🐛 76 | 🌐 C | 📅 2026-05-01 - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+* [zstd](https://github.com/facebook/zstd) ⭐ 27,070 | 🐛 286 | 🌐 C | 📅 2026-05-05 - Zstandard - Fast real-time compression algorithm. Developed by Facebook. \[BSD]
+* [Brotli](https://github.com/google/brotli) ⭐ 14,699 | 🐛 94 | 🌐 TypeScript | 📅 2026-05-05 - Brotli compression format. Developed by Google. \[MIT]
+* [LZ4](https://github.com/lz4/lz4) ⭐ 11,810 | 🐛 76 | 🌐 C | 📅 2026-05-01 - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 * [Zopfli](https://github.com/google/zopfli) ⚠️ Archived - A compression library that performs very good but slow deflate/zlib compression. \[Apache-2.0]
-* [libarchive](https://github.com/libarchive/libarchive) ⭐ 3,492 | 🐛 594 | 🌐 C | 📅 2026-05-09 - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
-* [OpenZL](https://github.com/facebook/openzl) ⭐ 3,040 | 🐛 58 | 🌐 C | 📅 2026-05-08 - A novel data compression framework. \[BSD] [website](https://openzl.org/)
+* [libarchive](https://github.com/libarchive/libarchive) ⭐ 3,493 | 🐛 582 | 🌐 C | 📅 2026-05-09 - Multi-format archive and compression library. \[New BSD] [website](http://www.libarchive.org/)
+* [OpenZL](https://github.com/facebook/openzl) ⭐ 3,046 | 🐛 58 | 🌐 C | 📅 2026-05-08 - A novel data compression framework. \[BSD] [website](https://openzl.org/)
 * [miniz](https://github.com/richgel999/miniz) ⭐ 2,753 | 🐛 143 | 🌐 C++ | 📅 2026-04-19 - Single C source file Deflate/Inflate compression library with zlib-compatible API, ZIP archive reading/writing, PNG writing. \[MIT]
-* [zlib-ng](https://github.com/zlib-ng/zlib-ng) ⭐ 2,006 | 🐛 62 | 🌐 C | 📅 2026-05-07 - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+* [zlib-ng](https://github.com/zlib-ng/zlib-ng) ⭐ 2,008 | 🐛 63 | 🌐 C | 📅 2026-05-07 - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 * [LZFSE](https://github.com/lzfse/lzfse) ⭐ 1,823 | 🐛 29 | 🌐 C | 📅 2022-09-05 - LZFSE compression library and command line tool. Developed by Apple.
 * [heatshrink](https://github.com/atomicobject/heatshrink) ⭐ 1,525 | 🐛 42 | 🌐 C | 📅 2024-05-19 - data compression library for embedded/real-time systems  \[ISC]
-* [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) ⭐ 1,480 | 🐛 22 | 🌐 C | 📅 2024-03-21 - New generation entropy codecs : Finite State Entropy and Huff0.
-* [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,449 | 🐛 9 | 🌐 C | 📅 2026-05-01 - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
-* [minizip-ng](https://github.com/zlib-ng/minizip-ng) ⭐ 1,449 | 🐛 9 | 🌐 C | 📅 2026-05-01 - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
-* [smaz](https://github.com/antirez/smaz) ⭐ 1,220 | 🐛 13 | 🌐 C | 📅 2019-10-25 - Small strings compression library. \[BSD]
+* [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) ⭐ 1,481 | 🐛 22 | 🌐 C | 📅 2024-03-21 - New generation entropy codecs : Finite State Entropy and Huff0.
+* [Minizip](https://github.com/nmoinvaz/minizip) ⭐ 1,449 | 🐛 10 | 🌐 C | 📅 2026-05-01 - Zlib with latest bug fixes that supports PKWARE disk spanning, AES encryption, and IO buffering. \[zlib]
+* [minizip-ng](https://github.com/zlib-ng/minizip-ng) ⭐ 1,449 | 🐛 10 | 🌐 C | 📅 2026-05-01 - Fork of the popular zip manipulation library found in the zlib distribution. \[zlib]
+* [smaz](https://github.com/antirez/smaz) ⭐ 1,221 | 🐛 13 | 🌐 C | 📅 2019-10-25 - Small strings compression library. \[BSD]
 * [bzip3](https://github.com/kspalaiologos/bzip3) ⭐ 1,200 | 🐛 6 | 🌐 C | 📅 2026-04-28 - A better and stronger spiritual successor to BZip2. \[LGPL]
-* [bit7z](https://github.com/rikyoz/bit7z) ⭐ 835 | 🐛 64 | 🌐 C++ | 📅 2026-05-06 - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+* [bit7z](https://github.com/rikyoz/bit7z) ⭐ 835 | 🐛 64 | 🌐 C++ | 📅 2026-05-09 - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 * [cmix](https://github.com/byronknoll/cmix) ⭐ 701 | 🐛 9 | 🌐 C++ | 📅 2025-12-07 - A lossless data compression program that aims for the highest compression ratios at the cost of speed. \[GPL-3.0]
 * [FastLZ](https://github.com/ariya/FastLZ) ⭐ 535 | 🐛 0 | 🌐 C | 📅 2024-08-02 - Small & portable byte-aligned LZ77 compression. \[MIT]
 * [LZAV](https://github.com/avaneev/lzav) ⭐ 531 | 🐛 0 | 🌐 C++ | 📅 2026-01-27 - Fast In-Memory Data Compression Algorithm. \[MIT]
 * [FSST](https://github.com/cwida/fsst) ⭐ 511 | 🐛 3 | 🌐 C++ | 📅 2026-04-06 - efficient random-access string compression. \[MIT]
 * [Rapidgzip](https://github.com/mxmlnkn/rapidgzip) ⭐ 452 | 🐛 11 | 🌐 Python | 📅 2025-11-30 - Gzip Decompression and Random Access for Modern Multi-Core Machines. \[Apache-2/MIT]
-* [ZXC](https://github.com/hellobertrand/zxc) ⭐ 369 | 🐛 4 | 🌐 C | 📅 2026-05-08 - High-performance asymmetric lossless compression. \[BSD-3-Clause]
-* [Kanzi](https://github.com/flanglet/kanzi-cpp) ⭐ 215 | 🐛 0 | 🌐 C++ | 📅 2026-05-03 - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
+* [ZXC](https://github.com/hellobertrand/zxc) ⭐ 371 | 🐛 2 | 🌐 C | 📅 2026-05-09 - High-performance asymmetric lossless compression. \[BSD-3-Clause]
+* [Kanzi](https://github.com/flanglet/kanzi-cpp) ⭐ 215 | 🐛 0 | 🌐 C++ | 📅 2026-05-09 - a modern, modular, portable and efficient lossless data compressor implemented in C++. \[Apache-2.0]
 * [LZSSE-SIMDe](https://github.com/nemequ/LZSSE-SIMDe) ⭐ 20 | 🐛 0 | 🌐 C++ | 📅 2020-07-02 - A portable SIMD implementation of LZSSE compression. \[BSD-2-Clause]
 * [bzip2](http://www.bzip.org/) - A freely available, patent free, high-quality data compressor. \[BSD]
 * [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. \[LGPL]
@@ -318,46 +318,46 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Concurrency and Multithreading*
 
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,252 | 🐛 76 | 🌐 C++ | 📅 2026-04-28 - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) ⭐ 12,257 | 🐛 76 | 🌐 C++ | 📅 2026-04-28 - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 * [Taskflow](https://github.com/taskflow/taskflow) ⭐ 11,953 | 🐛 30 | 🌐 C++ | 📅 2026-05-03 - A General-purpose Parallel and Heterogeneous Task Programming System. (renamed from Cpp-Taskflow) \[MIT]
-* [ThreadPool](https://github.com/progschj/ThreadPool) ⭐ 8,737 | 🐛 60 | 🌐 C++ | 📅 2024-07-20 - A simple C++11 Thread Pool implementation \[zlib]
+* [ThreadPool](https://github.com/progschj/ThreadPool) ⭐ 8,735 | 🐛 60 | 🌐 C++ | 📅 2024-07-20 - A simple C++11 Thread Pool implementation \[zlib]
 * [ArrayFire](https://github.com/arrayfire/arrayfire) ⭐ 4,880 | 🐛 307 | 🌐 C++ | 📅 2026-03-07 - A general purpose GPU library. \[BSD]
-* [NCCL](https://github.com/NVIDIA/nccl) ⭐ 4,684 | 🐛 339 | 🌐 C++ | 📅 2026-05-09 - Optimized primitives for collective multi-GPU communication. \[BSD]
-* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) ⭐ 4,550 | 🐛 20 | 🌐 C++ | 📅 2026-03-28 - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
-* [libmill](https://github.com/sustrik/libmill/) ⭐ 3,159 | 🐛 22 | 🌐 C | 📅 2021-02-09 - Introduces Go-style concurrency in C. \[MIT]
+* [NCCL](https://github.com/NVIDIA/nccl) ⭐ 4,684 | 🐛 341 | 🌐 C++ | 📅 2026-05-09 - Optimized primitives for collective multi-GPU communication. \[BSD]
+* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) ⭐ 4,551 | 🐛 20 | 🌐 C++ | 📅 2026-03-28 - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+* [libmill](https://github.com/sustrik/libmill/) ⭐ 3,160 | 🐛 22 | 🌐 C | 📅 2021-02-09 - Introduces Go-style concurrency in C. \[MIT]
 * [BS::thread\_pool](https://github.com/bshoshany/thread-pool) ⭐ 2,975 | 🐛 0 | 🌐 C++ | 📅 2026-01-04 - A fast, lightweight, and easy-to-use C++17 thread pool library \[MIT]
-* [HPX](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,839 | 🐛 148 | 🌐 C++ | 📅 2026-05-07 - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
+* [HPX](https://github.com/STEllAR-GROUP/hpx/) ⭐ 2,839 | 🐛 146 | 🌐 C++ | 📅 2026-05-09 - A general purpose C++ runtime system for parallel and distributed applications of any scale. \[Boost]
 * [concurrencpp](https://github.com/David-Haim/concurrencpp) ⭐ 2,753 | 🐛 12 | 🌐 C++ | 📅 2025-05-01 - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 * [libcds](https://github.com/khizmax/libcds) ⭐ 2,742 | 🐛 54 | 🌐 C++ | 📅 2023-10-17 - A C++ library of Concurrent Data Structures. \[BSD]
 * [ck](https://github.com/concurrencykit/ck) ⭐ 2,632 | 🐛 8 | 🌐 C | 📅 2026-04-29 - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. \[BSD]
 * [libdispatch](https://github.com/apple/swift-corelibs-libdispatch) ⭐ 2,587 | 🐛 116 | 🌐 C | 📅 2026-05-08 - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
-* [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,529 | 🐛 593 | 🌐 C++ | 📅 2026-05-07 - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
+* [Kokkos](https://github.com/kokkos/kokkos) ⭐ 2,528 | 🐛 593 | 🌐 C++ | 📅 2026-05-07 - A performance portable programming model for parallel execution and memory abstraction. \[BSD]
 * [libcu++](https://github.com/NVIDIA/libcudacxx) ⚠️ Archived - The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. \[Apache-2.0]
 * [marl](https://github.com/google/marl) ⚠️ Archived - Marl is a hybrid thread / fiber task scheduler written in C++ 11. \[Apache-2.0]
-* [libdill](https://github.com/sustrik/libdill/) ⭐ 1,919 | 🐛 53 | 🌐 C | 📅 2024-04-09 - Introduces structured concurrency in C. \[MIT]
+* [libdill](https://github.com/sustrik/libdill/) ⭐ 1,920 | 🐛 53 | 🌐 C | 📅 2024-04-09 - Introduces structured concurrency in C. \[MIT]
 * [atomic\_queue](https://github.com/max0x7ba/atomic_queue) ⭐ 1,852 | 🐛 1 | 🌐 C++ | 📅 2026-05-08 - C++14 multiple-producer-multiple-consumer lock-free queues based on circular buffers and std::atomic. \[MIT]
 * [moderngpu](https://github.com/moderngpu/moderngpu) ⭐ 1,773 | 🐛 12 | 🌐 C++ | 📅 2026-01-17 - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 * [Boost.Compute](https://github.com/boostorg/compute) ⭐ 1,652 | 🐛 157 | 🌐 C++ | 📅 2026-04-22 - A C++ GPU Computing Library for OpenCL. \[Boost] [website](https://boost.org/libs/compute)
 * [junction](https://github.com/preshing/junction) ⭐ 1,450 | 🐛 18 | 🌐 C++ | 📅 2020-10-01 - A library of concurrent data structures in C++. \[BSD]
-* [Async++](https://github.com/Amanieu/asyncplusplus) ⭐ 1,418 | 🐛 14 | 🌐 C++ | 📅 2024-10-11 - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
-* [Neco](https://github.com/tidwall/neco) ⭐ 1,353 | 🐛 6 | 🌐 C | 📅 2024-07-26 - Concurrency library for C (coroutines). \[MIT]
-* [stdgpu](https://github.com/stotko/stdgpu) ⭐ 1,261 | 🐛 12 | 🌐 C++ | 📅 2026-04-10 - Efficient STL-like Data Structures on the GPU. \[Apache2]
+* [Async++](https://github.com/Amanieu/asyncplusplus) ⭐ 1,417 | 🐛 14 | 🌐 C++ | 📅 2024-10-11 - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. \[MIT]
+* [Neco](https://github.com/tidwall/neco) ⭐ 1,354 | 🐛 6 | 🌐 C | 📅 2024-07-26 - Concurrency library for C (coroutines). \[MIT]
+* [stdgpu](https://github.com/stotko/stdgpu) ⭐ 1,259 | 🐛 12 | 🌐 C++ | 📅 2026-04-10 - Efficient STL-like Data Structures on the GPU. \[Apache2]
 * [C++React](https://github.com/schlangster/cpp.react) ⭐ 1,040 | 🐛 19 | 🌐 C++ | 📅 2021-05-17 - A reactive programming library for C++11. \[Boost]
 * [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) ⭐ 979 | 🐛 17 | 🌐 C++ | 📅 2025-03-21 - Task-based multi-threading library that supports task graphs with arbitrary dependencies. \[Apache]
-* [cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers) ⭐ 885 | 🐛 89 | 🌐 C++ | 📅 2026-05-01 - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
-* [libfork](https://github.com/ConorWilliams/libfork) ⭐ 861 | 🐛 9 | 🌐 C++ | 📅 2026-05-08 - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
+* [cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers) ⭐ 885 | 🐛 94 | 🌐 C++ | 📅 2026-05-09 - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+* [libfork](https://github.com/ConorWilliams/libfork) ⭐ 861 | 🐛 9 | 🌐 C++ | 📅 2026-05-09 - A bleeding-edge, lock-free, wait-free, continuation-stealing tasking library built on C++20's coroutines. \[MPL-2.0] [website](https://conorwilliams.github.io/libfork/)
 * [Intel Parallel STL](https://github.com/intel/parallelstl) ⭐ 766 | 🐛 206 | 🌐 C++ | 📅 2026-05-08 - Intel® implementation of C++17 STL for C++11 and above. \[Apache2]
 * [VexCL](https://github.com/ddemidov/vexcl) ⭐ 718 | 🐛 31 | 🌐 C++ | 📅 2025-07-19 - A C++ vector expression template library for OpenCL/CUDA. \[MIT]
 * [transwarp](https://github.com/bloomen/transwarp) ⭐ 632 | 🐛 2 | 🌐 C++ | 📅 2023-05-18 - A header-only C++ library for task concurrency. \[MIT]
 * [Quantum](https://github.com/bloomberg/quantum) ⭐ 628 | 🐛 7 | 🌐 C++ | 📅 2026-04-08 - A powerful C++ coroutine dispatcher framework built on top of [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer) ⭐ 603 | 🐛 10 | 🌐 C++ | 📅 2026-02-10 - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
-* [Channel](https://github.com/andreiavrammsd/cpp-channel) ⭐ 582 | 🐛 15 | 🌐 C++ | 📅 2025-07-18 - Thread-safe container for sharing data between threads. \[MIT]
+* [Channel](https://github.com/andreiavrammsd/cpp-channel) ⭐ 583 | 🐛 15 | 🌐 C++ | 📅 2025-07-18 - Thread-safe container for sharing data between threads. \[MIT]
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler) ⚠️ Archived - A task scheduling framework designed for the needs of game developers. \[MIT]
 * [rotor](https://github.com/basiliscos/cpp-rotor) ⭐ 380 | 🐛 2 | 🌐 C++ | 📅 2026-04-11 - Event loop friendly C++ actor micro framework. \[MIT]
 * [Bolt](https://github.com/HSA-Libraries/Bolt) ⭐ 379 | 🐛 24 | 🌐 C++ | 📅 2016-02-11 - A C++ template library optimized for GPUs. \[Apache2]
 * [Coros](https://github.com/mtmucha/coros) ⭐ 332 | 🐛 1 | 🌐 C++ | 📅 2024-09-13 - An easy-to-use and fast library for task-based parallelism, utilizing coroutines. \[BSL-1.0]
 * [dispenso](https://github.com/facebookincubator/dispenso) ⭐ 280 | 🐛 7 | 🌐 C++ | 📅 2026-05-07 - A high-performance C++ library for parallel programming with thread pools, parallel for loops, futures, task graphs, and concurrent containers. \[MIT]
-* [TooManyCooks](https://github.com/tzcnt/TooManyCooks/) ⭐ 218 | 🐛 16 | 🌐 C++ | 📅 2026-05-09 - High-performance C++20 coroutine framework with advanced hardware detection features. \[BSL-1.0]
+* [TooManyCooks](https://github.com/tzcnt/TooManyCooks/) ⭐ 218 | 🐛 17 | 🌐 C++ | 📅 2026-05-10 - High-performance C++20 coroutine framework with advanced hardware detection features. \[BSL-1.0]
 * [CUB](https://github.com/NVlabs/cub) ⚠️ Archived - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) ⭐ 52 | 🐛 11 | 🌐 C++ | 📅 2016-03-19 - An OpenCL based GPU accelerated SPH fluid simulation library. \[MIT]
 * [nvthreads](https://github.com/HewlettPackard/nvthreads) ⭐ 26 | 🐛 2 | 🌐 C | 📅 2017-08-02 - A library for enabling efficient and persistent threading in C/C++. \[LGPL-2.1]
@@ -374,28 +374,28 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Configuration files, INI files*
 
-* [inih](https://github.com/benhoyt/inih) ⭐ 2,973 | 🐛 5 | 🌐 C++ | 📅 2026-01-30 - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
-* [toml++](https://github.com/marzer/tomlplusplus) ⭐ 2,048 | 🐛 25 | 🌐 C++ | 📅 2026-05-08 - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+* [inih](https://github.com/benhoyt/inih) ⭐ 2,975 | 🐛 5 | 🌐 C++ | 📅 2026-01-30 - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
+* [toml++](https://github.com/marzer/tomlplusplus) ⭐ 2,050 | 🐛 26 | 🌐 C++ | 📅 2026-05-08 - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 * [simpleini](https://github.com/brofield/simpleini) ⭐ 1,304 | 🐛 2 | 🌐 C++ | 📅 2026-03-16 - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
-* [toml11](https://github.com/ToruNiina/toml11) ⭐ 1,269 | 🐛 36 | 🌐 C++ | 📅 2025-12-03 -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
+* [toml11](https://github.com/ToruNiina/toml11) ⭐ 1,270 | 🐛 36 | 🌐 C++ | 📅 2025-12-03 -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. \[MIT]
 * [libconfig](https://github.com/hyperrealm/libconfig) ⭐ 1,209 | 🐛 35 | 🌐 C | 📅 2026-02-09 - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [iniparser](https://github.com/ndevilla/iniparser) ⭐ 1,069 | 🐛 6 | 🌐 C | 📅 2025-10-29 - INI file parser. \[MIT]
 * [mINI](https://github.com/metayeti/mINI) ⭐ 645 | 🐛 4 | 🌐 C++ | 📅 2025-03-30 - INI file reader and writer. \[MIT]
 * [libconfuse](https://github.com/martinh/libconfuse) ⭐ 510 | 🐛 18 | 🌐 C | 📅 2025-05-06 - Small configuration file parser library for C. \[ISC]
-* [inih](https://github.com/jtilly/inih) ⭐ 450 | 🐛 0 | 🌐 C++ | 📅 2024-09-18 - Single header only C++ version of [inih](https://github.com/benhoyt/inih) ⭐ 2,973 | 🐛 5 | 🌐 C++ | 📅 2026-01-30. \[BSD-3-Clause]
+* [inih](https://github.com/jtilly/inih) ⭐ 450 | 🐛 0 | 🌐 C++ | 📅 2024-09-18 - Single header only C++ version of [inih](https://github.com/benhoyt/inih) ⭐ 2,975 | 🐛 5 | 🌐 C++ | 📅 2026-01-30. \[BSD-3-Clause]
 * [inifile-cpp](https://github.com/Rookfighter/inifile-cpp) ⭐ 416 | 🐛 8 | 🌐 C++ | 📅 2025-02-11 - A header-only and easy to use Ini file parser for C++. \[MIT]
 * [inipp](https://github.com/mcmtroffaes/inipp) ⭐ 312 | 🐛 0 | 🌐 C++ | 📅 2025-08-02 - Simple header-only C++ ini parser and generator. \[MIT]
-* [ini-cpp](https://github.com/SSARCandy/ini-cpp) ⭐ 49 | 🐛 2 | 🌐 C++ | 📅 2024-12-15 - Single header only C++ version, with some handy read/write interface, extend from [inih](https://github.com/benhoyt/inih) ⭐ 2,973 | 🐛 5 | 🌐 C++ | 📅 2026-01-30. \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
+* [ini-cpp](https://github.com/SSARCandy/ini-cpp) ⭐ 49 | 🐛 2 | 🌐 C++ | 📅 2024-12-15 - Single header only C++ version, with some handy read/write interface, extend from [inih](https://github.com/benhoyt/inih) ⭐ 2,975 | 🐛 5 | 🌐 C++ | 📅 2026-01-30. \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
 
 ## Containers
 
-* [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) ⭐ 3,177 | 🐛 4 | 🌐 C++ | 📅 2026-04-08 - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
+* [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) ⭐ 3,178 | 🐛 4 | 🌐 C++ | 📅 2026-04-08 - A family of header-only, very fast and memory-friendly hashmap and btree containers \[Apache2] [website](https://greg7mdp.github.io/parallel-hashmap/)
 * [flat\_hash\_map](https://github.com/skarupke/flat_hash_map) ⭐ 1,847 | 🐛 42 | 🌐 C++ | 📅 2023-09-27 - A very fast flat hashtable with Fibonacci hashing.
 * [CRoaring](https://github.com/RoaringBitmap/CRoaring) ⭐ 1,823 | 🐛 64 | 🌐 C | 📅 2026-05-02 - Roaring bitmaps in C (and C++), with SIMD optimizations. \[Apache-2.0]
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) ⚠️ Archived - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-* [frozen](https://github.com/serge-sans-paille/frozen) ⭐ 1,541 | 🐛 31 | 🌐 C++ | 📅 2026-04-20 - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
+* [frozen](https://github.com/serge-sans-paille/frozen) ⭐ 1,542 | 🐛 31 | 🌐 C++ | 📅 2026-04-20 - a header-only, constexpr alternative to gperf for C++14 users. \[Apache-2.0]
 * [robin-map](https://github.com/Tessil/robin-map) ⭐ 1,474 | 🐛 15 | 🌐 C++ | 📅 2025-11-02 - Fast hash map and hash set using robin hood hashing. \[MIT]
-* [unordered\_dense](https://github.com/martinus/unordered_dense) ⭐ 1,379 | 🐛 10 | 🌐 C++ | 📅 2026-02-04 - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
+* [unordered\_dense](https://github.com/martinus/unordered_dense) ⭐ 1,381 | 🐛 10 | 🌐 C++ | 📅 2026-02-04 - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. \[MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp) ⭐ 1,305 | 🐛 4 | 🌐 C++ | 📅 2025-05-19 - A fast, memory efficient hash map for C++. \[BSD 3-clause]
 * [PGM-index](https://github.com/gvinciguerra/PGM-index) ⭐ 869 | 🐛 12 | 🌐 C++ | 📅 2024-11-28 - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 * [hat-trie](https://github.com/Tessil/hat-trie) ⭐ 865 | 🐛 15 | 🌐 C++ | 📅 2025-11-11 - C++ implementation of a fast and memory efficient HAT-trie. \[MIT]
@@ -422,20 +422,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Cryptography and Encryption Libraries*
 
-* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,117 | 🐛 1,612 | 🌐 C | 📅 2026-05-08 - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
-* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,667 | 🐛 1 | 🌐 C | 📅 2026-05-04 - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
+* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,122 | 🐛 1,617 | 🌐 C | 📅 2026-05-08 - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+* [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,669 | 🐛 1 | 🌐 C | 📅 2026-05-04 - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
 * [Tink](https://github.com/google/tink) ⚠️ Archived - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
-* [mbedTLS](https://github.com/ARMmbed/mbedtls) ⭐ 6,646 | 🐛 1,630 | 🌐 C | 📅 2026-05-07 - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+* [mbedTLS](https://github.com/ARMmbed/mbedtls) ⭐ 6,648 | 🐛 1,630 | 🌐 C | 📅 2026-05-07 - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 * [Crypto++](https://github.com/weidai11/cryptopp) ⭐ 5,452 | 🐛 83 | 🌐 C++ | 📅 2026-02-27 - A free C++ class library of cryptographic schemes. \[Boost] [website](http://www.cryptopp.com/)
-* [Tiny AES in C](https://github.com/kokke/tiny-AES-c) ⭐ 4,945 | 🐛 34 | 🌐 C | 📅 2024-10-04 - Small portable AES128/192/256 in C. \[PublicDomain]
+* [Tiny AES in C](https://github.com/kokke/tiny-AES-c) ⭐ 4,949 | 🐛 34 | 🌐 C | 📅 2024-10-04 - Small portable AES128/192/256 in C. \[PublicDomain]
 * [s2n](https://github.com/awslabs/s2n) ⭐ 4,717 | 🐛 313 | 🌐 C | 📅 2026-05-08 - An implementation of the TLS/SSL protocols. \[Apache]
 * [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) ⭐ 2,015 | 🐛 33 | 🌐 C | 📅 2020-12-28 - Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. \[PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis) ⭐ 1,963 | 🐛 31 | 🌐 C | 📅 2026-04-24 - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
-* [LibTomCrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,762 | 🐛 57 | 🌐 C | 📅 2026-05-07 - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,763 | 🐛 57 | 🌐 C | 📅 2026-05-07 - A fairly comprehensive, modular and portable cryptographic toolkit. \[WTFPL]
 * [micro-ecc](https://github.com/kmackay/micro-ecc) ⭐ 1,402 | 🐛 62 | 🌐 PHP | 📅 2024-11-14 - A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. \[BSD-2-Clause]
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) ⭐ 1,395 | 🐛 15 | 🌐 C | 📅 2025-10-30 - Library and command line tool to detect SHA-1 collision in a file. \[MIT]
-* [stduuid](https://github.com/mariusbancila/stduuid) ⭐ 888 | 🐛 25 | 🌐 C++ | 📅 2024-06-26 - A C++17 cross-platform implementation for UUIDs. \[MIT]
-* [libhydrogen](https://github.com/jedisct1/libhydrogen) ⭐ 765 | 🐛 1 | 🌐 C | 📅 2026-04-30 - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+* [stduuid](https://github.com/mariusbancila/stduuid) ⭐ 889 | 🐛 25 | 🌐 C++ | 📅 2024-06-26 - A C++17 cross-platform implementation for UUIDs. \[MIT]
+* [libhydrogen](https://github.com/jedisct1/libhydrogen) ⭐ 766 | 🐛 2 | 🌐 C | 📅 2026-04-30 - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 * [tiny-ECDH-c](https://github.com/kokke/tiny-ECDH-c) ⭐ 296 | 🐛 17 | 🌐 C | 📅 2022-05-27 - Small and portable implementation of the ECDH key agreement protocol in C. \[PublicDomain]
 * [Qt-Secret](https://github.com/QuasarApp/Qt-Secret) ⚠️ Archived - Simple encryption library based on Qt for C++ projects. \[LGPL]
 * [digestpp](https://github.com/kerukuro/digestpp) ⭐ 204 | 🐛 4 | 🌐 C++ | 📅 2026-02-14 - C++11 header-only message digest (hash) library. \[PublicDomain]
@@ -455,51 +455,51 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Libraries for parsing Comma Separated Value (CSV) files*
 
-* [Glaze](https://github.com/stephenberry/glaze) ⭐ 2,750 | 🐛 36 | 🌐 C++ | 📅 2026-05-08 - High performance, header only, CSV library with reflection support. \[MIT]
+* [Glaze](https://github.com/stephenberry/glaze) ⭐ 2,751 | 🐛 34 | 🌐 C++ | 📅 2026-05-09 - High performance, header only, CSV library with reflection support. \[MIT]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) ⭐ 2,351 | 🐛 27 | 🌐 C++ | 📅 2025-02-02 - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
-* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) ⭐ 1,087 | 🐛 2 | 🌐 C++ | 📅 2026-05-09 - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
-* [rapidcsv](https://github.com/d99kris/rapidcsv) ⭐ 1,053 | 🐛 2 | 🌐 C++ | 📅 2026-04-12 - An easy-to-use, header-only C++ CSV parser library. \[BSD-3-Clause]
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) ⭐ 1,091 | 🐛 0 | 🌐 C++ | 📅 2026-05-09 - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+* [rapidcsv](https://github.com/d99kris/rapidcsv) ⭐ 1,054 | 🐛 2 | 🌐 C++ | 📅 2026-04-12 - An easy-to-use, header-only C++ CSV parser library. \[BSD-3-Clause]
 * [csv2](https://github.com/p-ranav/csv2) ⭐ 623 | 🐛 21 | 🌐 C++ | 📅 2023-12-23 - Fast CSV parser for modern C++. \[MIT]
 * [zsv](https://github.com/liquidaty/zsv) ⭐ 387 | 🐛 30 | 🌐 C | 📅 2026-05-06 - The world's fastest (simd) CSV parser, with an extensible CLI. \[MIT]
 * [lazycsv](https://github.com/ashtum/lazycsv) ⭐ 93 | 🐛 0 | 🌐 C++ | 📅 2026-02-13 - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
 * [ssp](https://github.com/red0124/ssp) ⭐ 58 | 🐛 0 | 🌐 C++ | 📅 2025-07-05 - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 * [Csv::Parser](https://github.com/ashaduri/csv-parser) ⭐ 34 | 🐛 0 | 🌐 C++ | 📅 2025-05-09 - Compile-time and runtime CSV parser written in C++17. \[Zlib]
-* [commata](https://github.com/furfurylic/commata) ⭐ 18 | 🐛 1 | 🌐 C++ | 📅 2026-05-09 - Just another header-only C++17 CSV parser. \[Unlicense]
+* [commata](https://github.com/furfurylic/commata) ⭐ 18 | 🐛 0 | 🌐 C++ | 📅 2026-05-10 - Just another header-only C++17 CSV parser. \[Unlicense]
 
 ## Database
 
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
-* [LevelDB](https://github.com/google/leveldb) ⭐ 39,015 | 🐛 387 | 🌐 C++ | 📅 2026-03-11 - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
-* [RocksDB](https://github.com/facebook/rocksdb) ⭐ 31,659 | 🐛 1,499 | 🌐 C++ | 📅 2026-05-09 - Embedded key-value store for fast storage from facebook. \[BSD]
-* [Hiredis](https://github.com/redis/hiredis) ⭐ 6,645 | 🐛 73 | 🌐 C | 📅 2026-03-22 - A minimalistic C client library for the Redis database. \[BSD]
-* [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,507 | 🐛 57 | 🌐 C++ | 📅 2026-05-07 - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
-* [Kvrocks](https://github.com/apache/incubator-kvrocks) ⭐ 4,307 | 🐛 223 | 🌐 C++ | 📅 2026-05-06 - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
-* [Velox](https://github.com/facebookincubator/velox) ⭐ 4,121 | 🐛 1,578 | 🌐 C++ | 📅 2026-05-09 - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
+* [LevelDB](https://github.com/google/leveldb) ⭐ 39,013 | 🐛 387 | 🌐 C++ | 📅 2026-03-11 - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+* [RocksDB](https://github.com/facebook/rocksdb) ⭐ 31,663 | 🐛 1,499 | 🌐 C++ | 📅 2026-05-09 - Embedded key-value store for fast storage from facebook. \[BSD]
+* [Hiredis](https://github.com/redis/hiredis) ⭐ 6,646 | 🐛 73 | 🌐 C | 📅 2026-03-22 - A minimalistic C client library for the Redis database. \[BSD]
+* [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,509 | 🐛 58 | 🌐 C++ | 📅 2026-05-07 - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. \[Apache2]
+* [Kvrocks](https://github.com/apache/incubator-kvrocks) ⭐ 4,308 | 🐛 223 | 🌐 C++ | 📅 2026-05-06 - A distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. \[Apache2]
+* [Velox](https://github.com/facebookincubator/velox) ⭐ 4,122 | 🐛 1,568 | 🌐 C++ | 📅 2026-05-10 - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. \[Apache-2.0] [website](https://velox-lib.io/)
 * [Kuzu](https://github.com/kuzudb/kuzu) ⚠️ Archived - Embeddable property graph database management system built for query speed and scalability. Implements Cypher. \[MIT] [website](https://kuzudb.com/)
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) ⭐ 2,705 | 🐛 95 | 🌐 C | 📅 2026-04-02 - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. \[MIT]
-* [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,651 | 🐛 20 | 🌐 C++ | 📅 2026-05-08 - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
+* [sqlite\_orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,653 | 🐛 21 | 🌐 C++ | 📅 2026-05-08 - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
 * [sqlpp11](https://github.com/rbock/sqlpp11) ⭐ 2,615 | 🐛 3 | 🌐 C++ | 📅 2026-04-24 - A type safe embedded domain specific language for SQL queries and results in C++. \[BSD-2-Clause]
 * [UnQLite](https://github.com/symisc/unqlite) ⭐ 2,304 | 🐛 31 | 🌐 C | 📅 2026-05-01 - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.symisc.net/)
 * [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,055 | 🐛 115 | 🌐 C++ | 📅 2026-04-23 - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
-* [SOCI](https://github.com/SOCI/soci) ⭐ 1,593 | 🐛 139 | 🌐 C++ | 📅 2026-03-19 - A database abstraction layer for C++. \[Boost]
+* [SOCI](https://github.com/SOCI/soci) ⭐ 1,594 | 🐛 139 | 🌐 C++ | 📅 2026-03-19 - A database abstraction layer for C++. \[Boost]
 * [libpg\_query](https://github.com/pganalyze/libpg_query) ⭐ 1,455 | 🐛 52 | 🌐 C | 📅 2026-02-07 - C library for accessing the PostgreSQL parser outside of the server environment. \[BSD-3-Clause]
-* [libpqxx](https://github.com/jtv/libpqxx) ⭐ 1,316 | 🐛 6 | 🌐 C++ | 📅 2026-05-08 - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+* [libpqxx](https://github.com/jtv/libpqxx) ⭐ 1,317 | 🐛 6 | 🌐 C++ | 📅 2026-05-08 - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver) ⭐ 1,100 | 🐛 4 | 🌐 C++ | 📅 2026-05-08 - C++ driver for MongoDB. \[Apache2]
-* [Ladybug](https://github.com/LadybugDB/ladybug) ⭐ 1,093 | 🐛 70 | 🌐 C++ | 📅 2026-05-09 - an embedded graph database built for query speed and scalability. \[MIT] [website](https://ladybugdb.com/)
+* [Ladybug](https://github.com/LadybugDB/ladybug) ⭐ 1,099 | 🐛 69 | 🌐 C++ | 📅 2026-05-09 - an embedded graph database built for query speed and scalability. \[MIT] [website](https://ladybugdb.com/)
 * [Speedb](https://github.com/speedb-io/speedb) ⭐ 1,007 | 🐛 146 | 🌐 C++ | 📅 2024-06-12 - Community-led project: A RocksDB compliant high performance scalable embedded key-value store. \[Apache2]
 * [sqlite\_modern\_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) ⭐ 947 | 🐛 43 | 🌐 C++ | 📅 2024-07-23 - Header only C++14 wrapper around sqlite library. \[MIT]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) ⭐ 868 | 🐛 6 | 🌐 C | 📅 2026-05-08 - MongoDB client library for C. \[Apache2]
-* [Reindexer](https://github.com/Restream/reindexer) ⭐ 803 | 🐛 19 | 🌐 C++ | 📅 2026-05-09 - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
+* [Reindexer](https://github.com/Restream/reindexer) ⭐ 803 | 🐛 19 | 🌐 C++ | 📅 2026-05-10 - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. \[Apache2] [website](https://reindexer.io/)
 * [Trilogy](https://github.com/trilogy-libraries/trilogy) ⭐ 770 | 🐛 18 | 🌐 C | 📅 2026-04-25 - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. \[MIT]
 * [hiberlite](https://github.com/paulftw/hiberlite) ⭐ 722 | 🐛 14 | 🌐 C++ | 📅 2023-07-24 - C++ Object-relational mapping for sqlite3. \[BSD]
 * [UStore](https://github.com/unum-cloud/ustore) ⭐ 632 | 🐛 29 | 🌐 C++ | 📅 2023-09-01 - Multi-Modal database for BLOBs, JSON, and graphs. \[Apache2]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) ⭐ 560 | 🐛 8 | 🌐 C++ | 📅 2024-01-05 - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store. \[Apache2]
-* [TidesDB](https://github.com/tidesdb/tidesdb) ⭐ 514 | 🐛 6 | 🌐 C | 📅 2026-05-08 - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
+* [TidesDB](https://github.com/tidesdb/tidesdb) ⭐ 514 | 🐛 5 | 🌐 C | 📅 2026-05-09 - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. \[MPL-2.0] [website](https://tidesdb.com/)
 * [NuDB](https://github.com/cppalliance/NuDB) ⭐ 409 | 🐛 37 | 🌐 C++ | 📅 2025-04-30 - A fast, append-only key/value store for SSD drives. \[Boost]
 * [nanodbc](https://github.com/nanodbc/nanodbc) ⭐ 380 | 🐛 66 | 🌐 C++ | 📅 2025-12-28 - A small C++ wrapper for the native C ODBC API. \[MIT]
 * [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) ⭐ 367 | 🐛 64 | 🌐 C | 📅 2026-05-08 - C++ client for ClickHouse DBMS. \[Apache2]
-* [TinyORM](https://github.com/silverqx/TinyORM) ⭐ 350 | 🐛 15 | 🌐 C++ | 📅 2025-04-02 - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
+* [TinyORM](https://github.com/silverqx/TinyORM) ⭐ 349 | 🐛 15 | 🌐 C++ | 📅 2025-04-02 - Modern C++ ORM library. \[MIT] [website](https://www.tinyorm.org/)
 * [MongoDB Libbson](https://github.com/mongodb/libbson) ⚠️ Archived - A BSON utility library. \[Apache2]
 * [LMDB++](https://github.com/bendiken/lmdbxx) ⭐ 283 | 🐛 23 | 🌐 C++ | 📅 2020-11-12 - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 * [CrossDB](https://github.com/crossdb-org/crossdb) ⭐ 257 | 🐛 2 | 🌐 C | 📅 2025-06-20 - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. \[MPL-2.0] [website](https://crossdb.org/)
@@ -520,36 +520,36 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Data visualization Libraries*
 
-* [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) ⭐ 4,874 | 🐛 80 | 🌐 C++ | 📅 2026-04-02 - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+* [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) ⭐ 4,873 | 🐛 80 | 🌐 C++ | 📅 2026-04-02 - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 * [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) ⭐ 4,754 | 🐛 223 | 🌐 C++ | 📅 2023-11-21 - A C++ wrapper around the matplotlib Python plotting library. \[MIT]
-* [Plotly++](https://github.com/jimmyorourke/plotlypp) ⭐ 141 | 🐛 1 | 🌐 C++ | 📅 2026-02-06 - A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. \[MIT]
-* [mathplot](https://github.com/sebsjames/mathplot) ⭐ 57 | 🐛 32 | 🌐 C++ | 📅 2026-05-08 - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
-* [gplot++](https://github.com/ziotom78/gplotpp) ⭐ 33 | 🐛 1 | 🌐 C++ | 📅 2026-01-08 - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. \[MIT]
+* [Plotly++](https://github.com/jimmyorourke/plotlypp) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2026-02-06 - A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. \[MIT]
+* [mathplot](https://github.com/sebsjames/mathplot) ⭐ 57 | 🐛 33 | 🌐 C++ | 📅 2026-05-08 - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
+* [gplot++](https://github.com/ziotom78/gplotpp) ⭐ 33 | 🐛 2 | 🌐 C++ | 📅 2026-01-08 - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. \[MIT]
 
 ## Debug
 
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
 
-* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 38,583 | 🐛 547 | 🌐 C++ | 📅 2026-03-31 - A library for writing and using C++ mock classes. \[BSD]
-* [Google Test](https://github.com/google/googletest) ⭐ 38,583 | 🐛 547 | 🌐 C++ | 📅 2026-03-31 - Google C++ Testing Framework. \[BSD]
-* [Catch2](https://github.com/catchorg/Catch2) ⭐ 20,368 | 🐛 429 | 🌐 C++ | 📅 2026-05-08 - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
-* [benchmark](https://github.com/google/benchmark) ⭐ 10,184 | 🐛 185 | 🌐 C++ | 📅 2026-05-07 - Google provided small microbenchmark support library. \[Apache2]
+* [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) ⭐ 38,582 | 🐛 548 | 🌐 C++ | 📅 2026-03-31 - A library for writing and using C++ mock classes. \[BSD]
+* [Google Test](https://github.com/google/googletest) ⭐ 38,582 | 🐛 548 | 🌐 C++ | 📅 2026-03-31 - Google C++ Testing Framework. \[BSD]
+* [Catch2](https://github.com/catchorg/Catch2) ⭐ 20,371 | 🐛 429 | 🌐 C++ | 📅 2026-05-09 - A modern, C++-native, test framework for unit-tests, TDD and BDD. \[Boost]
+* [benchmark](https://github.com/google/benchmark) ⭐ 10,187 | 🐛 185 | 🌐 C++ | 📅 2026-05-07 - Google provided small microbenchmark support library. \[Apache2]
 * [doctest](https://github.com/onqtam/doctest) ⭐ 6,710 | 🐛 128 | 🌐 C++ | 📅 2026-04-22 - The lightest feature rich C++ single header testing framework. \[MIT]
-* [Unity](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,199 | 🐛 109 | 🌐 C | 📅 2026-03-27 - Simple Unit Testing for C. \[MIT]
-* [backward-cpp](https://github.com/bombela/backward-cpp) ⭐ 4,277 | 🐛 123 | 🌐 C++ | 📅 2025-04-14 - A beautiful stack trace pretty printer for C++. \[MIT]
-* [heaptrack](https://github.com/KDE/heaptrack) ⭐ 4,072 | 🐛 4 | 🌐 C++ | 📅 2026-05-04 - A heap memory profiler for Linux. \[LGPL-2.1]
+* [Unity](https://github.com/ThrowTheSwitch/Unity) ⭐ 5,202 | 🐛 109 | 🌐 C | 📅 2026-03-27 - Simple Unit Testing for C. \[MIT]
+* [backward-cpp](https://github.com/bombela/backward-cpp) ⭐ 4,276 | 🐛 123 | 🌐 C++ | 📅 2025-04-14 - A beautiful stack trace pretty printer for C++. \[MIT]
+* [heaptrack](https://github.com/KDE/heaptrack) ⭐ 4,073 | 🐛 4 | 🌐 C++ | 📅 2026-05-04 - A heap memory profiler for Linux. \[LGPL-2.1]
 * [Remotery](https://github.com/Celtoys/Remotery) ⭐ 3,295 | 🐛 38 | 🌐 C | 📅 2024-08-28 - Single C File Profiler with Web Viewer. \[Apache2]
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) ⭐ 3,229 | 🐛 8 | 🌐 C++ | 📅 2026-02-14 - A dbg(…) macro for C++. \[MIT]
-* [MTuner](https://github.com/milostosic/MTuner) ⭐ 2,774 | 🐛 4 | 🌐 C++ | 📅 2026-03-28 - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. \[BSD-2-Clause]
+* [MTuner](https://github.com/milostosic/MTuner) ⭐ 2,773 | 🐛 4 | 🌐 C++ | 📅 2026-03-28 - A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. \[BSD-2-Clause]
 * [nanobench](https://github.com/martinus/nanobench) ⭐ 1,693 | 🐛 33 | 🌐 C++ | 📅 2024-10-06 - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 * [microprofile](https://github.com/jonasmr/microprofile) ⭐ 1,583 | 🐛 28 | 🌐 C | 📅 2026-01-28 - Profiler with web-view for multiple platforms. \[Unlicense]
-* [CppUTest](https://github.com/cpputest/cpputest) ⭐ 1,473 | 🐛 193 | 🌐 C++ | 📅 2026-01-25 - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
-* [Cpptrace](https://github.com/jeremy-rifkin/cpptrace) ⭐ 1,429 | 🐛 20 | 🌐 C++ | 📅 2026-03-13 - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
+* [CppUTest](https://github.com/cpputest/cpputest) ⭐ 1,473 | 🐛 194 | 🌐 C++ | 📅 2026-01-25 - Unit testing and mocking framework for C/C++. \[BSD-3-clause]
+* [Cpptrace](https://github.com/jeremy-rifkin/cpptrace) ⭐ 1,430 | 🐛 20 | 🌐 C++ | 📅 2026-03-13 - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. \[MIT]
 * [μt](https://github.com/boost-experimental/ut) ⭐ 1,426 | 🐛 98 | 🌐 C++ | 📅 2026-02-14 - C++20 single header/single module, macro-free μ(micro)/Unit Testing Framework. \[Boost]
 * [FakeIt](https://github.com/eranpeer/FakeIt) ⭐ 1,358 | 🐛 74 | 🌐 C++ | 📅 2026-01-28 - Simple mocking framework for C++. \[MIT]
-* [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) ⭐ 1,242 | 🐛 87 | 🌐 C++ | 📅 2026-04-25 - Debug logging viewer. \[Boost]
+* [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) ⭐ 1,243 | 🐛 88 | 🌐 C++ | 📅 2026-04-25 - Debug logging viewer. \[Boost]
 * [check](https://github.com/libcheck/check) ⭐ 1,161 | 🐛 97 | 🌐 C | 📅 2024-07-12 - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
-* [utest.h](https://github.com/sheredom/utest.h) ⭐ 966 | 🐛 14 | 🌐 C++ | 📅 2026-03-09 - Single header unit testing framework for C and C++. \[Unlicense]
+* [utest.h](https://github.com/sheredom/utest.h) ⭐ 967 | 🐛 14 | 🌐 C++ | 📅 2026-03-09 - Single header unit testing framework for C and C++. \[Unlicense]
 * [fff](https://github.com/meekrosoft/fff) ⭐ 913 | 🐛 59 | 🌐 C | 📅 2023-11-02 - A micro-framework for creating fake C functions. \[MIT]
 * [Celero](https://github.com/DigitalInBlue/Celero) ⭐ 861 | 🐛 5 | 🌐 C++ | 📅 2026-03-16 - C++ Benchmarking Framework. \[Apache2]
 * [IceCream-Cpp](https://github.com/renatoGarcia/icecream-cpp) ⭐ 740 | 🐛 1 | 🌐 C++ | 📅 2026-04-22 - Never use cout/printf to debug again  \[MIT]
@@ -579,9 +579,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Documentation
 
-* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 7,812 | 🐛 1,467 | 🌐 Python | 📅 2026-05-03 - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
-* [doxygen](https://github.com/doxygen/doxygen) ⭐ 6,451 | 🐛 1,876 | 🌐 C++ | 📅 2026-05-07 :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
-* [hdoc](https://github.com/hdoc/hdoc) ⭐ 337 | 🐛 17 | 🌐 C++ | 📅 2024-08-07 - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
+* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 7,815 | 🐛 1,467 | 🌐 Python | 📅 2026-05-03 - Sphinx makes it easy to create intelligent and beautiful documentation. \[BSD-2-Clause] [website](https://www.sphinx-doc.org)
+* [doxygen](https://github.com/doxygen/doxygen) ⭐ 6,452 | 🐛 1,874 | 🌐 C++ | 📅 2026-05-09 :zap: - The de facto standard tool for generating documentation from annotated C++ sources. \[GPL2] [website](https://www.doxygen.org)
+* [hdoc](https://github.com/hdoc/hdoc) ⭐ 338 | 🐛 17 | 🌐 C++ | 📅 2024-08-07 - The modern documentation tool for C++. \[AGPL/Proprietary] [website](https://hdoc.io)
 * [doxyrest](https://github.com/vovkos/doxyrest) ⭐ 310 | 🐛 16 | 🌐 C++ | 📅 2026-03-27 - A compiler from Doxygen XML to reStructuredText for Sphinx. \[MIT]
 * [Natural Docs](https://github.com/NaturalDocs/NaturalDocs) ⭐ 224 | 🐛 35 | 🌐 C# | 📅 2026-05-04 - Natural Docs is an open source documentation generator for multiple programming languages. \[AGPL/Proprietary] [website](https://www.naturaldocs.org)
 * [Doxide](https://github.com/lawmurray/doxide) ⭐ 137 | 🐛 13 | 🌐 C++ | 📅 2026-05-02 - Modern documentation for modern C++, configure with YAML, output Markdown. \[Apache 2.0] [website](https://doxide.org)
@@ -591,19 +591,19 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Digital signal processing.*
 
 * [DSPFilters](https://github.com/vinniefalco/DSPFilters) ⭐ 2,050 | 🐛 39 | 🌐 C++ | 📅 2023-08-05 - A collection of useful C++ classes for digital signal processing. \[MIT]
-* [kissfft](https://github.com/mborgerding/kissfft) ⭐ 1,904 | 🐛 39 | 🌐 C | 📅 2026-04-22 - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
+* [kissfft](https://github.com/mborgerding/kissfft) ⭐ 1,906 | 🐛 39 | 🌐 C | 📅 2026-04-22 - A Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid. \[BSD-3-Clause]
 * [iir1](https://github.com/berndporr/iir1) ⭐ 759 | 🐛 0 | 🌐 C++ | 📅 2025-07-07 - IIR Realtime C++ filter library. \[MIT]
 * [wavelib](https://github.com/rafat/wavelib) ⭐ 430 | 🐛 23 | 🌐 C | 📅 2025-12-12 - C implementation of 1D and 2D wavelet transforms. \[BSD-3-Clause]
 * [fCWT](https://github.com/fastlib/fCWT) ⭐ 392 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 - The fast Continuous Wavelet Transform (fCWT) is a library for fast calculation of CWT. \[Apache-2.0]
-* [pocketfft](https://github.com/mreineck/pocketfft) ⭐ 141 | 🐛 8 | 🌐 C++ | 📅 2026-05-01 - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
+* [pocketfft](https://github.com/mreineck/pocketfft) ⭐ 142 | 🐛 8 | 🌐 C++ | 📅 2026-05-01 - FFT implementation based on FFTPack, but with several improvements. \[BSD-3-Clause]
 * [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. \[GPL]
 
 ## Font
 
 *Libraries for parsing and manipulating font files.*
 
-* [harfbuzz](https://github.com/harfbuzz/harfbuzz) ⭐ 5,624 | 🐛 91 | 🌐 C++ | 📅 2026-05-06 - A text shaping engine. \[Old MIT]
-* [libschrift](https://github.com/tomolt/libschrift) ⭐ 564 | 🐛 23 | 🌐 C | 📅 2024-03-25 - A lightweight TrueType font rendering library. \[ISC]
+* [harfbuzz](https://github.com/harfbuzz/harfbuzz) ⭐ 5,626 | 🐛 91 | 🌐 C++ | 📅 2026-05-06 - A text shaping engine. \[Old MIT]
+* [libschrift](https://github.com/tomolt/libschrift) ⭐ 565 | 🐛 23 | 🌐 C | 📅 2024-03-25 - A lightweight TrueType font rendering library. \[ISC]
 * [otfcc](https://github.com/caryll/otfcc) ⚠️ Archived - A C library and utility used for parsing and writing OpenType font files. \[Apache-2.0]
 * [SheenBidi](https://github.com/Tehreer/SheenBidi) ⭐ 203 | 🐛 3 | 🌐 C | 📅 2026-04-07 - A sophisticated implementation of Unicode Bidirectional Algorithm. \[Apache-2.0]
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig) - Font configuration and customization library. \[MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
@@ -611,29 +611,29 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Game Engine
 
-* [Godot](https://github.com/godotengine/godot) ⭐ 110,470 | 🐛 18,195 | 🌐 C++ | 📅 2026-05-07 - A fully featured, open source, MIT licensed, game engine. \[MIT]
-* [raylib](https://github.com/raysan5/raylib) ⭐ 32,845 | 🐛 18 | 🌐 C | 📅 2026-05-08 - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
-* [Hazel Game Engine](https://github.com/TheCherno/Hazel) ⭐ 12,979 | 🐛 136 | 🌐 C++ | 📅 2024-04-20 - Hazel is primarily an early-stage interactive application and rendering engine for Windows. \[Apache-2.0 license]
-* [EnTT](https://github.com/skypjack/entt) ⭐ 12,635 | 🐛 15 | 🌐 C++ | 📅 2026-05-07 - Gaming meets modern C++. \[MIT]
-* [o3de](https://github.com/o3de/o3de) ⭐ 9,088 | 🐛 3,515 | 🌐 C++ | 📅 2026-05-08 - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+* [Godot](https://github.com/godotengine/godot) ⭐ 110,510 | 🐛 18,210 | 🌐 C++ | 📅 2026-05-07 - A fully featured, open source, MIT licensed, game engine. \[MIT]
+* [raylib](https://github.com/raysan5/raylib) ⭐ 32,859 | 🐛 18 | 🌐 C | 📅 2026-05-09 - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
+* [Hazel Game Engine](https://github.com/TheCherno/Hazel) ⭐ 12,981 | 🐛 136 | 🌐 C++ | 📅 2024-04-20 - Hazel is primarily an early-stage interactive application and rendering engine for Windows. \[Apache-2.0 license]
+* [EnTT](https://github.com/skypjack/entt) ⭐ 12,636 | 🐛 15 | 🌐 C++ | 📅 2026-05-07 - Gaming meets modern C++. \[MIT]
+* [o3de](https://github.com/o3de/o3de) ⭐ 9,091 | 🐛 3,515 | 🌐 C++ | 📅 2026-05-08 - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 * [Panda3D](https://github.com/panda3d/panda3d) ⭐ 5,119 | 🐛 347 | 🌐 C++ | 📅 2026-04-21 - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
-* [GamePlay](https://github.com/gameplay3d/GamePlay) ⭐ 4,843 | 🐛 10 | 🌐 C++ | 📅 2025-02-25 - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
-* [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) ⭐ 4,188 | 🐛 138 | 🌐 C++ | 📅 2025-09-26 - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
+* [GamePlay](https://github.com/gameplay3d/GamePlay) ⭐ 4,844 | 🐛 10 | 🌐 C++ | 📅 2025-02-25 - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
+* [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) ⭐ 4,189 | 🐛 138 | 🌐 C++ | 📅 2025-09-26 - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
 * [Spring](https://github.com/spring/spring) ⭐ 3,901 | 🐛 2 | 🌐 C++ | 📅 2024-03-31 - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
-* [Halley](https://github.com/amzeratul/halley) ⭐ 3,823 | 🐛 46 | 🌐 C++ | 📅 2026-05-07 - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
-* [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,476 | 🐛 268 | 🌐 C++ | 📅 2026-05-08 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+* [Halley](https://github.com/amzeratul/halley) ⭐ 3,823 | 🐛 46 | 🌐 C++ | 📅 2026-05-09 - A lightweight game engine written in C++14 with a "true" entity-component system. \[Apache 2.0]
+* [OpenXRay](https://github.com/OpenXRay/xray-16) ⭐ 3,475 | 🐛 269 | 🌐 C++ | 📅 2026-05-08 - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 * [Polycode](https://github.com/ivansafrin/Polycode) ⭐ 2,382 | 🐛 209 | 🌐 C++ | 📅 2024-03-19 - A cross-platform framework for creative code in C++ (with Lua bindings). \[MIT] [website](http://polycode.org/)
 * [KlayGE](https://github.com/gongminmin/KlayGE) ⭐ 2,171 | 🐛 40 | 🌐 C++ | 📅 2025-11-05 - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 * [Acid](https://github.com/Equilibrium-Games/Acid) ⭐ 1,982 | 🐛 21 | 🌐 C++ | 📅 2023-09-21 - A high speed C++17 Vulkan game engine. \[MIT]
 * [Torque3D](https://github.com/TorqueGameEngines/Torque3D) ⭐ 1,979 | 🐛 115 | 🌐 C++ | 📅 2026-04-21 - An open-source C++ engine built for 3D game development. \[MIT] [website](https://torque3d.org/torque3d)
 * [Corange](https://github.com/orangeduck/Corange) ⭐ 1,975 | 🐛 22 | 🌐 C | 📅 2024-06-03 - A game engine written in pure C, SDL and OpenGL. \[BSD]
-* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 1,943 | 🐛 43 | 🌐 C++ | 📅 2026-05-07 - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
+* [ezEngine](https://github.com/ezEngine/ezEngine) ⭐ 1,943 | 🐛 43 | 🌐 C++ | 📅 2026-05-09 - Is a free, open-source game engine written in C++. Its philosophy is to be modular and flexible, such that it can be adapted to many different use cases. \[MIT] [website](https://ezengine.net/)
 * [toy engine](https://github.com/hugoam/toy) ⭐ 1,593 | 🐛 13 | 🌐 C++ | 📅 2021-04-25 - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
-* [Torque2D](https://github.com/TorqueGameEngines/Torque2D) ⭐ 1,572 | 🐛 14 | 🌐 C | 📅 2026-04-18 - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
-* [Axmol Engine](https://github.com/axmolengine/axmol) ⭐ 1,360 | 🐛 7 | 🌐 C++ | 📅 2026-05-09 - A cross-platform game engine for desktop, mobile, and XBOX (UWP), derived from Cocos2d-x-4.0. \[MIT] [website](https://axmol.dev/)
+* [Torque2D](https://github.com/TorqueGameEngines/Torque2D) ⭐ 1,573 | 🐛 14 | 🌐 C | 📅 2026-04-18 - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://torque3d.org/torque2d)
+* [Axmol Engine](https://github.com/axmolengine/axmol) ⭐ 1,361 | 🐛 6 | 🌐 C++ | 📅 2026-05-09 - A cross-platform game engine for desktop, mobile, and XBOX (UWP), derived from Cocos2d-x-4.0. \[MIT] [website](https://axmol.dev/)
 * [nCine](https://github.com/nCine/nCine) ⭐ 1,304 | 🐛 1 | 🌐 C++ | 📅 2026-05-01 - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
-* [IX-Ray Platform](https://github.com/ixray-team/ixray-1.6-stcop) ⭐ 380 | 🐛 68 | 🌐 C++ | 📅 2026-05-08 - Fork of X-Ray 1.6 engine that aims to improve gaming experience and simplify development of modifications. \[Modified MIT/non-commercial only]
-* [JNGL](https://github.com/jhasse/jngl/) ⭐ 317 | 🐛 11 | 🌐 C++ | 📅 2026-05-06 - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
+* [IX-Ray Platform](https://github.com/ixray-team/ixray-1.6-stcop) ⭐ 380 | 🐛 68 | 🌐 C++ | 📅 2026-05-10 - Fork of X-Ray 1.6 engine that aims to improve gaming experience and simplify development of modifications. \[Modified MIT/non-commercial only]
+* [JNGL](https://github.com/jhasse/jngl/) ⭐ 317 | 🐛 11 | 🌐 C++ | 📅 2026-05-09 - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. \[zlib] [website](https://bixense.com/jngl/)
 * [Grit](https://github.com/grit-engine/grit-engine) ⭐ 125 | 🐛 4 | 🌐 C++ | 📅 2018-05-07 - Community project to build a free game engine for implementing open world 3D games. \[MIT]
 * [quakeforge](https://github.com/quakeforge/quakeforge) ⭐ 60 | 🐛 39 | 🌐 C | 📅 2026-05-09 - Actively maintained branch of the original Quake engine code with 20+ years of development. \[GPL-2.0]
 * [crown](https://github.com/dbartolini/crown) ⭐ 28 | 🐛 0 | 🌐 C++ | 📅 2026-05-09 - Crown is a general purpose data-driven game engine, written from scratch in orthodox C++ with a minimalistic and data-oriented design philosophy in mind. \[MIT]
@@ -652,26 +652,26 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Graphic User Interface*
 
-* [imgui](https://github.com/ocornut/imgui) ⭐ 73,077 | 🐛 1,232 | 🌐 C++ | 📅 2026-05-07 - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
-* [Slint](https://github.com/slint-ui/slint) ⭐ 22,540 | 🐛 848 | 🌐 Rust | 📅 2026-05-08 - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
-* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,108 | 🐛 318 | 🌐 C | 📅 2026-05-05 - A single-header ANSI C gui library. \[PublicDomain]
-* [libui](https://github.com/andlabs/libui) ⭐ 10,878 | 🐛 249 | 🌐 C | 📅 2024-05-29 - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
-* [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,740 | 🐛 18 | 🌐 C++ | 📅 2025-10-22 - The smallest header-only GUI library (5 KLOC) for all platforms. \[Apache-2.0]
-* [implot](https://github.com/epezent/implot) ⭐ 6,079 | 🐛 124 | 🌐 C++ | 📅 2026-04-05 - Immediate Mode Plotting widgets for imgui. \[MIT]
-* [LCUI](https://github.com/lc-soft/LCUI) ⭐ 4,312 | 🐛 3 | 🌐 C | 📅 2026-04-29 - A small C library for building user interfaces with C, XML and CSS. \[MIT]
-* [WebUI](https://github.com/webui-dev/webui) ⭐ 4,111 | 🐛 14 | 🌐 C | 📅 2026-05-05 - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
-* [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 4,044 | 🐛 52 | 🌐 C++ | 📅 2026-05-01 - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
-* [Elements](https://github.com/cycfi/elements) ⭐ 3,681 | 🐛 45 | 🌐 C++ | 📅 2025-11-23 - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
-* [Yue](https://github.com/yue/yue) ⭐ 3,618 | 🐛 13 | 🌐 C++ | 📅 2025-01-24 - A library for creating native cross-platform GUI apps. \[LGPLv2]
-* [GacUI](https://github.com/vczh-libraries/GacUI) ⭐ 2,648 | 🐛 9 | 🌐 C++ | 📅 2026-05-07 - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
+* [imgui](https://github.com/ocornut/imgui) ⭐ 73,093 | 🐛 1,232 | 🌐 C++ | 📅 2026-05-07 - Immediate Mode Graphical User Interface with minimal dependencies. \[MIT]
+* [Slint](https://github.com/slint-ui/slint) ⭐ 22,554 | 🐛 851 | 🌐 Rust | 📅 2026-05-09 - Lightweight GUI toolkit for desktop and embedded. \[GPL/Free/Proprietary] [website](https://slint.dev/)
+* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,113 | 🐛 318 | 🌐 C | 📅 2026-05-05 - A single-header ANSI C gui library. \[PublicDomain]
+* [libui](https://github.com/andlabs/libui) ⭐ 10,879 | 🐛 249 | 🌐 C | 📅 2024-05-29 - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
+* [GuiLite](https://github.com/idea4good/GuiLite) ⭐ 7,739 | 🐛 18 | 🌐 C++ | 📅 2025-10-22 - The smallest header-only GUI library (5 KLOC) for all platforms. \[Apache-2.0]
+* [implot](https://github.com/epezent/implot) ⭐ 6,080 | 🐛 125 | 🌐 C++ | 📅 2026-04-05 - Immediate Mode Plotting widgets for imgui. \[MIT]
+* [LCUI](https://github.com/lc-soft/LCUI) ⭐ 4,313 | 🐛 3 | 🌐 C | 📅 2026-04-29 - A small C library for building user interfaces with C, XML and CSS. \[MIT]
+* [WebUI](https://github.com/webui-dev/webui) ⭐ 4,111 | 🐛 15 | 🌐 C | 📅 2026-05-09 - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend. \[MIT] [website](https://webui.me/)
+* [RmlUi](https://github.com/mikke89/RmlUi) ⭐ 4,047 | 🐛 50 | 🌐 C++ | 📅 2026-05-01 - The HTML/CSS User Interface library evolved. Fork of libRocket. \[MIT]
+* [Elements](https://github.com/cycfi/elements) ⭐ 3,684 | 🐛 45 | 🌐 C++ | 📅 2025-11-23 - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
+* [Yue](https://github.com/yue/yue) ⭐ 3,619 | 🐛 13 | 🌐 C++ | 📅 2025-01-24 - A library for creating native cross-platform GUI apps. \[LGPLv2]
+* [GacUI](https://github.com/vczh-libraries/GacUI) ⭐ 2,647 | 🐛 9 | 🌐 C++ | 📅 2026-05-10 - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. \[Ms-PL]
 * [nana](https://github.com/cnjinhao/nana) ⭐ 2,476 | 🐛 117 | 🌐 C++ | 📅 2024-06-19 - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui) ⭐ 1,789 | 🐛 89 | 🌐 C++ | 📅 2026-02-22 - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
 * [Boden](https://github.com/AshampooSystems/boden) ⭐ 1,745 | 🐛 29 | 🌐 C++ | 📅 2021-12-17 - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Proprietary] [website](https://www.boden.io)
-* [TGUI](https://github.com/texus/TGUI) ⭐ 1,038 | 🐛 8 | 🌐 C++ | 📅 2026-05-04 - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
-* [Saucer](https://github.com/saucer/saucer) ⭐ 857 | 🐛 4 | 🌐 C++ | 📅 2026-04-24 - A modern, cross-platform C++ webview library. \[MIT]
+* [TGUI](https://github.com/texus/TGUI) ⭐ 1,039 | 🐛 8 | 🌐 C++ | 📅 2026-05-04 - Cross-platform modern c++ GUI. \[Zlib] [website](https://tgui.eu/)
+* [Saucer](https://github.com/saucer/saucer) ⭐ 858 | 🐛 4 | 🌐 C++ | 📅 2026-04-24 - A modern, cross-platform C++ webview library. \[MIT]
 * [MyGUI](https://github.com/MyGUI/mygui) ⭐ 821 | 🐛 24 | 🌐 C++ | 📅 2026-03-03 - Fast, flexible and simple GUI. \[MIT]
-* [NAppGUI](https://github.com/frang75/nappgui_src) ⭐ 688 | 🐛 57 | 🌐 C | 📅 2026-05-03 - SDK for building cross-platform desktop apps in ANSI-C. \[MIT] [website](https://nappgui.com/en/home/web/home.html)
-* [Brisk](https://github.com/brisklib/brisk) ⭐ 346 | 🐛 5 | 🌐 C++ | 📅 2026-01-09 - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
+* [NAppGUI](https://github.com/frang75/nappgui_src) ⭐ 688 | 🐛 58 | 🌐 C | 📅 2026-05-03 - SDK for building cross-platform desktop apps in ANSI-C. \[MIT] [website](https://nappgui.com/en/home/web/home.html)
+* [Brisk](https://github.com/brisklib/brisk) ⭐ 347 | 🐛 5 | 🌐 C++ | 📅 2026-01-09 - Cross-platform C++20 GUI framework. MVVM, reactive capabilities. Scalable, accelerated GPU rendering \[GPL/Proprietary] [website](https://brisklib.com)
 * [wxCharts](https://github.com/wxIshiko/wxCharts) ⭐ 146 | 🐛 85 | 🌐 C++ | 📅 2024-09-20 - A library to create charts in wxWidgets applications. \[MIT] [website](https://www.wxishiko.com/wxCharts/)
 * [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 * [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. \[LGPL2]
@@ -687,24 +687,24 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Graphics
 
-* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,010 | 🐛 319 | 🌐 C | 📅 2026-05-04 - A cross-platform rendering library. \[BSD]
-* [GLFW](https://github.com/glfw/glfw) ⭐ 14,980 | 🐛 749 | 🌐 C | 📅 2026-03-30 - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
-* [assimp](https://github.com/assimp/assimp) ⭐ 12,919 | 🐛 494 | 🌐 C++ | 📅 2026-05-08 - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
-* [Skia](https://github.com/google/skia) ⭐ 10,681 | 🐛 51 | 🌐 C++ | 📅 2026-05-09 - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
+* [bgfx](https://github.com/bkaradzic/bgfx) ⭐ 17,011 | 🐛 319 | 🌐 C | 📅 2026-05-04 - A cross-platform rendering library. \[BSD]
+* [GLFW](https://github.com/glfw/glfw) ⭐ 14,985 | 🐛 750 | 🌐 C | 📅 2026-03-30 - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
+* [assimp](https://github.com/assimp/assimp) ⭐ 12,921 | 🐛 494 | 🌐 C++ | 📅 2026-05-08 - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. \[BSD-3-Clause] [website](http://www.assimp.org)
+* [Skia](https://github.com/google/skia) ⭐ 10,684 | 🐛 51 | 🌐 C++ | 📅 2026-05-09 - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 * [NanoVG](https://github.com/memononen/nanovg) ⭐ 5,626 | 🐛 320 | 🌐 C | 📅 2026-02-19 - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 * [magnum](https://github.com/mosra/magnum) ⭐ 5,156 | 🐛 78 | 🌐 C++ | 📅 2026-05-07 - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
-* [libigl](https://github.com/libigl/libigl) ⭐ 5,016 | 🐛 151 | 🌐 C++ | 📅 2026-05-07 - Simple C++ geometry processing library. \[MPL2]
+* [libigl](https://github.com/libigl/libigl) ⭐ 5,014 | 🐛 151 | 🌐 C++ | 📅 2026-05-07 - Simple C++ geometry processing library. \[MPL2]
 * [urho3d](https://github.com/urho3d/Urho3D) ⚠️ Archived - Cross-platform rendering and game engine. \[Many different, mostly MIT]
-* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,287 | 🐛 23 | 🌐 Batchfile | 📅 2026-05-07 - A modern cross-platform low-level 3D graphics library. \[Apache2]
+* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,288 | 🐛 23 | 🌐 Batchfile | 📅 2026-05-10 - A modern cross-platform low-level 3D graphics library. \[Apache2]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv) ⭐ 3,051 | 🐛 60 | 🌐 C++ | 📅 2026-02-19 - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl) ⭐ 2,915 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Tiny C++ Libraries for Data-Driven Physically-based Graphics. \[MIT]
-* [DirectXTK](https://github.com/Microsoft/DirectXTK) ⭐ 2,811 | 🐛 31 | 🌐 C++ | 📅 2026-05-08 - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
-* [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,582 | 🐛 5 | 🌐 C++ | 📅 2026-04-22 - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
+* [DirectXTK](https://github.com/Microsoft/DirectXTK) ⭐ 2,809 | 🐛 32 | 🌐 C++ | 📅 2026-05-10 - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
+* [LLGL](https://github.com/LukasBanana/LLGL) ⭐ 2,583 | 🐛 5 | 🌐 C++ | 📅 2026-04-22 - Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs. \[BSD-3-Clause]
 * [olive.c](https://github.com/tsoding/olive.c) ⭐ 2,396 | 🐛 26 | 🌐 C++ | 📅 2025-09-27 - Simple 2D Graphics Library. \[MIT]
 * [Blend2D](https://github.com/blend2d/blend2d) ⭐ 1,919 | 🐛 39 | 🌐 C++ | 📅 2025-11-29 - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 * [herebedragons](https://github.com/kosua20/herebedragons) ⭐ 1,796 | 🐛 3 | 🌐 C | 📅 2025-07-11 - A basic 3D scene implemented with various engines, frameworks or APIs. \[MIT] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D](https://github.com/horde3d/Horde3D) ⭐ 1,585 | 🐛 21 | 🌐 C++ | 📅 2026-03-30 - A small 3D rendering and animation engine. \[EPL]
-* [ThorVG](https://github.com/thorvg/thorvg) ⭐ 1,549 | 🐛 177 | 🌐 C++ | 📅 2026-05-08 - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
+* [ThorVG](https://github.com/thorvg/thorvg) ⭐ 1,552 | 🐛 177 | 🌐 C++ | 📅 2026-05-08 - a platform-independent portable library that allows for drawing vector-based scenes and animations, including SVG and Lottie. \[MIT] [website](https://www.thorvg.org/)
 * [Ion](https://github.com/google/ion) ⚠️ Archived - A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. \[Apache2] [website](https://google.github.io/ion/)
 * [TinySpline](https://github.com/msteinbeck/tinyspline) ⭐ 1,330 | 🐛 26 | 🌐 C | 📅 2024-09-03 - A small, yet powerful ANSI C library for interpolating, transforming, and querying arbitrary NURBS, B-Splines, and Bézier curves. \[MIT]
 * [LunaSVG](https://github.com/sammycage/lunasvg) ⭐ 1,149 | 🐛 30 | 🌐 C | 📅 2026-02-05 - a standalone SVG rendering library in C++. \[MIT]
@@ -722,20 +722,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Image Processing
 
-* [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) ⭐ 33,583 | 🐛 401 | 🌐 C | 📅 2026-04-15 - STB single-header image loading library. \[Public Domain]
+* [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h) ⭐ 33,592 | 🐛 401 | 🌐 C | 📅 2026-04-15 - STB single-header image loading library. \[Public Domain]
 * [Dlib](https://github.com/davisking/dlib) ⭐ 14,378 | 🐛 43 | 🌐 C++ | 📅 2026-05-07 :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
-* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,746 | 🐛 57 | 🌐 C++ | 📅 2025-09-14 - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
-* [QOI](https://github.com/phoboslab/qoi) ⭐ 7,477 | 🐛 29 | 🌐 C | 📅 2026-04-21 - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection) ⭐ 12,744 | 🐛 57 | 🌐 C++ | 📅 2025-09-14 - Open source library for face detection in images. The face detection speed can reach 1500FPS. \[BSD]
+* [QOI](https://github.com/phoboslab/qoi) ⭐ 7,478 | 🐛 29 | 🌐 C | 📅 2026-04-21 - The “Quite OK Image Format” for fast, lossless image compression. \[MIT]
 * [MozJPEG](https://github.com/mozilla/mozjpeg) ⭐ 5,675 | 🐛 99 | 🌐 C | 📅 2025-06-23 - Improved JPEG encoder. \[BSD/BSD-3-Clause/ZLIB]
-* [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,303 | 🐛 16 | 🌐 C | 📅 2026-04-24 - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
-* [libjxl](https://github.com/libjxl/libjxl) ⭐ 3,473 | 🐛 437 | 🌐 C++ | 📅 2026-05-09 - JPEG XL image format reference implementation. \[BSD-3-Clause]
+* [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo) ⭐ 4,305 | 🐛 16 | 🌐 C | 📅 2026-04-24 - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
+* [libjxl](https://github.com/libjxl/libjxl) ⭐ 3,473 | 🐛 437 | 🌐 C++ | 📅 2026-05-10 - JPEG XL image format reference implementation. \[BSD-3-Clause]
 * [LodePNG](https://github.com/lvandeve/lodepng) ⭐ 2,318 | 🐛 98 | 🌐 C++ | 📅 2026-02-10 - PNG encoder and decoder in C and C++. \[Zlib]
-* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,285 | 🐛 177 | 🌐 C++ | 📅 2026-05-07 - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
-* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,247 | 🐛 30 | 🌐 C++ | 📅 2026-05-05 - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. \[MIT]
-* [libavif](https://github.com/AOMediaCodec/libavif) ⭐ 2,076 | 🐛 161 | 🌐 C | 📅 2026-05-06 - Library for encoding and decoding .avif files. \[BSD-2-Clause]
-* [Leptonica](https://github.com/DanBloomberg/leptonica) ⭐ 2,047 | 🐛 69 | 🌐 C | 📅 2026-05-07 - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
-* [OpenImageDenoise](https://github.com/OpenImageDenoise/oidn) ⭐ 2,034 | 🐛 47 | 🌐 C++ | 📅 2026-05-08 - High-performance, high-quality denoising library for ray-traced images. \[Apache-2.0] [website](https://www.openimagedenoise.org/)
-* [libpng](https://github.com/pnggroup/libpng) ⭐ 1,588 | 🐛 185 | 🌐 C | 📅 2026-04-29 - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
+* [OpenImageIO](https://github.com/OpenImageIO/oiio) ⭐ 2,286 | 🐛 176 | 🌐 C++ | 📅 2026-05-09 - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. \[Modified BSD]
+* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,248 | 🐛 30 | 🌐 C++ | 📅 2026-05-05 - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. \[MIT]
+* [libavif](https://github.com/AOMediaCodec/libavif) ⭐ 2,077 | 🐛 161 | 🌐 C | 📅 2026-05-06 - Library for encoding and decoding .avif files. \[BSD-2-Clause]
+* [Leptonica](https://github.com/DanBloomberg/leptonica) ⭐ 2,047 | 🐛 69 | 🌐 C | 📅 2026-05-09 - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. \[BSD-2-Clause] [website](http://leptonica.org/index.html)
+* [OpenImageDenoise](https://github.com/OpenImageDenoise/oidn) ⭐ 2,033 | 🐛 47 | 🌐 C++ | 📅 2026-05-08 - High-performance, high-quality denoising library for ray-traced images. \[Apache-2.0] [website](https://www.openimagedenoise.org/)
+* [libpng](https://github.com/pnggroup/libpng) ⭐ 1,589 | 🐛 185 | 🌐 C | 📅 2026-04-29 - the reference library for use in applications that read, create, and manipulate PNG (Portable Network Graphics) raster image files. \[libpng-2.0] [website](https://libpng.sourceforge.io/)
 * [OpenJPEG](https://github.com/uclouvain/openjpeg) ⭐ 1,095 | 🐛 366 | 🌐 C | 📅 2026-05-04 - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 * [fpng](https://github.com/richgel999/fpng) ⭐ 984 | 🐛 17 | 🌐 C | 📅 2024-08-26 - Super fast C++ .PNG writer/reader. \[Unlicense]
 * [GD](https://github.com/libgd/libgd) ⭐ 970 | 🐛 160 | 🌐 C | 📅 2026-04-10 - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
@@ -743,7 +743,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Video++](https://github.com/matt-42/vpp) ⭐ 736 | 🐛 4 | 🌐 C++ | 📅 2019-02-07 - A C++14 high performance video and image processing library. \[MIT]
 * [VIGRA](https://github.com/ukoethe/vigra) ⭐ 438 | 🐛 100 | 🌐 C++ | 📅 2026-04-25 - A generic C++ computer vision library for image analysis. \[MIT X11]
 * [SAIL](https://github.com/happy-sea-fox/sail) ⭐ 351 | 🐛 1 | 🌐 C | 📅 2026-05-05 - Easy-to-use cross-platform image decoding library with pluggable image codecs. \[MIT]
-* \[Jpegli]\[<https://github.com/google/jpegli> ⭐ 340 | 🐛 40 | 🌐 C++ | 📅 2026-05-08] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+* \[Jpegli]\[<https://github.com/google/jpegli> ⭐ 340 | 🐛 41 | 🌐 C++ | 📅 2026-05-08] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 * [PlutoFilter](https://github.com/sammycage/plutofilter) ⭐ 202 | 🐛 2 | 🌐 C | 📅 2025-08-02 - A single-header, zero-allocation image filter library in C. \[MIT]
 * [Boost.GIL](https://github.com/boostorg/gil) ⭐ 198 | 🐛 108 | 🌐 C++ | 📅 2026-04-22 - Generic Image Library. \[Boost] [website](https://boost.org/libs/gil)
 * [TinyDNG](https://github.com/syoyo/tinydng) ⭐ 183 | 🐛 19 | 🌐 C++ | 📅 2026-04-18 - Header-only Tiny DNG/TIFF loader and writer in C++. \[MIT]
@@ -767,7 +767,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Internationalization
 
-* [utf8.h](https://github.com/sheredom/utf8.h) ⭐ 1,954 | 🐛 11 | 🌐 C | 📅 2026-03-09 - Single header utf8 string functions for C and C++. \[Unlicense]
+* [utf8.h](https://github.com/sheredom/utf8.h) ⭐ 1,955 | 🐛 11 | 🌐 C | 📅 2026-03-09 - Single header utf8 string functions for C and C++. \[Unlicense]
 * [simdutf](https://github.com/simdutf/simdutf) ⭐ 1,817 | 🐛 75 | 🌐 C++ | 📅 2026-05-07 - Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. \[Apache-2/MIT]
 * [utf8proc](https://github.com/JuliaStrings/utf8proc) ⭐ 1,245 | 🐛 32 | 🌐 C | 📅 2026-04-01 - A clean C library for processing UTF-8 Unicode data. \[MIT]
 * [uni-algo](https://github.com/uni-algo/uni-algo) ⭐ 321 | 🐛 6 | 🌐 C++ | 📅 2024-01-05 - Unicode Algorithms Implementation for C/C++. \[Unlicense or MIT]
@@ -777,14 +777,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Inter-process communication
 
-* [gRPC](https://github.com/grpc/grpc) ⭐ 44,723 | 🐛 1,306 | 🌐 C++ | 📅 2026-05-09 - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
-* [bRPC](https://github.com/apache/brpc) ⭐ 17,497 | 🐛 461 | 🌐 C++ | 📅 2026-05-06 - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
+* [gRPC](https://github.com/grpc/grpc) ⭐ 44,726 | 🐛 1,306 | 🌐 C++ | 📅 2026-05-09 - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+* [bRPC](https://github.com/apache/brpc) ⭐ 17,500 | 🐛 463 | 🌐 C++ | 📅 2026-05-06 - bRPC is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \[Apache2] [website](https://brpc.apache.org/)
 * [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,016 | 🐛 301 | 🌐 C++ | 📅 2026-05-08 - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 * [nanomsg](https://github.com/nanomsg/nanomsg) ⭐ 6,273 | 🐛 2 | 🌐 C | 📅 2025-10-05 - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 * [nng](https://github.com/nanomsg/nng) ⭐ 4,579 | 🐛 93 | 🌐 C | 📅 2026-03-21 - nanomsg-next-generation, a light-weight brokerless messaging library. \[MIT] [website](https://nanomsg.github.io/nng/)
-* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,180 | 🐛 67 | 🌐 C++ | 📅 2026-05-08 - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. \[GPLv2]
+* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,180 | 🐛 68 | 🌐 C++ | 📅 2026-05-10 - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. \[GPLv2]
 * [SRPC](https://github.com/sogou/srpc) ⭐ 2,139 | 🐛 33 | 🌐 C++ | 📅 2026-03-24 - A lightweight RPC system that supports multiple protocols and OpenTelemetry. \[Apache2]
-* [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) ⭐ 2,062 | 🐛 259 | 🌐 C++ | 📅 2026-05-08 - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+* [iceoryx](https://github.com/eclipse-iceoryx/iceoryx) ⭐ 2,063 | 🐛 259 | 🌐 C++ | 📅 2026-05-08 - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 * [rpclib](https://github.com/rpclib/rpclib) ⭐ 1,831 | 🐛 107 | 🌐 C++ | 📅 2024-04-09 - A modern C++ msgpack-RPC server and client library. \[MIT]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) ⭐ 985 | 🐛 20 | 🌐 C++ | 📅 2024-01-02 - JSON-RPC framework for C++ servers and clients. \[MIT]
 * [Boost.Interprocess](https://github.com/boostorg/interprocess) ⭐ 177 | 🐛 36 | 🌐 C++ | 📅 2026-04-22 - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://boost.org/libs/interprocess)
@@ -796,25 +796,25 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## JSON
 
-* [json](https://github.com/nlohmann/json) ⭐ 49,611 | 🐛 87 | 🌐 C++ | 📅 2026-05-08 :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
-* [simdjson](https://github.com/lemire/simdjson) ⭐ 23,726 | 🐛 132 | 🌐 C++ | 📅 2026-05-08 - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
-* [RapidJSON](https://github.com/miloyip/rapidjson) ⭐ 15,057 | 🐛 782 | 🌐 C++ | 📅 2025-02-05 :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
-* [cJSON](https://github.com/DaveGamble/cJSON) ⭐ 12,687 | 🐛 316 | 🌐 C | 📅 2026-04-09 - Ultralightweight JSON parser in ANSI C. \[MIT]
-* [JsonCpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,835 | 🐛 121 | 🌐 C++ | 📅 2026-05-05 - A C++ library for interacting with JSON. \[MIT]
+* [json](https://github.com/nlohmann/json) ⭐ 49,614 | 🐛 80 | 🌐 C++ | 📅 2026-05-09 :zap: - JSON for Modern C++. \[MIT] [website](https://json.nlohmann.me)
+* [simdjson](https://github.com/lemire/simdjson) ⭐ 23,731 | 🐛 132 | 🌐 C++ | 📅 2026-05-09 - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
+* [RapidJSON](https://github.com/miloyip/rapidjson) ⭐ 15,054 | 🐛 782 | 🌐 C++ | 📅 2025-02-05 :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. \[MIT] [website](https://rapidjson.org)
+* [cJSON](https://github.com/DaveGamble/cJSON) ⭐ 12,695 | 🐛 316 | 🌐 C | 📅 2026-04-09 - Ultralightweight JSON parser in ANSI C. \[MIT]
+* [JsonCpp](https://github.com/open-source-parsers/jsoncpp) ⭐ 8,836 | 🐛 121 | 🌐 C++ | 📅 2026-05-05 - A C++ library for interacting with JSON. \[MIT]
 * [UltraJSON](https://github.com/ultrajson/ultrajson) ⭐ 4,483 | 🐛 49 | 🌐 C++ | 📅 2026-05-05 - Ultra fast JSON decoder and encoder written in C. \[BSD-3-Clause]
-* [Jsmn](https://github.com/zserge/jsmn) ⭐ 4,117 | 🐛 96 | 🌐 C | 📅 2024-06-09 - A minimalistic JSON parser in C. \[MIT]
+* [Jsmn](https://github.com/zserge/jsmn) ⭐ 4,118 | 🐛 96 | 🌐 C | 📅 2024-06-09 - A minimalistic JSON parser in C. \[MIT]
 * [yyjson](https://github.com/ibireme/yyjson) ⭐ 3,731 | 🐛 32 | 🌐 C | 📅 2026-04-19 - A high performance JSON library written in ANSI C. \[MIT]
 * [Jansson](https://github.com/akheron/jansson) ⭐ 3,332 | 🐛 132 | 🌐 C | 📅 2026-03-01 - C library for encoding, decoding and manipulating JSON data. \[MIT]
 * [json-c](https://github.com/json-c/json-c) ⭐ 3,267 | 🐛 20 | 🌐 C | 📅 2026-05-04 - A JSON implementation in C. \[MIT]
-* [Glaze](https://github.com/stephenberry/glaze) ⭐ 2,750 | 🐛 36 | 🌐 C++ | 📅 2026-05-08 - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+* [Glaze](https://github.com/stephenberry/glaze) ⭐ 2,751 | 🐛 34 | 🌐 C++ | 📅 2026-05-09 - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 * [json11](https://github.com/dropbox/json11) ⚠️ Archived - A tiny JSON library for C++11. \[MIT]
 * [YAJL](https://github.com/lloyd/yajl) ⭐ 2,221 | 🐛 161 | 🌐 C | 📅 2024-04-05 - A fast streaming JSON parsing library in C. \[ISC]
 * [LIBUCL](https://github.com/vstakhov/libucl) ⭐ 1,731 | 🐛 104 | 🌐 C | 📅 2026-04-13 :zap: - Universal configuration library parser. \[BSD-2-Clause]
 * [parson](https://github.com/kgabis/parson) ⭐ 1,451 | 🐛 26 | 🌐 C | 📅 2024-05-11 - Parson is a lighweight json library written in C. \[MIT]
 * [json-parser](https://github.com/udp/json-parser) ⭐ 1,332 | 🐛 42 | 🌐 C | 📅 2025-05-10 - Very low footprint JSON parser written in portable ANSI C. \[BSD]
 * [PicoJSON](https://github.com/kazuho/picojson) ⭐ 1,154 | 🐛 61 | 🌐 C++ | 📅 2024-07-13 - A header-file-only, JSON parser serializer in C++. \[BSD]
-* [Sonic-Cpp](https://github.com/bytedance/sonic-cpp) ⭐ 971 | 🐛 33 | 🌐 C++ | 📅 2026-04-23 - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
-* [jsoncons](https://github.com/danielaparker/jsoncons) ⭐ 840 | 🐛 15 | 🌐 C++ | 📅 2026-05-08 - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+* [Sonic-Cpp](https://github.com/bytedance/sonic-cpp) ⭐ 971 | 🐛 34 | 🌐 C++ | 📅 2026-04-23 - A fast JSON serializing & deserializing library, accelerated by SIMD. \[Apache-2.0]
+* [jsoncons](https://github.com/danielaparker/jsoncons) ⭐ 841 | 🐛 15 | 🌐 C++ | 📅 2026-05-08 - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 * [json.h](https://github.com/sheredom/json.h) ⭐ 822 | 🐛 5 | 🌐 C++ | 📅 2026-03-26 - A simple one header/one source solution to parsing JSON in C and C++. \[Unlicense]
 * [json.cpp](https://github.com/jart/json.cpp) ⭐ 774 | 🐛 3 | 🌐 C++ | 📅 2026-04-08 - a baroque JSON parsing / serialization library for C++. \[Apache-2.0]
 * [frozen](https://github.com/cesanta/frozen) ⭐ 767 | 🐛 33 | 🌐 C | 📅 2026-01-05 - JSON parser and generator for C/C++. \[GPL & GPL2]
@@ -822,7 +822,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sajson](https://github.com/chadaustin/sajson) ⭐ 572 | 🐛 9 | 🌐 C++ | 📅 2025-04-06 - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
 * [JSON++](https://github.com/hjiang/jsonxx) ⚠️ Archived - A JSON parser in C++. \[MIT]
 * [DAW JSON Link](https://github.com/beached/daw_json_link) ⭐ 504 | 🐛 19 | 🌐 C++ | 📅 2026-02-16 - Fast, convenient JSON serialization and parsing in C++. \[BSL-1.0]
-* [json-struct](https://github.com/jorgen/json_struct) ⭐ 468 | 🐛 3 | 🌐 C++ | 📅 2025-10-11 - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
+* [json-struct](https://github.com/jorgen/json_struct) ⭐ 469 | 🐛 3 | 🌐 C++ | 📅 2025-10-11 - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 * [qt-json](https://github.com/gaudecker/qt-json) ⚠️ Archived - A simple class for parsing JSON data into a QVariant hierarchy and vice versa. \[GPLv3]
 * [libjson](https://github.com/vincenthz/libjson) ⭐ 295 | 🐛 9 | 🌐 C | 📅 2024-05-09 - A JSON parser and printer library in C. easy to integrate with any model. \[LGPL]
 * [QJson](https://github.com/flavio/qjson) ⚠️ Archived - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
@@ -842,10 +842,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Logging
 
-* [spdlog](https://github.com/gabime/spdlog) ⭐ 28,734 | 🐛 46 | 🌐 C++ | 📅 2026-04-18 - Super fast, header only, C++ logging library.
+* [spdlog](https://github.com/gabime/spdlog) ⭐ 28,736 | 🐛 46 | 🌐 C++ | 📅 2026-04-18 - Super fast, header only, C++ logging library.
 * [glog](https://github.com/google/glog) ⚠️ Archived - C++ implementation of the Google logging module.
 * [Easylogging++](https://github.com/amrayn/easyloggingpp) ⚠️ Archived - Extremely light-weight high performance logging library for C++11 (or higher) applications. \[MIT]
-* [Quill](https://github.com/odygrd/quill) ⭐ 2,893 | 🐛 18 | 🌐 C++ | 📅 2026-04-24 - Asynchronous cross platform low latency logging library. \[MIT]
+* [Quill](https://github.com/odygrd/quill) ⭐ 2,894 | 🐛 18 | 🌐 C++ | 📅 2026-04-24 - Asynchronous cross platform low latency logging library. \[MIT]
 * [plog](https://github.com/SergiusTheBest/plog) ⭐ 2,540 | 🐛 56 | 🌐 C++ | 📅 2026-01-20 - Portable and simple log for C++ in less than 1000 lines of code. \[MPL2]
 * [loguru](https://github.com/emilk/loguru) ⭐ 1,894 | 🐛 92 | 🌐 C++ | 📅 2024-07-01 - A lightweight C++ logging library. \[PublicDomain]
 * [log4cplus](https://github.com/log4cplus/log4cplus) ⭐ 1,725 | 🐛 63 | 🌐 C++ | 📅 2026-05-03 - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
@@ -866,30 +866,30 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Machine Learning
 
-* [OpenCV](https://github.com/Itseez/opencv) ⭐ 87,392 | 🐛 2,738 | 🌐 C++ | 📅 2026-05-08 :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
-* [FAISS](https://github.com/facebookresearch/faiss) ⭐ 39,963 | 🐛 296 | 🌐 C++ | 📅 2026-05-09 - A library for efficient similarity search and clustering of dense vectors. \[MIT]
-* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,598 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - A fast framework for neural networks. \[BSD]
-* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,355 | 🐛 462 | 🌐 C++ | 📅 2026-05-05 - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
-* [darknet](https://github.com/pjreddie/darknet) ⭐ 26,452 | 🐛 1,974 | 🌐 C | 📅 2024-05-03 - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
-* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,201 | 🐛 1,182 | 🌐 C++ | 📅 2026-05-09 - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
-* [ONNX runtime](https://github.com/microsoft/onnxruntime) ⭐ 20,443 | 🐛 1,407 | 🌐 C++ | 📅 2026-05-09 - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
-* [ggml](https://github.com/ggerganov/ggml) ⭐ 14,605 | 🐛 317 | 🌐 C++ | 📅 2026-05-07 - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
+* [OpenCV](https://github.com/Itseez/opencv) ⭐ 87,403 | 🐛 2,744 | 🌐 C++ | 📅 2026-05-08 :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+* [FAISS](https://github.com/facebookresearch/faiss) ⭐ 39,976 | 🐛 297 | 🌐 C++ | 📅 2026-05-09 - A library for efficient similarity search and clustering of dense vectors. \[MIT]
+* [Caffe](https://github.com/BVLC/caffe) ⭐ 34,595 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 - A fast framework for neural networks. \[BSD]
+* [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,357 | 🐛 461 | 🌐 C++ | 📅 2026-05-10 - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. \[Apache2]
+* [darknet](https://github.com/pjreddie/darknet) ⭐ 26,451 | 🐛 1,974 | 🌐 C | 📅 2024-05-03 - Open source neural network framework written in C and CUDA. \[PublicDomain] [website](https://pjreddie.com/darknet/)
+* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,202 | 🐛 1,182 | 🌐 C++ | 📅 2026-05-09 - A high-performance neural network inference computing framework optimized for mobile platforms. \[BSD]
+* [ONNX runtime](https://github.com/microsoft/onnxruntime) ⭐ 20,456 | 🐛 1,413 | 🌐 C++ | 📅 2026-05-10 - C and C++ library for training and inference ONNX models. ONNX is a standard that AI models can be converted into, regardless of the library they are trained with. \[MIT] [website](https://onnxruntime.ai/)
+* [ggml](https://github.com/ggerganov/ggml) ⭐ 14,614 | 🐛 318 | 🌐 C++ | 📅 2026-05-07 - Tensor library for machine learning with 16-bit and 4-bit quantization support. \[MIT]
 * [Dlib](https://github.com/davisking/dlib) ⭐ 14,378 | 🐛 43 | 🌐 C++ | 📅 2026-05-07 :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
-* [catboost](https://github.com/catboost/catboost) ⭐ 8,936 | 🐛 697 | 🌐 C++ | 📅 2026-05-08 - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
-* [CCV](https://github.com/liuliu/ccv) ⭐ 7,215 | 🐛 78 | 🌐 C++ | 📅 2026-05-08 - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. \[BSD]
-* [mlpack](https://github.com/mlpack/mlpack) ⭐ 5,638 | 🐛 20 | 🌐 C++ | 📅 2026-05-08 - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
-* [flashlight](https://github.com/facebookresearch/flashlight) ⭐ 5,442 | 🐛 127 | 🌐 C++ | 📅 2026-02-23 - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
+* [catboost](https://github.com/catboost/catboost) ⭐ 8,938 | 🐛 697 | 🌐 C++ | 📅 2026-05-09 - A fast, scalable, high performance Gradient Boosting on Decision Trees library. \[Apache2]
+* [CCV](https://github.com/liuliu/ccv) ⭐ 7,216 | 🐛 78 | 🌐 C++ | 📅 2026-05-09 - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. \[BSD]
+* [mlpack](https://github.com/mlpack/mlpack) ⭐ 5,639 | 🐛 18 | 🌐 C++ | 📅 2026-05-09 - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+* [flashlight](https://github.com/facebookresearch/flashlight) ⭐ 5,441 | 🐛 127 | 🌐 C++ | 📅 2026-02-23 - A fast, flexible machine learning library from Facebook AI Research written entirely in C++ and based on the ArrayFire tensor library. \[BSD-3-Clause] [website](https://fl.readthedocs.io/en/latest/)
 * [libsvm](https://github.com/cjlin1/libsvm) ⭐ 4,705 | 🐛 112 | 🌐 Java | 📅 2025-12-29 - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [USearch](https://github.com/unum-cloud/usearch) ⭐ 4,080 | 🐛 90 | 🌐 C++ | 📅 2026-05-02 - Fast search and clustering library for vectors and strings. \[Apache2]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun) ⭐ 3,067 | 🐛 423 | 🌐 C++ | 📅 2023-12-19 - The Shogun Machine Learning Toolbox. \[GPLv3]
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,978 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 * [TensorComprehensions](https://github.com/facebookresearch/TensorComprehensions) ⚠️ Archived - A fully-functional C++ library to automatically synthesize high-performance machine learning kernels. \[Apache-2.0]
-* [VLFeat](https://github.com/vlfeat/vlfeat) ⭐ 1,648 | 🐛 149 | 🌐 C | 📅 2022-08-25 - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
+* [VLFeat](https://github.com/vlfeat/vlfeat) ⭐ 1,649 | 🐛 149 | 🌐 C | 📅 2022-08-25 - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
 * [RNNLIB](https://github.com/szcom/rnnlib) ⭐ 901 | 🐛 31 | 🌐 C | 📅 2020-02-10 - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 * [kann](https://github.com/attractivechaos/kann) ⭐ 749 | 🐛 31 | 🌐 C | 📅 2025-06-06 - A lightweight C library for artificial neural networks. \[MIT]
 * [MeTA](https://github.com/meta-toolkit/meta) ⭐ 713 | 🐛 56 | 🌐 C++ | 📅 2023-04-17 - A modern C++ data sciences toolkit. \[MIT]
 * [Minerva](https://github.com/dmlc/minerva) ⚠️ Archived - A fast and flexible system for deep learning. \[Apache2]
-* [oneDAL](https://github.com/oneapi-src/oneDAL) ⭐ 646 | 🐛 84 | 🌐 C++ | 📅 2026-05-06 - A powerful machine learning library that helps speed up big data analysis. \[Apache]
+* [oneDAL](https://github.com/oneapi-src/oneDAL) ⭐ 646 | 🐛 83 | 🌐 C++ | 📅 2026-05-10 - A powerful machine learning library that helps speed up big data analysis. \[Apache]
 * [Fido](https://github.com/FidoProject/Fido) ⭐ 462 | 🐛 15 | 🌐 C++ | 📅 2020-01-05 - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 * [Recommender](https://github.com/GHamrouni/Recommender) ⭐ 268 | 🐛 1 | 🌐 C | 📅 2022-07-19 - C library for product recommendations/suggestions using collaborative filtering (CF). \[BSD]
 * [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. \[Apache2]
@@ -897,25 +897,25 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Math
 
 * [Dlib](https://github.com/davisking/dlib) ⭐ 14,378 | 🐛 43 | 🌐 C++ | 📅 2026-05-07 :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)
-* [GLM](https://github.com/g-truc/glm) ⭐ 10,931 | 🐛 113 | 🌐 C++ | 📅 2026-04-07 - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+* [GLM](https://github.com/g-truc/glm) ⭐ 10,934 | 🐛 113 | 🌐 C++ | 📅 2026-04-07 - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) ⭐ 7,426 | 🐛 112 | 🌐 C | 📅 2026-05-06 - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
-* [QuantLib](https://github.com/lballabio/quantlib) ⭐ 7,115 | 🐛 46 | 🌐 C++ | 📅 2026-05-08 - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
-* [CGAL](https://github.com/CGAL/cgal) ⭐ 5,883 | 🐛 693 | 🌐 C++ | 📅 2026-04-28 - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-* [NumCpp](https://github.com/dpilger26/NumCpp) ⭐ 3,961 | 🐛 7 | 🌐 C++ | 📅 2026-03-17 - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
+* [QuantLib](https://github.com/lballabio/quantlib) ⭐ 7,117 | 🐛 49 | 🌐 C++ | 📅 2026-05-08 - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+* [CGAL](https://github.com/CGAL/cgal) ⭐ 5,882 | 🐛 693 | 🌐 C++ | 📅 2026-04-28 - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+* [NumCpp](https://github.com/dpilger26/NumCpp) ⭐ 3,960 | 🐛 7 | 🌐 C++ | 📅 2026-03-17 - A templatized header only C++ implementation of the Python Numpy library. \[MIT]
 * [xtensor](https://github.com/xtensor-stack/xtensor) ⭐ 3,732 | 🐛 443 | 🌐 C++ | 📅 2026-05-06 - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. \[BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 * [geogram](https://github.com/BrunoLevy/geogram) ⭐ 2,417 | 🐛 62 | 🌐 C++ | 📅 2026-05-07 - A programming library of geometric algorithms. \[BSD-3-Clause]
 * [autodiff](https://github.com/autodiff/autodiff) ⭐ 1,933 | 🐛 108 | 🌐 C++ | 📅 2025-01-27 - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
-* [TinyExpr](https://github.com/codeplea/tinyexpr) ⭐ 1,881 | 🐛 37 | 🌐 C | 📅 2025-12-12 - A C library for parsing and evaluating math expressions from strings. \[zlib]
-* [NumKong](https://github.com/ashvardanian/NumKong) ⭐ 1,809 | 🐛 30 | 🌐 C | 📅 2026-05-04 - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
-* [DirectXMath](https://github.com/microsoft/DirectXMath) ⭐ 1,769 | 🐛 22 | 🌐 C++ | 📅 2026-05-07 - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
+* [TinyExpr](https://github.com/codeplea/tinyexpr) ⭐ 1,882 | 🐛 36 | 🌐 C | 📅 2025-12-12 - A C library for parsing and evaluating math expressions from strings. \[zlib]
+* [NumKong](https://github.com/ashvardanian/NumKong) ⭐ 1,808 | 🐛 30 | 🌐 C | 📅 2026-05-04 - SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. \[Apache2] (previously named SimSIMD)
+* [DirectXMath](https://github.com/microsoft/DirectXMath) ⭐ 1,769 | 🐛 23 | 🌐 C++ | 📅 2026-05-09 - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 * [Vc](https://github.com/VcDevel/Vc) ⭐ 1,524 | 🐛 90 | 🌐 C++ | 📅 2026-04-02 - SIMD Vector Classes for C++. \[BSD]
-* [MatX](https://github.com/NVIDIA/MatX) ⭐ 1,418 | 🐛 36 | 🌐 C++ | 📅 2026-05-09 - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax. \[BSD 3-clause]
+* [MatX](https://github.com/NVIDIA/MatX) ⭐ 1,417 | 🐛 37 | 🌐 C++ | 📅 2026-05-09 - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax. \[BSD 3-clause]
 * [SymEngine](https://github.com/symengine/symengine) ⭐ 1,358 | 🐛 257 | 🌐 C++ | 📅 2026-04-27 - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
-* [libdivide](https://github.com/ridiculousfish/libdivide) ⭐ 1,321 | 🐛 4 | 🌐 C++ | 📅 2026-03-05 - Optimized integer division for C/C++ using libdivide. \[zlib] [website](https://libdivide.com)
+* [libdivide](https://github.com/ridiculousfish/libdivide) ⭐ 1,321 | 🐛 3 | 🌐 C++ | 📅 2026-05-09 - Optimized integer division for C/C++ using libdivide. \[zlib] [website](https://libdivide.com)
 * [linmath.h](https://github.com/datenwolf/linmath.h) ⭐ 1,044 | 🐛 20 | 🌐 C | 📅 2023-05-31 - A lean linear math library, aimed at graphics programming. \[WTFPL]
 * [linalg.h](https://github.com/sgorsten/linalg) ⭐ 951 | 🐛 6 | 🌐 C++ | 📅 2023-07-02 - Single header, public domain, short vector math library for C++. \[Unlicense]
 * [libfixmath](https://github.com/PetteriAimonen/libfixmath) ⭐ 862 | 🐛 10 | 🌐 C | 📅 2026-02-04 - Cross Platform Fixed Point Maths Library. \[MIT]
-* [Spectra](https://github.com/yixuan/spectra) ⭐ 845 | 🐛 42 | 🌐 C++ | 📅 2025-08-26 - A C++ library for large scale eigenvalue problems, built on top of Eigen. \[MPL2] [website](https://spectralib.org)
+* [Spectra](https://github.com/yixuan/spectra) ⭐ 844 | 🐛 42 | 🌐 C++ | 📅 2025-08-26 - A C++ library for large scale eigenvalue problems, built on top of Eigen. \[MPL2] [website](https://spectralib.org)
 * [Fastor](https://github.com/romeric/Fastor) ⭐ 837 | 🐛 35 | 🌐 C++ | 📅 2025-07-08 - A lightweight high performance tensor algebra framework for modern C++. \[MIT]
 * [Klein](https://github.com/jeremyong/klein) ⚠️ Archived - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 * [LibTomMath](https://github.com/libtom/libtommath) ⭐ 785 | 🐛 22 | 🌐 C | 📅 2026-04-20 - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
@@ -931,12 +931,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [utl::random](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md) ⭐ 332 | 🐛 3 | 🌐 C++ | 📅 2026-04-10 - A C++17 header-only library implementing fast random for Monte-Carlo simulations & gamedev. \[MIT]
 * [Boost.Multiprecision](https://github.com/boostorg/multiprecision) ⭐ 254 | 🐛 69 | 🌐 C++ | 📅 2026-05-06 - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
 * [Apophenia](https://github.com/b-k/apophenia) ⭐ 206 | 🐛 13 | 🌐 C | 📅 2025-01-22 - A C library for statistical and scientific computing. \[GPL2]
-* [OMath](https://github.com/orange-cpp/omath) ⭐ 202 | 🐛 0 | 🌐 C++ | 📅 2026-05-07 - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. \[ZLIB]
+* [OMath](https://github.com/orange-cpp/omath) ⭐ 203 | 🐛 0 | 🌐 C++ | 📅 2026-05-07 - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. \[ZLIB]
 * [Wagyu](https://github.com/mapbox/wagyu) ⭐ 193 | 🐛 23 | 🌐 C++ | 📅 2024-02-19 - A general library for geometry operations of union, intersections, difference, and xor. \[mapbox-wagyu original]
 * [fpsqrt](https://github.com/chmike/fpsqrt) ⭐ 96 | 🐛 2 | 🌐 C | 📅 2023-09-18 - Fast fixed point and floating point square root for C. \[MIT]
 * [cml](https://github.com/demianmnave/CML) ⭐ 84 | 🐛 11 | 🌐 C++ | 📅 2025-12-15 - The configurable math library. \[Boost]
-* [geo-utils](https://github.com/gistrec/geo-utils) ⭐ 43 | 🐛 1 | 🌐 C++ | 📅 2026-05-09 - Header-only C++17 library for spherical lat/lng geometry: distance, bearing, area, point-in-polygon. \[Apache2]
-* [sebsjames/maths](https://github.com/sebsjames/maths) ⭐ 7 | 🐛 14 | 🌐 C++ | 📅 2026-05-06 - A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in [mathplot](https://github.com/sebsjames/mathplot) ⭐ 57 | 🐛 32 | 🌐 C++ | 📅 2026-05-08).  \[Apache2] [website](https://sebsjames.github.io/maths/)
+* [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) ⭐ 44 | 🐛 2 | 🌐 C++ | 📅 2026-05-09 - Header-only C++17 library for spherical lat/lng geometry: distance, bearing, area, point-in-polygon. \[Apache2]
+* [sebsjames/maths](https://github.com/sebsjames/maths) ⭐ 7 | 🐛 14 | 🌐 C++ | 📅 2026-05-06 - A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in [mathplot](https://github.com/sebsjames/mathplot) ⭐ 57 | 🐛 33 | 🌐 C++ | 📅 2026-05-08).  \[Apache2] [website](https://sebsjames.github.io/maths/)
 * [mexce](https://github.com/imakris/mexce) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-04-13 - A single-header, dependency-free JIT compiler for scalar mathematical expressions that generates optimized x87 FPU machine code. \[BSD]
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. \[Apache2] [website](http://arma.sourceforge.net/)
 * [blaze](https://bitbucket.org/blaze-lib/blaze) - high-performance C++ math library for dense and sparse arithmetic. \[BSD]
@@ -954,62 +954,62 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Memory Allocation
 
-* [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 12,789 | 🐛 421 | 🌐 C | 📅 2026-05-08 - A compact general purpose allocator with excellent performance. \[MIT]
-* [jemalloc](https://github.com/jemalloc/jemalloc) ⭐ 10,867 | 🐛 364 | 🌐 C | 📅 2026-05-08 - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
+* [mimalloc](https://github.com/microsoft/mimalloc) ⭐ 12,792 | 🐛 423 | 🌐 C | 📅 2026-05-08 - A compact general purpose allocator with excellent performance. \[MIT]
+* [jemalloc](https://github.com/jemalloc/jemalloc) ⭐ 10,868 | 🐛 365 | 🌐 C | 📅 2026-05-08 - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 * [TCMalloc](https://github.com/google/tcmalloc) ⭐ 5,224 | 🐛 49 | 🌐 C++ | 📅 2026-05-09 - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
-* [Boehm GC](https://github.com/ivmai/bdwgc) ⭐ 3,457 | 🐛 186 | 🌐 C | 📅 2026-05-07 - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
+* [Boehm GC](https://github.com/ivmai/bdwgc) ⭐ 3,459 | 🐛 186 | 🌐 C | 📅 2026-05-07 - Conservative garbage collector for C and C++. \[similar to X11] [website](http://www.hboehm.info/gc/)
 * [rpmalloc](https://github.com/mjansson/rpmalloc) ⭐ 2,443 | 🐛 17 | 🌐 Python | 📅 2026-04-10 - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
 * [rpmalloc](https://github.com/rampantpixels/rpmalloc) ⭐ 2,443 | 🐛 17 | 🌐 Python | 📅 2026-04-10 - A public domain cross-platform lock-free thread-caching 16-byte aligned memory allocator. \[PublicDomain]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators) ⭐ 1,971 | 🐛 15 | 🌐 C++ | 📅 2026-04-12 - Custom memory allocators to improve the performance of dynamic memory allocation. \[MIT]
 * [Mesh](https://github.com/plasma-umass/Mesh) ⭐ 1,854 | 🐛 33 | 🌐 C++ | 📅 2026-03-25 - A memory allocator that automatically reduces the memory footprint of C/C++ applications. \[Apache-2.0]
-* [snmalloc](https://github.com/microsoft/snmalloc) ⭐ 1,838 | 🐛 48 | 🌐 C++ | 📅 2026-05-08 - Message passing based high-performance allocator. \[MIT]
+* [snmalloc](https://github.com/microsoft/snmalloc) ⭐ 1,839 | 🐛 48 | 🌐 C++ | 📅 2026-05-08 - Message passing based high-performance allocator. \[MIT]
 * [C Smart Pointers](https://github.com/Snaipe/libcsptr) ⭐ 1,721 | 🐛 13 | 🌐 CMake | 📅 2022-11-02 - Smart pointers for the (GNU) C programming language. \[MIT]
 * [memory](https://github.com/foonathan/memory) ⭐ 1,605 | 🐛 10 | 🌐 C++ | 📅 2025-05-29 - STL compatible C++ memory allocator library. \[ZLib]
 * [TLSF](https://github.com/mattconte/tlsf) ⭐ 1,549 | 🐛 24 | 🌐 C | 📅 2021-11-06 - Two-Level Segregated Fit memory allocator, a general purpose dynamic memory allocator. \[BSD]
-* [Hoard](https://github.com/emeryberger/Hoard) ⭐ 1,229 | 🐛 3 | 🌐 C++ | 📅 2026-03-05 - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
+* [Hoard](https://github.com/emeryberger/Hoard) ⭐ 1,230 | 🐛 3 | 🌐 C++ | 📅 2026-03-05 - Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. \[Apache-2.0] [website](http://hoard.org/)
 * [tgc](https://github.com/orangeduck/tgc) ⭐ 1,090 | 🐛 7 | 🌐 C | 📅 2023-06-26 - A tiny garbage collector for C written in \~500 LOC. \[BSD]
 * [buddy\_alloc](https://github.com/spaskalev/buddy_alloc) ⭐ 239 | 🐛 1 | 🌐 C | 📅 2025-12-11 - A single header buddy memory allocator for C with bounded allocation costs. \[0BSD]
 
 ## Multimedia
 
-* [SDL](https://github.com/libsdl-org/SDL) ⭐ 15,576 | 🐛 920 | 🌐 C | 📅 2026-05-08 :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
+* [SDL](https://github.com/libsdl-org/SDL) ⭐ 15,588 | 🐛 923 | 🌐 C | 📅 2026-05-09 :zap: - Simple DirectMedia Layer. \[zlib] [website](https://libsdl.org)
 * [SFML](https://github.com/SFML/SFML) ⭐ 11,838 | 🐛 145 | 🌐 C++ | 📅 2026-05-08 :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
-* [QtAv](https://github.com/wang-bin/QtAV) ⭐ 4,242 | 🐛 525 | 🌐 C++ | 📅 2025-08-15 - A multimedia playback framework based on Qt and FFmpeg to write a player easily. \[LGPL] [website](http://wang-bin.github.io/QtAV/)
-* [TagLib](https://github.com/taglib/taglib) ⭐ 1,402 | 🐛 41 | 🌐 C++ | 📅 2026-05-08 - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
-* [icey](https://github.com/nilstate/icey) ⭐ 1,358 | 🐛 6 | 🌐 C++ | 📅 2026-05-09 - Real-time media stack and lightweight libwebrtc alternative for RTSP ingest, media processing, signaling, TURN, and browser delivery, built in C++20. \[LGPL v2.1+]
+* [QtAv](https://github.com/wang-bin/QtAV) ⭐ 4,243 | 🐛 525 | 🌐 C++ | 📅 2025-08-15 - A multimedia playback framework based on Qt and FFmpeg to write a player easily. \[LGPL] [website](http://wang-bin.github.io/QtAV/)
+* [TagLib](https://github.com/taglib/taglib) ⭐ 1,404 | 🐛 41 | 🌐 C++ | 📅 2026-05-09 - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+* [icey](https://github.com/nilstate/icey) ⭐ 1,359 | 🐛 6 | 🌐 C++ | 📅 2026-05-09 - Real-time media stack and lightweight libwebrtc alternative for RTSP ingest, media processing, signaling, TURN, and browser delivery, built in C++20. \[LGPL v2.1+]
 * [libav](https://github.com/libav/libav) ⭐ 1,151 | 🐛 9 | 🌐 C | 📅 2021-05-22 - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. \[LGPL v2.1+ and others] [website](https://www.libav.org/)
-* [libass](https://github.com/libass/libass) ⭐ 1,121 | 🐛 158 | 🌐 C | 📅 2026-05-03 - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
-* [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) ⭐ 762 | 🐛 333 | 🌐 C++ | 📅 2026-05-08 - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
+* [libass](https://github.com/libass/libass) ⭐ 1,121 | 🐛 159 | 🌐 C | 📅 2026-05-03 - Portable subtitle renderer for the ASS/SSA subtitle format. \[ISC]
+* [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib) ⭐ 762 | 🐛 333 | 🌐 C++ | 📅 2026-05-09 - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. \[LGPL]
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). \[LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. \[GPL]
 
 ## Networking
 
-* [uWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,839 | 🐛 50 | 🌐 C++ | 📅 2026-04-22 - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
+* [uWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,841 | 🐛 50 | 🌐 C++ | 📅 2026-04-22 - µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. \[Zlib]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md) ⭐ 16,741 | 🐛 195 | 🌐 C | 📅 2026-05-01 - A fast and reliable ARQ protocol that helps applications to reduce network latency. \[MIT]
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib) ⭐ 16,451 | 🐛 5 | 🌐 C++ | 📅 2026-05-09 - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
-* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,079 | 🐛 84 | 🌐 C++ | 📅 2025-12-23 - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
-* [Mongoose](https://github.com/cesanta/mongoose) ⭐ 12,778 | 🐛 5 | 🌐 C | 📅 2026-05-08 - Extremely lightweight webserver. \[GPL2]
-* [RedPanda](https://github.com/redpanda-data/redpanda) ⭐ 12,063 | 🐛 685 | 🌐 C++ | 📅 2026-05-09 - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
-* [H2O](https://github.com/h2o/h2o) ⭐ 11,455 | 🐛 733 | 🌐 C | 📅 2026-04-30 - An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. \[MIT]
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib) ⭐ 16,457 | 🐛 3 | 🌐 C++ | 📅 2026-05-10 - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+* [Muduo](https://github.com/chenshuo/muduo) ⭐ 16,079 | 🐛 85 | 🌐 C++ | 📅 2025-12-23 - A C++ non-blocking network library for multi-threaded server in Linux. \[BSD]
+* [Mongoose](https://github.com/cesanta/mongoose) ⭐ 12,780 | 🐛 5 | 🌐 C | 📅 2026-05-08 - Extremely lightweight webserver. \[GPL2]
+* [RedPanda](https://github.com/redpanda-data/redpanda) ⭐ 12,067 | 🐛 685 | 🌐 C++ | 📅 2026-05-09 - Streaming data platform for developers. Kafka API compatible. 10x faster. \[BSL]
+* [H2O](https://github.com/h2o/h2o) ⭐ 11,456 | 🐛 734 | 🌐 C | 📅 2026-04-30 - An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. \[MIT]
 * [ZeroMQ](https://github.com/zeromq/libzmq) ⭐ 10,869 | 🐛 383 | 🌐 C++ | 📅 2026-04-07 - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
-* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) ⭐ 9,579 | 🐛 30 | 🌐 C++ | 📅 2026-05-07 - Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). \[BSD-3-Clause]
-* [Proxygen](https://github.com/facebook/proxygen) ⭐ 8,346 | 🐛 37 | 🌐 C++ | 📅 2026-05-09 - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
-* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⭐ 8,265 | 🐛 886 | 🌐 C++ | 📅 2026-04-21 - C++ REST SDK (previously named Casablanca). \[Apache2]
-* [WebSocket++](https://github.com/zaphoyd/websocketpp) ⭐ 7,678 | 🐛 482 | 🌐 C++ | 📅 2026-05-04 - C++/Boost Asio based websocket client/server library. \[BSD]
+* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) ⭐ 9,579 | 🐛 30 | 🌐 C++ | 📅 2026-05-09 - Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). \[BSD-3-Clause]
+* [Proxygen](https://github.com/facebook/proxygen) ⭐ 8,345 | 🐛 37 | 🌐 C++ | 📅 2026-05-09 - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
+* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⭐ 8,263 | 🐛 886 | 🌐 C++ | 📅 2026-04-21 - C++ REST SDK (previously named Casablanca). \[Apache2]
+* [WebSocket++](https://github.com/zaphoyd/websocketpp) ⭐ 7,677 | 🐛 482 | 🌐 C++ | 📅 2026-05-04 - C++/Boost Asio based websocket client/server library. \[BSD]
 * [cpr](https://github.com/whoshuu/cpr) ⭐ 7,326 | 🐛 81 | 🌐 C++ | 📅 2026-05-03 - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 * [HTTP Parser](https://github.com/nodejs/http-parser) ⚠️ Archived :zap: - A http request/response parser for C. \[MIT]
-* [libwebsockets](https://github.com/warmcat/libwebsockets) ⭐ 5,268 | 🐛 223 | 🌐 C | 📅 2026-05-08 - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
-* [nghttp2](https://github.com/nghttp2/nghttp2) ⭐ 4,993 | 🐛 47 | 🌐 C++ | 📅 2026-05-08 - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
-* [Boost.Beast](https://github.com/boostorg/beast) ⭐ 4,788 | 🐛 112 | 🌐 C++ | 📅 2026-04-22 :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
+* [libwebsockets](https://github.com/warmcat/libwebsockets) ⭐ 5,270 | 🐛 223 | 🌐 C | 📅 2026-05-10 - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+* [nghttp2](https://github.com/nghttp2/nghttp2) ⭐ 4,993 | 🐛 46 | 🌐 C++ | 📅 2026-05-10 - HTTP/2 C Library. \[MIT] [website](https://nghttp2.org/)
+* [Boost.Beast](https://github.com/boostorg/beast) ⭐ 4,789 | 🐛 112 | 🌐 C++ | 📅 2026-04-22 :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[Boost] [website](https://www.boost.org/libs/beast)
 * [DPDK](https://github.com/DPDK/dpdk) ⭐ 4,222 | 🐛 25 | 🌐 C | 📅 2026-05-07 - Data Plane Development Kit, libraries and drivers for fast packet processing. \[BSD-3-Clause & GPL-2.0] [website](https://www.dpdk.org/)
 * [evpp](https://github.com/Qihoo360/evpp) ⭐ 3,768 | 🐛 143 | 🌐 C++ | 📅 2024-04-10 - C++ high performance networking with TCP/UDP/HTTP protocols. \[BSD]
 * [RakNet](https://github.com/OculusVR/RakNet) ⚠️ Archived - A cross platform, open source, C++ networking engine for game programmers. \[BSD]
 * [ENet](https://github.com/lsalzman/enet) ⭐ 3,193 | 🐛 97 | 🌐 C | 📅 2025-07-26 - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
-* [libpcap](https://github.com/the-tcpdump-group/libpcap) ⭐ 3,103 | 🐛 169 | 🌐 C | 📅 2026-05-08 - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
-* [Wangle](https://github.com/facebook/wangle) ⭐ 3,094 | 🐛 47 | 🌐 C++ | 📅 2026-05-08 - A client/server application framework to build asynchronous, event-driven modern C++ services. \[Apache-2.0]
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,079 | 🐛 49 | 🌐 C++ | 📅 2026-05-06 - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
+* [libpcap](https://github.com/the-tcpdump-group/libpcap) ⭐ 3,104 | 🐛 169 | 🌐 C | 📅 2026-05-08 - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
+* [Wangle](https://github.com/facebook/wangle) ⭐ 3,094 | 🐛 47 | 🌐 C++ | 📅 2026-05-09 - A client/server application framework to build asynchronous, event-driven modern C++ services. \[Apache-2.0]
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,078 | 🐛 48 | 🌐 C++ | 📅 2026-05-06 - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 * [wdt](https://github.com/facebook/wdt) ⭐ 2,956 | 🐛 80 | 🌐 C++ | 📅 2026-02-25 - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 * [PF\_RING™](https://github.com/ntop/PF_RING) ⭐ 2,928 | 🐛 44 | 🌐 C | 📅 2026-05-04 - High-speed packet processing framework. \[LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 * [c-ares](https://github.com/c-ares/c-ares) ⭐ 2,131 | 🐛 62 | 🌐 C | 📅 2026-04-12 - A C library for asynchronous DNS requests. \[MIT]
@@ -1020,20 +1020,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libquic](https://github.com/devsisters/libquic) ⭐ 1,840 | 🐛 20 | 🌐 C++ | 📅 2022-10-10 - A QUIC protocol library extracted from Chromium's QUIC Implementation. \[BSD]
 * [curlpp](https://github.com/jpbarrette/curlpp) ⭐ 1,795 | 🐛 67 | 🌐 C++ | 📅 2026-02-12 -C++ wrapper around libcURL. \[MIT]
 * [ada](https://github.com/ada-url/ada) ⭐ 1,725 | 🐛 32 | 🌐 C++ | 📅 2026-05-06 - WHATWG-compliant and fast URL parser written in modern C++. \[Apache-2.0/MIT]
-* [CppServer](https://github.com/chronoxor/CppServer) ⭐ 1,632 | 🐛 61 | 🌐 C++ | 📅 2025-07-16 - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
+* [CppServer](https://github.com/chronoxor/CppServer) ⭐ 1,631 | 🐛 61 | 🌐 C++ | 📅 2025-07-16 - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution. \[MIT]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp) ⭐ 1,613 | 🐛 35 | 🌐 C++ | 📅 2025-01-03 - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
-* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,569 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
-* [OpenDDS](https://github.com/objectcomputing/OpenDDS) ⭐ 1,500 | 🐛 191 | 🌐 C++ | 📅 2026-05-08 - An open source C++ implementation of the Object Management Group (OMG) Data Distribution Service (DDS). \[Apache2]
+* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,570 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 :zap: - A cross-platform C++ library for network and low-level I/O programming. \[Boost] [website](https://boost.org/libs/asio)
+* [OpenDDS](https://github.com/objectcomputing/OpenDDS) ⭐ 1,499 | 🐛 190 | 🌐 C++ | 📅 2026-05-09 - An open source C++ implementation of the Object Management Group (OMG) Data Distribution Service (DDS). \[Apache2]
 * [Dyad.c](https://github.com/rxi/dyad) ⚠️ Archived - Asynchronous networking for C. \[MIT]
 * [TQUIC](https://github.com/tencent/tquic) ⭐ 1,410 | 🐛 38 | 🌐 Rust | 📅 2025-12-23 - A high-performance, lightweight, and cross-platform QUIC library, exposed to C and C++. \[Apache2]
 * [UCall](https://github.com/unum-cloud/ucall) ⭐ 1,326 | 🐛 14 | 🌐 C | 📅 2025-09-16 - A high-performance SIMD-accelerated RPC library on io\_uring. \[Apache2]
 * [Restinio](https://github.com/Stiffstream/restinio) ⭐ 1,289 | 🐛 41 | 🌐 C++ | 📅 2026-04-02 - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 * [CZMQ](https://github.com/zeromq/czmq) ⭐ 1,265 | 🐛 38 | 🌐 C | 📅 2026-04-15 - High-level C binding for ØMQ. \[MPL2] [website](http://czmq.zeromq.org/)
-* [nghttp3](https://github.com/ngtcp2/nghttp3) ⭐ 1,088 | 🐛 1 | 🌐 C | 📅 2026-04-18 - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
-* [wepoll](https://github.com/piscisaureus/wepoll) ⭐ 1,088 | 🐛 12 | 🌐 C | 📅 2024-07-22 - A Windows epoll wrapper based on Winsock. \[BSD-2-Clause]
-* [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 972 | 🐛 564 | 🌐 C | 📅 2026-05-08 - Apache Kafka client library for C and C++. \[BSD-2-Clause]
+* [nghttp3](https://github.com/ngtcp2/nghttp3) ⭐ 1,090 | 🐛 1 | 🌐 C | 📅 2026-04-18 - HTTP/3 library written in C. \[MIT] [website](https://nghttp2.org/nghttp3/)
+* [wepoll](https://github.com/piscisaureus/wepoll) ⭐ 1,087 | 🐛 12 | 🌐 C | 📅 2024-07-22 - A Windows epoll wrapper based on Winsock. \[BSD-2-Clause]
+* [librdkafka](https://github.com/edenhill/librdkafka) ⭐ 971 | 🐛 565 | 🌐 C | 📅 2026-05-09 - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 * [Zyre](https://github.com/zeromq/zyre) ⭐ 945 | 🐛 10 | 🌐 C | 📅 2026-03-22 - Local Area Clustering for Peer-to-Peer Applications. \[MPL2]
-* [libhttpserver](https://github.com/etr/libhttpserver) ⭐ 941 | 🐛 19 | 🌐 C++ | 📅 2026-05-07 - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+* [libhttpserver](https://github.com/etr/libhttpserver) ⭐ 940 | 🐛 19 | 🌐 C++ | 📅 2026-05-09 - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C) ⭐ 883 | 🐛 39 | 🌐 C | 📅 2024-05-12 - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 * [Seasocks](https://github.com/mattgodbolt/seasocks) ⭐ 777 | 🐛 43 | 🌐 C++ | 📅 2026-04-16 - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 * [WAFer](https://github.com/riolet/WAFer) ⭐ 694 | 🐛 18 | 🌐 C | 📅 2017-12-07 - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
@@ -1041,7 +1041,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [tlse](https://github.com/eduardsui/tlse) ⭐ 671 | 🐛 25 | 🌐 C | 📅 2026-02-18 - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao) ⭐ 596 | 🐛 35 | 🌐 C++ | 📅 2022-02-10 - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
 * [mailio](https://github.com/karastojko/mailio) ⭐ 475 | 🐛 29 | 🌐 C++ | 📅 2026-04-26 - mailio is a cross platform C++ library for MIME format and SMTP, POP3 and IMAP protocols. \[BSD]
-* [uriparser](https://github.com/uriparser/uriparser) ⭐ 407 | 🐛 8 | 🌐 C | 📅 2026-05-09 - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+* [uriparser](https://github.com/uriparser/uriparser) ⭐ 407 | 🐛 5 | 🌐 C | 📅 2026-05-09 - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 * [FTP client for C++](https://github.com/embeddedmz/ftpclient-cpp) ⭐ 232 | 🐛 12 | 🌐 C++ | 📅 2023-02-07 - C++ client for making FTP requests. \[MIT]
 * [easyhttpcpp](https://github.com/sony/easyhttpcpp) ⭐ 172 | 🐛 11 | 🌐 C++ | 📅 2022-01-31 - A cross-platform HTTP client library providing a caching facility from Sony. \[MIT]
 * [Breep](https://github.com/Organic-Code/Breep) ⭐ 146 | 🐛 5 | 🌐 C++ | 📅 2018-12-07 - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
@@ -1061,7 +1061,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Libraries for parsing and manipulating xlsx, pptx, docx, etc.*
 
-* [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ⭐ 1,741 | 🐛 16 | 🌐 C | 📅 2026-01-06 - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
+* [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) ⭐ 1,742 | 🐛 16 | 🌐 C | 📅 2026-01-06 - A C library for creating Excel XLSX files. \[BSD-2-Clause] [website](https://libxlsxwriter.github.io/)
 * [OpenXLSX](https://github.com/troldal/OpenXLSX) ⭐ 1,738 | 🐛 38 | 🌐 C++ | 📅 2026-05-04 - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.  \[BSD-3-Clause]
 * [libxls](https://github.com/libxls/libxls) ⭐ 527 | 🐛 28 | 🌐 C | 📅 2025-08-06 - Read binary Excel files from C/C++ \[BSD-2-Clause]
 * [XLSX I/O](https://github.com/brechtsanders/xlsxio) ⭐ 518 | 🐛 47 | 🌐 C | 📅 2025-09-12 - C library for reading and writing .xlsx files. \[MIT]
@@ -1073,10 +1073,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Libraries for parsing and manipulating PDF documents.*
 
-* [QPDF](https://github.com/qpdf/qpdf) ⭐ 5,022 | 🐛 163 | 🌐 C++ | 📅 2026-05-07 - A tool and C++ library for content-preserving transformations of PDF files. \[Apache-2.0] [website](https://qpdf.sourceforge.io/)
+* [QPDF](https://github.com/qpdf/qpdf) ⭐ 5,023 | 🐛 163 | 🌐 C++ | 📅 2026-05-07 - A tool and C++ library for content-preserving transformations of PDF files. \[Apache-2.0] [website](https://qpdf.sourceforge.io/)
 * [libharu](https://github.com/libharu/libharu) ⭐ 1,972 | 🐛 104 | 🌐 C | 📅 2026-03-26 - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
-* [PDF-Writer](https://github.com/galkahana/PDF-Writer) ⭐ 1,008 | 🐛 53 | 🌐 C | 📅 2026-05-05 - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
-* [pdfio](https://github.com/michaelrsweet/pdfio) ⭐ 328 | 🐛 7 | 🌐 C | 📅 2026-05-06 - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
+* [PDF-Writer](https://github.com/galkahana/PDF-Writer) ⭐ 1,007 | 🐛 53 | 🌐 C | 📅 2026-05-09 - High performance library for creating, modiyfing and parsing PDF files in C++ \[Apache-2.0] [website](https://www.pdfhummus.com/)
+* [pdfio](https://github.com/michaelrsweet/pdfio) ⭐ 329 | 🐛 7 | 🌐 C | 📅 2026-05-06 - A simple C library for reading and writing PDF files. \[Apache-2] [website](https://www.msweet.org/pdfio/)
 * [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. \[LGPL v3 and zlib]
 * [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Proprietary]
 * [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. \[BSD-3-Clause]
@@ -1090,15 +1090,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Dynamics simulation engines*
 
 * [Bullet](https://github.com/bulletphysics/bullet3) ⭐ 14,461 | 🐛 415 | 🌐 C++ | 📅 2025-10-22 - A 3D physics engine for games. \[zlib] [website](http://bulletphysics.org)
-* [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 10,303 | 🐛 14 | 🌐 C++ | 📅 2026-05-08 - A multi core friendly rigid body physics and collision detection library. \[MIT]
-* [Box2D](https://github.com/erincatto/Box2D) ⭐ 9,652 | 🐛 33 | 🌐 C | 📅 2026-05-05 - A 2D physics engine for games. \[BSD-like]
+* [Jolt Physics](https://github.com/jrouwe/JoltPhysics) ⭐ 10,308 | 🐛 14 | 🌐 C++ | 📅 2026-05-09 - A multi core friendly rigid body physics and collision detection library. \[MIT]
+* [Box2D](https://github.com/erincatto/Box2D) ⭐ 9,652 | 🐛 33 | 🌐 C | 📅 2026-05-09 - A 2D physics engine for games. \[BSD-like]
 * [LiquidFun](https://github.com/google/liquidfun) ⚠️ Archived - A 2D physics engine for games. \[BSD-like]
-* [Project Chrono](https://github.com/projectchrono/chrono) ⭐ 2,833 | 🐛 17 | 🌐 C++ | 📅 2026-05-07 - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+* [Project Chrono](https://github.com/projectchrono/chrono) ⭐ 2,834 | 🐛 15 | 🌐 C++ | 📅 2026-05-09 - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 * [Simbody](https://github.com/simbody/simbody) ⭐ 2,519 | 🐛 161 | 🌐 C++ | 📅 2026-03-19 - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. \[Apache2]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4) ⭐ 2,401 | 🐛 58 | 🌐 C++ | 📅 2022-11-15 - An open-source realtime physics engine middleware SDK developed by Nvidia as a part of Nvidia GameWorks software suite. \[BSD-3-Clause]
 * [Chipmunk](https://github.com/slembcke/Chipmunk2D) ⭐ 2,389 | 🐛 69 | 🌐 C | 📅 2026-05-05 - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
 * [tungsten](https://github.com/tunabrain/tungsten) ⭐ 1,822 | 🐛 18 | 🌐 C++ | 📅 2022-03-10 - A high-performance physically based renderer in C++. \[zlib]
-* [Kratos](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,262 | 🐛 686 | 🌐 C++ | 📅 2026-05-08 - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
+* [Kratos](https://github.com/KratosMultiphysics/Kratos) ⭐ 1,263 | 🐛 686 | 🌐 C++ | 📅 2026-05-08 - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 * [SOFA](https://github.com/sofa-framework/sofa) ⭐ 1,193 | 🐛 435 | 🌐 C++ | 📅 2026-05-08 - SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. \[LGPL] [website](https://www.sofa-framework.org)
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) ⭐ 1,021 | 🐛 0 | 🌐 HTML | 📅 2026-01-17 - An integrated solution for real time simulation of physics environments. \[zlib]
 * [Quantum++](https://github.com/vsoftco/qpp) ⭐ 657 | 🐛 1 | 🌐 C++ | 📅 2026-05-08 - A modern C++11 quantum computing library. \[MIT]
@@ -1109,10 +1109,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Reflection
 
-* [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 6,055 | 🐛 22 | 🌐 C++ | 📅 2026-05-03 - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+* [Magic Enum](https://github.com/Neargye/magic_enum) ⭐ 6,057 | 🐛 22 | 🌐 C++ | 📅 2026-05-03 - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 * [RTTR](https://github.com/rttrorg/rttr) ⭐ 3,459 | 🐛 150 | 🌐 C++ | 📅 2024-04-25 - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
-* [Nameof](https://github.com/Neargye/nameof) ⭐ 2,308 | 🐛 2 | 🌐 C++ | 📅 2026-05-03 - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-* [reflect-cpp](https://github.com/getml/reflect-cpp) ⭐ 1,851 | 🐛 63 | 🌐 C++ | 📅 2026-05-06 - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
+* [Nameof](https://github.com/Neargye/nameof) ⭐ 2,309 | 🐛 2 | 🌐 C++ | 📅 2026-05-03 - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
+* [reflect-cpp](https://github.com/getml/reflect-cpp) ⭐ 1,855 | 🐛 65 | 🌐 C++ | 📅 2026-05-06 - Serialization through reflection, including automatic field name retrieval from structs. \[MIT]
 * [Better Enums](https://github.com/aantron/better-enums) ⭐ 1,816 | 🐛 52 | 🌐 C++ | 📅 2024-02-10 - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection) ⭐ 702 | 🐛 1 | 🌐 C++ | 📅 2019-10-28 - C++ Reflection using clang. \[MIT]
 * [Ponder](https://github.com/billyquith/ponder) ⚠️ Archived - A C++11 library for reflection. \[MIT]
@@ -1131,14 +1131,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Regular Expression
 
-* [RE2](https://github.com/google/re2) ⭐ 9,660 | 🐛 41 | 🌐 C++ | 📅 2026-01-22 - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-* [Hyperscan](https://github.com/intel/hyperscan) ⭐ 5,375 | 🐛 197 | 🌐 C++ | 📅 2026-05-08 - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
+* [RE2](https://github.com/google/re2) ⭐ 9,660 | 🐛 42 | 🌐 C++ | 📅 2026-01-22 - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+* [Hyperscan](https://github.com/intel/hyperscan) ⭐ 5,376 | 🐛 197 | 🌐 C++ | 📅 2026-05-08 - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions) ⭐ 3,801 | 🐛 100 | 🌐 C++ | 📅 2026-05-08 - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 * [Oniguruma](https://github.com/kkos/oniguruma) ⚠️ Archived - A modern and flexible regular expressions library that supports a variety of character encodings. \[BSD]
 * [PCRE2](https://github.com/PCRE2Project/pcre2) ⭐ 1,281 | 🐛 50 | 🌐 C | 📅 2026-05-04 - a set of C functions that implement
   regular expression pattern matching. \[BSD] [website](https://pcre2project.github.io/pcre2/)
 * [TRE](https://github.com/laurikari/tre) ⭐ 909 | 🐛 46 | 🌐 C | 📅 2026-05-07 - The approximate regex matching library and agrep command line tool. \[BSD-2-Clause]
-* [Vectorscan](https://github.com/VectorCamp/vectorscan) ⭐ 689 | 🐛 15 | 🌐 C++ | 📅 2026-04-24 - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause]
+* [Vectorscan](https://github.com/VectorCamp/vectorscan) ⭐ 690 | 🐛 15 | 🌐 C++ | 📅 2026-04-24 - A portable fork of the high-performance regular expression matching library. \[BSD-3-Clause]
 * [sregex](https://github.com/openresty/sregex) ⭐ 627 | 🐛 10 | 🌐 C | 📅 2021-11-01 - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 * [SLRE](https://github.com/cesanta/slre) ⭐ 555 | 🐛 19 | 🌐 C | 📅 2020-10-26 - Super Light Regexp engine for C/C++. \[GPLv2/Proprietary]
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) ⭐ 390 | 🐛 3 | 🌐 C++ | 📅 2019-10-12 - C++ regular expressions made easy. \[MIT]
@@ -1149,7 +1149,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Robotics
 
-* [PCL](https://github.com/PointCloudLibrary/pcl) ⭐ 10,979 | 🐛 587 | 🌐 C++ | 📅 2026-05-05 - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
+* [PCL](https://github.com/PointCloudLibrary/pcl) ⭐ 10,976 | 🐛 588 | 🌐 C++ | 📅 2026-05-05 - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. \[BSD] [website](http://www.pointclouds.org/)
 * [Ruckig](https://github.com/pantor/ruckig) ⭐ 1,218 | 🐛 30 | 🌐 C++ | 📅 2026-04-14 - Real-time motion generation for robots and machines. \[MIT] [website](https://ruckig.com)
 * [YARP (Yet Another Robot Platform)](https://github.com/robotology/yarp) ⭐ 590 | 🐛 246 | 🌐 C++ | 📅 2026-05-08 - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 * [SPICE Toolkit](https://github.com/arturania/cspice) ⭐ 35 | 🐛 1 | 🌐 C | 📅 2022-05-10 - Library and toolkit for computing geometric information used in planning and analyzing science observations obtained from robotic spacecraft. \[MIT] [website](https://naif.jpl.nasa.gov/naif/toolkit.html)
@@ -1163,7 +1163,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Torch](https://github.com/torch/torch7) ⭐ 9,121 | 🐛 297 | 🌐 C | 📅 2025-03-31 - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 * [TileDB](https://github.com/TileDB-Inc/TileDB) ⭐ 2,055 | 🐛 115 | 🌐 C++ | 📅 2026-04-23 - Fast Dense and Sparse Multidimensional Array DBMS. \[MIT] [website](https://tiledb.io/)
-* [Trilinos](https://github.com/trilinos/Trilinos) ⭐ 1,383 | 🐛 347 | 🌐 C++ | 📅 2026-05-09 - High performance PDE solvers. \[BSD]
+* [Trilinos](https://github.com/trilinos/Trilinos) ⭐ 1,383 | 🐛 350 | 🌐 C++ | 📅 2026-05-10 - High performance PDE solvers. \[BSD]
 * [preCICE](https://github.com/precice/precice) ⭐ 932 | 🐛 243 | 🌐 C++ | 📅 2026-05-05 - Coupling library for partitioned multi-physics simulations (FSI, CHT, and more). \[LGPL] [website](https://precice.org/)
 * [AMGCL](https://github.com/ddemidov/amgcl) ⭐ 849 | 🐛 55 | 🌐 C++ | 📅 2026-05-01 - a header-only C++ library for solving large sparse linear systems with algebraic multigrid. \[MIT]
 * [Au](https://github.com/aurora-opensource/au) ⭐ 423 | 🐛 30 | 🌐 C++ | 📅 2026-05-08 - A C++14-compatible physical units library with no dependencies and a single-file delivery option. Emphasis on safety, accessibility, performance, and developer experience. \[Apache 2.0] [website](https://aurora-opensource.github.io/au/main/)
@@ -1173,21 +1173,21 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Scripting
 
-* [pybind11](https://github.com/pybind/pybind11) ⭐ 17,844 | 🐛 726 | 🌐 C++ | 📅 2026-05-04 - Seamless operability between C++11 and Python. \[BSD]
-* [Cython](https://github.com/cython/cython) ⭐ 10,715 | 🐛 1,520 | 🌐 Cython | 📅 2026-05-09 - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
-* [ChakraCore](https://github.com/Microsoft/ChakraCore) ⭐ 9,246 | 🐛 613 | 🌐 JavaScript | 📅 2026-02-19 -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+* [pybind11](https://github.com/pybind/pybind11) ⭐ 17,845 | 🐛 726 | 🌐 C++ | 📅 2026-05-04 - Seamless operability between C++11 and Python. \[BSD]
+* [Cython](https://github.com/cython/cython) ⭐ 10,716 | 🐛 1,524 | 🌐 Cython | 📅 2026-05-09 - Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. \[Apache] [website](http://cython.org/)
+* [ChakraCore](https://github.com/Microsoft/ChakraCore) ⭐ 9,247 | 🐛 613 | 🌐 JavaScript | 📅 2026-02-19 -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 * [JerryScript](https://github.com/jerryscript-project/jerryscript) ⭐ 7,389 | 🐛 231 | 🌐 C | 📅 2025-10-08 - Ultra-lightweight JavaScript engine for the Internet of Things. \[Apache-2.0] [website](https://jerryscript.net/)
 * [SWIG](https://github.com/swig/swig) ⭐ 6,280 | 🐛 493 | 🌐 SWIG | 📅 2026-05-03 - A wrapper/interface Generator that let you link your c++ code to JavaScript, Perl, PHP, Python, Tcl and Ruby. \[GPL/Output not licensed] [website](http://www.swig.org/)
 * [Duktape](https://github.com/svaarala/duktape) ⭐ 6,198 | 🐛 474 | 🌐 JavaScript | 📅 2024-03-22 - An embeddable JavaScript engine with compact footprint. \[MIT] [website](http://duktape.org)
-* [MicroQuickJS](https://github.com/bellard/mquickjs) ⭐ 5,794 | 🐛 23 | 🌐 C | 📅 2026-01-15 - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
-* [Luau](https://github.com/luau-lang/luau) ⭐ 5,518 | 🐛 408 | 🌐 C++ | 📅 2026-05-08 - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
-* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,020 | 🐛 311 | 🌐 C++ | 📅 2025-03-07 - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
+* [MicroQuickJS](https://github.com/bellard/mquickjs) ⭐ 5,799 | 🐛 23 | 🌐 C | 📅 2026-01-15 - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
+* [Luau](https://github.com/luau-lang/luau) ⭐ 5,519 | 🐛 409 | 🌐 C++ | 📅 2026-05-08 - A fast, small, safe, gradually typed embeddable scripting language derived from Lua. \[MIT] [website](https://luau.org/)
+* [sol2](https://github.com/ThePhD/sol2) ⭐ 5,025 | 🐛 311 | 🌐 C++ | 📅 2025-03-07 - A C++ <-> Lua API wrapper with advanced features and top notch performance. \[MIT]
 * [JavaCpp](https://github.com/bytedeco/javacpp) ⭐ 4,695 | 🐛 111 | 🌐 Java | 📅 2026-02-26 - The missing bridge between Java and native C++. \[Apache2]
-* [libffi](https://github.com/libffi/libffi) ⭐ 4,242 | 🐛 200 | 🌐 C | 📅 2026-04-21 - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
-* [nanobind](https://github.com/wjakob/nanobind) ⭐ 3,499 | 🐛 43 | 🌐 C++ | 📅 2026-04-14 - tiny and efficient C++/Python bindings. \[BSD-3-Clause]
-* [CppSharp](https://github.com/mono/CppSharp) ⭐ 3,372 | 🐛 347 | 🌐 C# | 📅 2026-02-24 - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
+* [libffi](https://github.com/libffi/libffi) ⭐ 4,243 | 🐛 200 | 🌐 C | 📅 2026-04-21 - A portable foreign-function interface library. \[MIT] [website](https://sourceware.org/libffi/)
+* [nanobind](https://github.com/wjakob/nanobind) ⭐ 3,500 | 🐛 44 | 🌐 C++ | 📅 2026-04-14 - tiny and efficient C++/Python bindings. \[BSD-3-Clause]
+* [CppSharp](https://github.com/mono/CppSharp) ⭐ 3,373 | 🐛 347 | 🌐 C# | 📅 2026-02-24 - Tools and libraries to glue C/C++ APIs to high-level languages. \[MIT]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/) ⭐ 3,116 | 🐛 72 | 🌐 C++ | 📅 2026-05-02 - An easy to use embedded scripting language for C++. \[BSD] [website](http://chaiscript.com/)
-* [txiki.js](https://github.com/saghul/txiki.js) ⭐ 3,034 | 🐛 15 | 🌐 C | 📅 2026-05-09 - A tiny JavaScript runtime. \[MIT]
+* [txiki.js](https://github.com/saghul/txiki.js) ⭐ 3,034 | 🐛 16 | 🌐 C | 📅 2026-05-09 - A tiny JavaScript runtime. \[MIT]
 * [ctypes.sh](https://github.com/taviso/ctypes.sh) ⭐ 2,166 | 🐛 21 | 🌐 C | 📅 2025-12-22 - A foreign function interface for bash. \[MIT]
 * [pocketpy](https://github.com/blueloveTH/pocketpy) ⭐ 2,062 | 🐛 15 | 🌐 C | 📅 2026-04-29 - C++17 header-only Python interpreter for game scripting. \[MIT] [website](https://pocketpy.dev/)
 * [nbind](https://github.com/charto/nbind) ⭐ 1,999 | 🐛 62 | 🌐 C++ | 📅 2019-05-04 - Magical headers that make your C++ library accessible from JavaScript. \[MIT]
@@ -1195,10 +1195,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [V7](https://github.com/cesanta/v7) ⭐ 1,450 | 🐛 51 | 🌐 C | 📅 2020-11-30 - An embedded JavaScript engine. \[GPL2]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) ⭐ 1,447 | 🐛 120 | 🌐 C++ | 📅 2026-05-03 - A library to build PHP extensions with C++. \[Apache2] [website](http://www.php-cpp.com/)
 * [cppimport](https://github.com/tbenthompson/cppimport) ⭐ 1,228 | 🐛 11 | 🌐 Python | 📅 2026-04-17 - Import C++ files directly from Python! \[MIT]
-* [hobbes](https://github.com/Morgan-Stanley/hobbes) ⭐ 1,197 | 🐛 49 | 🌐 C | 📅 2026-05-02 - A language and an embedded JIT compiler from Morgan Stanley. \[Apache-2.0]
+* [hobbes](https://github.com/Morgan-Stanley/hobbes) ⭐ 1,198 | 🐛 49 | 🌐 C | 📅 2026-05-02 - A language and an embedded JIT compiler from Morgan Stanley. \[Apache-2.0]
 * [v8pp](https://github.com/pmed/v8pp) ⭐ 960 | 🐛 25 | 🌐 C++ | 📅 2025-11-19 - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. \[BOOST] [website](https://pmed.github.io/v8pp/)
 * [Boost.Python](https://github.com/boostorg/python) ⭐ 528 | 🐛 209 | 🌐 C++ | 📅 2026-04-26 - A C++ library which enables seamless interoperability between C++ and the Python programming language. \[Boost] [website](https://boost.org/libs/python)
-* [LuaBridge3](https://github.com/kunitoki/LuaBridge3) ⭐ 354 | 🐛 4 | 🌐 C | 📅 2026-05-08 - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
+* [LuaBridge3](https://github.com/kunitoki/LuaBridge3) ⭐ 355 | 🐛 3 | 🌐 C | 📅 2026-05-09 - A lightweight, dependency-free library for binding Lua, LuaJIT, Luau and Ravi to C++. \[MIT]
 * [luacxx](https://github.com/dafrito/luacxx) ⭐ 163 | 🐛 0 | 🌐 C++ | 📅 2026-03-13 - C++11 API for creating Lua bindings. \[MIT]
 * [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. \[zlib]
 * [djinni](https://djinni.xlcpp.dev) - A tool for generating cross-language type declarations and interface bindings. \[Apache2]
@@ -1211,36 +1211,36 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Serialization
 
-* [protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 71,196 | 🐛 253 | 🌐 C++ | 📅 2026-05-08 - Protocol Buffers - Google's data interchange format. \[BSD]
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 25,893 | 🐛 213 | 🌐 C++ | 📅 2026-05-08 - A Memory efficient serialization library. \[Apache2]
+* [protobuf](https://github.com/protocolbuffers/protobuf) ⭐ 71,200 | 🐛 257 | 🌐 C++ | 📅 2026-05-10 - Protocol Buffers - Google's data interchange format. \[BSD]
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 25,923 | 🐛 215 | 🌐 C++ | 📅 2026-05-08 - A Memory efficient serialization library. \[Apache2]
 * [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,016 | 🐛 301 | 🌐 C++ | 📅 2026-05-08 - Fast data interchange format and capability-based RPC system. \[MIT] [website](https://capnproto.org/)
 * [nanopb](https://github.com/nanopb/nanopb) ⭐ 5,365 | 🐛 80 | 🌐 C | 📅 2026-04-07 - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 * [cereal](https://github.com/USCiLab/cereal) ⭐ 4,656 | 🐛 338 | 🌐 C++ | 📅 2026-03-11 - A C++11 library for serialization. \[BSD]
-* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,440 | 🐛 36 | 🌐 Java | 📅 2026-05-05 - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
+* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,441 | 🐛 36 | 🌐 Java | 📅 2026-05-05 - encoding and decoding application messages in binary format for low-latency applications. \[Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) ⭐ 3,321 | 🐛 104 | 📅 2026-01-12 - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
-* [protobuf-c](https://github.com/protobuf-c/protobuf-c) ⭐ 2,965 | 🐛 45 | 🌐 C++ | 📅 2025-04-07 - Protocol Buffers implementation in C. \[BSD]
-* [fbthrift](https://github.com/facebook/fbthrift) ⭐ 2,692 | 🐛 49 | 🌐 C++ | 📅 2026-05-09 - Facebook's branch of Apache Thrift, including a serialization library and RPC framework. \[Apache-2.0]
+* [protobuf-c](https://github.com/protobuf-c/protobuf-c) ⭐ 2,966 | 🐛 45 | 🌐 C++ | 📅 2025-04-07 - Protocol Buffers implementation in C. \[BSD]
+* [fbthrift](https://github.com/facebook/fbthrift) ⭐ 2,692 | 🐛 49 | 🌐 C++ | 📅 2026-05-10 - Facebook's branch of Apache Thrift, including a serialization library and RPC framework. \[Apache-2.0]
 * [Bond](https://github.com/Microsoft/bond) ⚠️ Archived - An open source, cross-platform framework for working with schematized data. \[MIT]
 * [cista](https://github.com/felixguendling/cista) ⭐ 2,214 | 🐛 10 | 🌐 C++ | 📅 2026-05-08 - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
-* [mrpt-serialization](https://github.com/mrpt/mrpt/) ⭐ 2,133 | 🐛 27 | 🌐 C++ | 📅 2026-05-07 - Versioned serialization to binary or text formats. \[BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
+* [mrpt-serialization](https://github.com/mrpt/mrpt/) ⭐ 2,133 | 🐛 27 | 🌐 C++ | 📅 2026-05-09 - Versioned serialization to binary or text formats. \[BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [upb](https://github.com/protocolbuffers/upb) ⚠️ Archived - A small protobuf implementation in C. \[BSD]
 * [iguana](https://github.com/qicosmos/iguana) ⭐ 1,311 | 🐛 55 | 🌐 C++ | 📅 2026-05-06 - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. \[Apache2]
 * [Bitsery](https://github.com/fraillt/bitsery) ⭐ 1,237 | 🐛 11 | 🌐 C++ | 📅 2025-10-09 - Header only C++ binary serialization library. \[MIT]
-* [zpp\_bits](https://github.com/eyalz800/zpp_bits) ⭐ 964 | 🐛 12 | 🌐 C++ | 📅 2026-05-08 - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
+* [zpp\_bits](https://github.com/eyalz800/zpp_bits) ⭐ 966 | 🐛 12 | 🌐 C++ | 📅 2026-05-08 - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
 * [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) ⭐ 953 | 🐛 36 | 🌐 C++ | 📅 2025-07-16 - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. \[MIT]
 * [YAS](https://github.com/niXman/yas) ⭐ 778 | 🐛 12 | 🌐 C++ | 📅 2025-02-18 - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 * [cppcodec](https://github.com/tplgy/cppcodec) ⭐ 689 | 🐛 18 | 🌐 C++ | 📅 2022-09-06 - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. \[MIT]
 * [Wirehair](https://github.com/catid/wirehair) ⭐ 383 | 🐛 8 | 🌐 C++ | 📅 2023-12-02 - O(N) Fountain Code for Large Data. \[BSD-3-Clause]
 * [Protocol Puffers](https://github.com/PragmaTwice/protopuf) ⭐ 206 | 🐛 4 | 🌐 C++ | 📅 2025-06-20 - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. \[Apache-2.0]
 * [Boost.Serialization](https://github.com/boostorg/serialization) ⭐ 133 | 🐛 72 | 🌐 C++ | 📅 2026-04-25 - Boost Serialization Library. \[Boost] [website](https://boost.org/libs/serialization)
-* [BitSerializer](https://github.com/PavelKisliak/BitSerializer) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2026-04-30 - Multi-format serialization library (JSON, XML, YAML, CSV, MsgPack) \[MIT]
+* [BitSerializer](https://github.com/PavelKisliak/BitSerializer) ⭐ 31 | 🐛 1 | 🌐 C++ | 📅 2026-05-10 - Multi-format serialization library (JSON, XML, YAML, CSV, MsgPack) \[MIT]
 * [Kaitai Struct](http://kaitai.io) - A declarative language to describe various binary data structures and a compiler to generate C++ parser code. \[GPLv3+]\[MIT]\[Apache2]
 
 ## Serial Port
 
-* [Asio](https://github.com/chriskohlhoff/asio/) ⭐ 5,844 | 🐛 1,065 | 🌐 C++ | 📅 2026-03-03 - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
+* [Asio](https://github.com/chriskohlhoff/asio/) ⭐ 5,848 | 🐛 1,065 | 🌐 C++ | 📅 2026-03-03 - Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](http://think-async.com/)
 * [Serial Communication Library](https://github.com/wjwwood/serial) ⭐ 2,414 | 🐛 102 | 🌐 C++ | 📅 2024-08-21 - Cross-platform, Serial Port library written in C++. \[MIT] [website](http://wjwwood.io/serial/)
-* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,569 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 - Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](https://boost.org/libs/asio)
+* [Boost.Asio](https://github.com/boostorg/asio) ⭐ 1,570 | 🐛 91 | 🌐 C++ | 📅 2026-04-22 - Boost.Asio includes classes for creating and manipulating serial ports in a portable manner. \[Boost] [website](https://boost.org/libs/asio)
 * [CSerialPort](https://github.com/itas109/CSerialPort) ⭐ 893 | 🐛 13 | 🌐 C++ | 📅 2026-04-19 - lightweight cross-platform serial port library. \[LGPL3]
 * [Libserial](https://github.com/crayzeewulf/libserial) ⭐ 491 | 🐛 11 | 🌐 C++ | 📅 2025-09-03 - Serial Port Programming in C++. \[BSD-3-Clause]
 
@@ -1248,14 +1248,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [cpp-sort](https://github.com/Morwenn/cpp-sort) ⭐ 703 | 🐛 37 | 🌐 C++ | 📅 2026-03-16 - Sorting algorithms & related tools for C++14. \[MIT]
 
-- [pdqsort](https://github.com/orlp/pdqsort) ⭐ 2,487 | 🐛 5 | 🌐 C++ | 📅 2023-12-06 - Pattern-defeating quicksort. \[zlib]
-- [x86-simd-sort](https://github.com/numpy/x86-simd-sort) ⭐ 1,011 | 🐛 22 | 🌐 C++ | 📅 2026-03-14 - C++ template library for high performance SIMD based sorting algorithms. \[BSD-3-Clause]
+- [pdqsort](https://github.com/orlp/pdqsort) ⭐ 2,488 | 🐛 5 | 🌐 C++ | 📅 2023-12-06 - Pattern-defeating quicksort. \[zlib]
+- [x86-simd-sort](https://github.com/numpy/x86-simd-sort) ⭐ 1,011 | 🐛 21 | 🌐 C++ | 📅 2026-03-14 - C++ template library for high performance SIMD based sorting algorithms. \[BSD-3-Clause]
 - [Timsort](https://github.com/gfx/cpp-TimSort) ⭐ 316 | 🐛 2 | 🌐 C++ | 📅 2024-12-03 - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
 - [Indiesort](https://github.com/mattreecebentley/plf_indiesort) ⭐ 24 | 🐛 0 | 🌐 C++ | 📅 2025-07-11 - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. \[zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
-* [OpenH264](https://github.com/cisco/openh264) ⭐ 6,051 | 🐛 298 | 🌐 C++ | 📅 2025-10-28 - Open Source H.264 Codec. \[BSD] [website](http://www.openh264.org/)
+* [OpenH264](https://github.com/cisco/openh264) ⭐ 6,053 | 🐛 298 | 🌐 C++ | 📅 2025-10-28 - Open Source H.264 Codec. \[BSD] [website](http://www.openh264.org/)
 * [libde265](https://github.com/strukturag/libde265) ⭐ 1,892 | 🐛 90 | 🌐 C++ | 📅 2026-04-20 - Open h.265 video codec implementation. \[LGPL] [website](http://www.libde265.org/)
 * [libuvc](https://github.com/libuvc/libuvc) ⭐ 1,138 | 🐛 156 | 🌐 C | 📅 2024-06-25 - A cross-platform library for USB video devices. \[BSD]
 * [Vireo](https://github.com/twitter/vireo/) ⭐ 957 | 🐛 15 | 🌐 C++ | 📅 2021-10-21 - A lightweight and versatile video processing library by Twitter. \[MIT]
@@ -1267,27 +1267,27 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Virtual Machines
 
-* [MicroPython](https://github.com/micropython/micropython) ⭐ 21,684 | 🐛 1,771 | 🌐 C | 📅 2026-05-08 - Aims to put an implementation of Python 3.x on a microcontroller. \[MIT]
+* [MicroPython](https://github.com/micropython/micropython) ⭐ 21,686 | 🐛 1,771 | 🌐 C | 📅 2026-05-09 - Aims to put an implementation of Python 3.x on a microcontroller. \[MIT]
 * [TinyVM](https://github.com/jakogut/tinyvm) ⭐ 3,318 | 🐛 6 | 🌐 C | 📅 2019-03-23 - A small, fast, lightweight virtual machine written in pure ANSI C. \[MIT]
 * [CarpVM](https://github.com/tekknolagi/carp) ⚠️ Archived - "interesting" VM in C. Let's see how this goes. \[GPLv3]
 
 ## Web Application Framework
 
-* [Drogon](https://github.com/an-tao/drogon) ⭐ 13,859 | 🐛 409 | 🌐 C++ | 📅 2026-05-08 - A C++17/20 based, high-performance HTTP application framework. \[MIT]
-* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,592 | 🐛 334 | 🌐 C++ | 📅 2025-11-12 - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
-* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⭐ 8,265 | 🐛 886 | 🌐 C++ | 📅 2026-04-21 - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
-* [lwan](https://github.com/lpereira/lwan) ⭐ 6,028 | 🐛 49 | 🌐 C | 📅 2026-05-07 - Experimental, scalable, high performance HTTP server. \[GPL2]
-* [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,829 | 🐛 83 | 🌐 C++ | 📅 2026-05-08 - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
+* [Drogon](https://github.com/an-tao/drogon) ⭐ 13,861 | 🐛 409 | 🌐 C++ | 📅 2026-05-08 - A C++17/20 based, high-performance HTTP application framework. \[MIT]
+* [oat++](https://github.com/oatpp/oatpp) ⭐ 8,593 | 🐛 333 | 🌐 C++ | 📅 2025-11-12 - Light, zero-dependency framework to create high-performance web-services. \[Apache-2.0] [website](https://oatpp.io/)
+* [C++ REST SDK](https://github.com/Microsoft/cpprestsdk) ⭐ 8,263 | 🐛 886 | 🌐 C++ | 📅 2026-04-21 - Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. \[MIT]
+* [lwan](https://github.com/lpereira/lwan) ⭐ 6,028 | 🐛 49 | 🌐 C | 📅 2026-05-09 - Experimental, scalable, high performance HTTP server. \[GPL2]
+* [Crow](https://github.com/CrowCpp/Crow) ⭐ 4,831 | 🐛 82 | 🌐 C++ | 📅 2026-05-09 - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. \[BSD] [website](https://crowcpp.org)
 * [Civetweb](https://github.com/civetweb/civetweb) ⭐ 3,386 | 🐛 207 | 🌐 C | 📅 2026-04-19 - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. \[MIT]
-* [userver](https://github.com/userver-framework/userver) ⭐ 2,892 | 🐛 142 | 🌐 C++ | 📅 2026-05-08 - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
+* [userver](https://github.com/userver-framework/userver) ⭐ 2,893 | 🐛 142 | 🌐 C++ | 📅 2026-05-08 - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 * [facil.io](https://github.com/boazsegev/facil.io) ⭐ 2,381 | 🐛 34 | 🌐 C | 📅 2026-04-14 - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
-* [httpserver.h](https://github.com/jeremycw/httpserver.h) ⭐ 1,910 | 🐛 27 | 🌐 C | 📅 2026-04-26 - A single-header HTTP server library for C. \[MIT]
+* [httpserver.h](https://github.com/jeremycw/httpserver.h) ⭐ 1,912 | 🐛 27 | 🌐 C | 📅 2026-04-26 - A single-header HTTP server library for C. \[MIT]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) ⭐ 1,369 | 🐛 5 | 🌐 C++ | 📅 2026-05-08 - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). \[BSD] [website](http://www.treefrogframework.org/)
 * [libhttp](https://github.com/lammertb/libhttp) ⭐ 1,017 | 🐛 39 | 🌐 C | 📅 2025-03-30 - A cross-platform HTTP and HTTPS library in C/C++. \[MIT]
 * [C++ wfrest](https://github.com/wfrest/wfrest) ⭐ 998 | 🐛 29 | 🌐 C++ | 📅 2026-05-08 - C++ Web Framework REST API. \[Apache2]
 * [Cutelyst](https://github.com/cutelyst/cutelyst) ⭐ 972 | 🐛 14 | 🌐 C++ | 📅 2026-04-27 - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[BSD-3-Clause] [website](https://cutelyst.org/)
 * [QDjango](https://github.com/jlaine/qdjango/) ⚠️ Archived - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
-* [aeronet](https://github.com/sjanel/aeronet) ⭐ 39 | 🐛 10 | 🌐 C++ | 📅 2026-05-08 - High-performance, modular C++ HTTP/1.1, HTTP/2 and WebSocket microservices framework focused on performance and scalability. \[MIT]
+* [aeronet](https://github.com/sjanel/aeronet) ⭐ 39 | 🐛 10 | 🌐 C++ | 📅 2026-05-09 - High-performance, modular C++ HTTP/1.1, HTTP/2 and WebSocket microservices framework focused on performance and scalability. \[MIT]
 * [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). \[LGPLv3]
 * [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 * [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
@@ -1313,10 +1313,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Yaml
 
-* [yaml-cpp](https://github.com/jbeder/yaml-cpp) ⭐ 5,916 | 🐛 217 | 🌐 C++ | 📅 2026-04-20 - A YAML parser and emitter in C++. \[MIT]
+* [yaml-cpp](https://github.com/jbeder/yaml-cpp) ⭐ 5,917 | 🐛 217 | 🌐 C++ | 📅 2026-04-20 - A YAML parser and emitter in C++. \[MIT]
 * [LibYAML](https://github.com/yaml/libyaml) ⭐ 1,125 | 🐛 116 | 🌐 C | 📅 2026-05-05 - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
-* [rapidyaml](https://github.com/biojppm/rapidyaml) ⭐ 725 | 🐛 35 | 🌐 C++ | 📅 2026-05-09 - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
-* [libfyaml](https://github.com/pantoniou/libfyaml) ⭐ 331 | 🐛 2 | 🌐 C | 📅 2026-05-08 - A fancy 1.2 YAML and JSON parser/writer. \[MIT]
+* [rapidyaml](https://github.com/biojppm/rapidyaml) ⭐ 725 | 🐛 35 | 🌐 C++ | 📅 2026-05-10 - Rapid YAML is a C++ library to parse and emit YAML. \[MIT]
+* [libfyaml](https://github.com/pantoniou/libfyaml) ⭐ 331 | 🐛 3 | 🌐 C | 📅 2026-05-08 - A fancy 1.2 YAML and JSON parser/writer. \[MIT]
 * [LibCYAML](https://github.com/tlsa/libcyaml) ⭐ 322 | 🐛 15 | 🌐 C | 📅 2026-01-03 - C library for reading and writing YAML. \[ISC]
 * [mini-yaml](https://github.com/jimmiebergmann/mini-yaml) ⭐ 242 | 🐛 18 | 🌐 C++ | 📅 2025-10-26 - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 * [fkYAML](https://github.com/fktn-k/fkYAML) ⭐ 139 | 🐛 11 | 🌐 C++ | 📅 2025-07-21 - A C++ header-only YAML library. \[MIT]
@@ -1325,32 +1325,32 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
-* [ZXing](https://github.com/zxing/zxing/) ⭐ 33,933 | 🐛 4 | 🌐 Java | 📅 2026-05-04 - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
-* [stb](https://github.com/nothings/stb) ⭐ 33,583 | 🐛 401 | 🌐 C | 📅 2026-04-15 :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
-* [{fmt}](https://github.com/fmtlib/fmt) ⭐ 23,478 | 🐛 13 | 🌐 C++ | 📅 2026-05-03 :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
-* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,006 | 🐛 32 | 🌐 C | 📅 2026-04-13 - Extremely fast non-cryptographic hash algorithm. \[BSD-2-Clause] [website](https://xxhash.com/)
-* [single\_file\_libs](https://github.com/r-lyeh/single_file_libs) ⭐ 9,876 | 🐛 6 | 📅 2026-02-18 - C/C++ open-source libraries with minimal dependencies. \[Various]
+* [ZXing](https://github.com/zxing/zxing/) ⭐ 33,931 | 🐛 4 | 🌐 Java | 📅 2026-05-04 - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. \[Apache]
+* [stb](https://github.com/nothings/stb) ⭐ 33,592 | 🐛 401 | 🌐 C | 📅 2026-04-15 :zap: - A range of single-file libraries for C/C++. \[PublicDomain]
+* [{fmt}](https://github.com/fmtlib/fmt) ⭐ 23,483 | 🐛 13 | 🌐 C++ | 📅 2026-05-03 :zap: - Small, safe and fast formatting library for C++. \[Simplified BSD] [website](https://fmt.dev)
+* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,007 | 🐛 32 | 🌐 C | 📅 2026-04-13 - Extremely fast non-cryptographic hash algorithm. \[BSD-2-Clause] [website](https://xxhash.com/)
+* [single\_file\_libs](https://github.com/r-lyeh/single_file_libs) ⭐ 9,878 | 🐛 5 | 📅 2026-05-09 - C/C++ open-source libraries with minimal dependencies. \[Various]
 * [Cello](https://github.com/orangeduck/Cello) ⭐ 7,118 | 🐛 31 | 🌐 C | 📅 2024-12-01 - Higher level programming in C, including generic data structures and polymorphism. \[BSD-2-Clause] [website](http://libcello.org/)
-* [SDS](https://github.com/antirez/sds) ⭐ 5,455 | 🐛 107 | 🌐 C | 📅 2025-04-18 - Simple Dynamic Strings library for C. \[BSD]
-* [Argon2](https://github.com/P-H-C/phc-winner-argon2) ⭐ 5,283 | 🐛 98 | 🌐 C | 📅 2024-08-06 - The password hash Argon2, winner of PHC. \[CC0/Apache2]
+* [SDS](https://github.com/antirez/sds) ⭐ 5,457 | 🐛 107 | 🌐 C | 📅 2025-04-18 - Simple Dynamic Strings library for C. \[BSD]
+* [Argon2](https://github.com/P-H-C/phc-winner-argon2) ⭐ 5,284 | 🐛 98 | 🌐 C | 📅 2024-08-06 - The password hash Argon2, winner of PHC. \[CC0/Apache2]
 * [Klib](https://github.com/attractivechaos/klib) ⭐ 4,659 | 🐛 92 | 🌐 C | 📅 2025-12-22 - Small and lightweight implementations of common algorithms and data structures. \[MIT]
-* [AsmJit](https://github.com/asmjit/asmjit) ⭐ 4,503 | 🐛 22 | 🌐 C++ | 📅 2026-03-26 - Low-latency machine code generation. \[Zlib] [website](https://asmjit.com)
-* [StringZilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,447 | 🐛 47 | 🌐 C | 📅 2026-05-05 - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
+* [AsmJit](https://github.com/asmjit/asmjit) ⭐ 4,502 | 🐛 22 | 🌐 C++ | 📅 2026-03-26 - Low-latency machine code generation. \[Zlib] [website](https://asmjit.com)
+* [StringZilla](https://github.com/ashvardanian/StringZilla) ⭐ 3,448 | 🐛 47 | 🌐 C | 📅 2026-05-05 - the Godzilla of string libraries, splitting, sorting, and shuffling large textual datasets faster than you can say "Tokyo Tower". \[Apache-2.0]
 * [date](https://github.com/HowardHinnant/date) ⭐ 3,403 | 🐛 177 | 🌐 C++ | 📅 2026-04-16 - A date and time library based on the C++11/14/17 <chrono> header. \[MIT] [website](https://howardhinnant.github.io/date/date.html)
 * [Gear-Lib](https://github.com/gozfree/gear-lib) ⭐ 3,203 | 🐛 30 | 🌐 C | 📅 2024-08-08 - A collection of basic libraries in POSIX C for embedded and network service development. \[MIT]
-* [SIMD Everywhere](https://github.com/simd-everywhere/simde) ⭐ 3,008 | 🐛 143 | 🌐 C | 📅 2026-04-28 - Implementations of SIMD instruction sets for systems which don't natively support them. \[MIT]
+* [SIMD Everywhere](https://github.com/simd-everywhere/simde) ⭐ 3,009 | 🐛 143 | 🌐 C | 📅 2026-04-28 - Implementations of SIMD instruction sets for systems which don't natively support them. \[MIT]
 * [PEGTL](https://github.com/taocpp/PEGTL) ⭐ 2,122 | 🐛 4 | 🌐 C++ | 📅 2026-04-28 - The Parsing Expression Grammar Template Library. \[MIT]
 * [fast\_float](https://github.com/fastfloat/fast_float) ⭐ 2,047 | 🐛 24 | 🌐 C++ | 📅 2026-04-27 - Fast, Exact C++ from\_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. \[Apache2/BSL-1.0/MIT]
+* [mio](https://github.com/mandreyel/mio) ⭐ 1,939 | 🐛 51 | 🌐 C++ | 📅 2024-02-11 - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 * [inja](https://github.com/pantor/inja) ⭐ 1,937 | 🐛 49 | 🌐 C++ | 📅 2026-03-25 - A Template Engine for Modern C++. \[MIT]
-* [mio](https://github.com/mandreyel/mio) ⭐ 1,937 | 🐛 51 | 🌐 C++ | 📅 2024-02-11 - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 * [HighwayHash](https://github.com/google/highwayhash) ⚠️ Archived - Fast strong hash functions: SipHash/HighwayHash. \[Apache-2.0]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) ⭐ 1,430 | 🐛 16 | 🌐 C++ | 📅 2025-12-07 - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
 * [Flicks](https://github.com/OculusVR/Flicks) ⚠️ Archived - A unit of time defined by Facebook/Oculus for exact representation of common frame rates. \[BSD]
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP) ⭐ 1,346 | 🐛 2 | 🌐 C++ | 📅 2026-05-04 - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 * [Mach7](https://github.com/solodon4/Mach7) ⭐ 1,313 | 🐛 28 | 🌐 C++ | 📅 2021-10-22 - A Pattern-matching library for C++. \[BSD]
-* [scnlib](https://github.com/eliaskosunen/scnlib) ⭐ 1,308 | 🐛 27 | 🌐 C++ | 📅 2025-10-29 - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
-* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) ⭐ 1,142 | 🐛 40 | 🌐 C++ | 📅 2026-04-02 - A header only library for creating and validating JSON web tokens in C++. \[MIT]
-* [pspsdk](https://github.com/pspdev/pspsdk) ⭐ 1,111 | 🐛 8 | 🌐 C | 📅 2026-05-08 - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
+* [scnlib](https://github.com/eliaskosunen/scnlib) ⭐ 1,309 | 🐛 27 | 🌐 C++ | 📅 2025-10-29 - scanf for modern C++. \[Apache-2.0] [website](https://v1.scnlib.dev/)
+* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) ⭐ 1,141 | 🐛 40 | 🌐 C++ | 📅 2026-04-02 - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+* [pspsdk](https://github.com/pspdev/pspsdk) ⭐ 1,112 | 🐛 8 | 🌐 C | 📅 2026-05-08 - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 * [SLJIT](https://github.com/zherczeg/sljit) ⭐ 1,084 | 🐛 24 | 🌐 C | 📅 2026-02-15 - Platform independent low-level JIT compiler. \[BSD] [website](https://zherczeg.github.io/sljit/)
 * [dyno](https://github.com/ldionne/dyno) ⭐ 1,035 | 🐛 27 | 🌐 C++ | 📅 2021-05-27 - A C++ library for runtime polymorphism with value semantics. \[Boost]
 * [stdman](https://github.com/jeaye/stdman) ⭐ 993 | 🐛 10 | 🌐 C++ | 📅 2024-07-06 - A tool that parses archived HTML files from [cppreference](https://cppreference.com) and generates groff-formatted manual pages for Unix-based systems. \[MIT]
@@ -1361,8 +1361,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [hedley](https://github.com/nemequ/hedley) ⭐ 888 | 🐛 23 | 🌐 C++ | 📅 2024-09-20 - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
 * [tinydir](https://github.com/cxong/tinydir) ⭐ 868 | 🐛 5 | 🌐 C | 📅 2024-02-27 - A lightweight, portable, and easy to integrate C directory and file reader. \[BSD-2-Clause]
 * [fast\_io](https://github.com/cppfastio/fast_io) ⭐ 843 | 🐛 44 | 🌐 C++ | 📅 2026-04-28 - Significantly faster input/output for C++20. \[MIT]
-* [Pipes](https://github.com/joboccara/pipes) ⭐ 836 | 🐛 21 | 🌐 C++ | 📅 2024-10-30 - Pipelines for expressive code on collections in C++. \[MIT]
-* [rapidhash](https://github.com/Nicoshev/rapidhash) ⭐ 826 | 🐛 12 | 🌐 C++ | 📅 2026-02-18 - Very fast, high quality, platform-independent hashing algorithm. \[BSD-2-Clause]
+* [Pipes](https://github.com/joboccara/pipes) ⭐ 837 | 🐛 21 | 🌐 C++ | 📅 2024-10-30 - Pipelines for expressive code on collections in C++. \[MIT]
+* [rapidhash](https://github.com/Nicoshev/rapidhash) ⭐ 829 | 🐛 12 | 🌐 C++ | 📅 2026-02-18 - Very fast, high quality, platform-independent hashing algorithm. \[BSD-2-Clause]
 * [Dragonbox](https://github.com/jk-jeon/dragonbox) ⭐ 808 | 🐛 10 | 🌐 C++ | 📅 2025-10-03 - Reference implementation of a new float-to-string conversion algorithm in C++. \[Apache2/BSL-1.0]
 * [MPark.Variant](https://github.com/mpark/variant) ⭐ 712 | 🐛 10 | 🌐 C++ | 📅 2022-12-07 - C++17 `std::variant` for C++11/14/17. \[BSL-1.0]
 * [DynaMix](https://github.com/iboB/dynamix) ⭐ 693 | 🐛 34 | 🌐 C++ | 📅 2026-03-14 - A library which allows you to compose and modify objects at run time. \[MIT]
@@ -1372,11 +1372,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CCTZ](https://github.com/google/cctz) ⭐ 648 | 🐛 10 | 🌐 C++ | 📅 2026-04-24 - a C++ library for translating between absolute and civil times using the rules of a time zone.  \[Apache-2.0]
 * [reproc](https://github.com/DaanDeMeyer/reproc) ⭐ 634 | 🐛 26 | 🌐 C | 📅 2026-04-15 - A cross-platform (C99/C++11) process library. \[MIT]
 * [Concord](https://github.com/Cogmasters/concord) ⭐ 622 | 🐛 25 | 🌐 C | 📅 2026-05-02 - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
-* [Reaction](https://github.com/lumia431/reaction) ⭐ 618 | 🐛 1 | 🌐 C++ | 📅 2025-12-09 - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications. \[MIT]
+* [Reaction](https://github.com/lumia431/reaction) ⭐ 619 | 🐛 1 | 🌐 C++ | 📅 2025-12-09 - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications. \[MIT]
 * [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) ⭐ 583 | 🐛 45 | 🌐 C++ | 📅 2026-03-10 - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) ⭐ 569 | 🐛 13 | 🌐 C++ | 📅 2023-01-02 - A pretty printing library for C++ containers. \[Boost]
-* [Kangaru](https://github.com/gracicot/kangaru) ⭐ 548 | 🐛 10 | 🌐 C++ | 📅 2026-05-08 - A dependency injection container for C++11 and C++14. \[MIT]
-* [libcpuid](https://github.com/anrieff/libcpuid) ⭐ 526 | 🐛 7 | 🌐 C | 📅 2026-05-03 - A small C library for x86 CPU detection and feature extraction. \[BSD]
+* [Kangaru](https://github.com/gracicot/kangaru) ⭐ 548 | 🐛 10 | 🌐 C++ | 📅 2026-05-10 - A dependency injection container for C++11 and C++14. \[MIT]
+* [libcpuid](https://github.com/anrieff/libcpuid) ⭐ 527 | 🐛 7 | 🌐 C | 📅 2026-05-03 - A small C library for x86 CPU detection and feature extraction. \[BSD]
 * [libsigc++](https://github.com/libsigcplusplus/libsigcplusplus) ⭐ 444 | 🐛 2 | 🌐 C++ | 📅 2026-01-26 - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 * [CPP-JWT](https://github.com/arun11299/cpp-jwt) ⭐ 434 | 🐛 20 | 🌐 C++ | 📅 2026-03-06 - JSON Web Token library for C++. \[MIT]
 * [licensepp](https://github.com/amrayn/licensepp) ⭐ 433 | 🐛 9 | 🌐 C++ | 📅 2025-07-06 - A software license management library for C++ projects. \[Apache-2.0]
@@ -1401,14 +1401,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [xxhash\_cpp](https://github.com/RedSpah/xxhash_cpp) ⭐ 188 | 🐛 3 | 🌐 C++ | 📅 2025-05-24 - Port of the xxhash library to C++17. \[BSD-2-Clause]
 * [emio](https://github.com/Viatorus/emio) ⭐ 185 | 🐛 16 | 🌐 C++ | 📅 2025-11-30 - A safe and fast high-level and low-level character input/output library. \[MIT]
 * [ub-canaries](https://github.com/regehr/ub-canaries) ⭐ 184 | 🐛 3 | 🌐 C | 📅 2019-02-10 - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
-* [Patternia](https://github.com/sentomk/patternia) ⭐ 180 | 🐛 0 | 🌐 C++ | 📅 2026-05-06 - Providing pattern matching for modern c++. \[MIT] [website](https://patternia.tech/)
+* [Patternia](https://github.com/sentomk/patternia) ⭐ 182 | 🐛 0 | 🌐 C++ | 📅 2026-05-06 - Providing pattern matching for modern c++. \[MIT] [website](https://patternia.tech/)
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) ⭐ 178 | 🐛 0 | 🌐 C++ | 📅 2019-07-24 - High performance C++11 signals. \[PublicDomain]
 * [libenvpp](https://github.com/ph3at/libenvpp) ⭐ 168 | 🐛 2 | 🌐 C++ | 📅 2025-12-09 - A modern C++ library for type-safe environment variable parsing. \[Apache-2.0]
 * [spy](https://github.com/jfalcou/spy) ⭐ 161 | 🐛 5 | 🌐 C++ | 📅 2026-04-27 - A C++17 constexpr library for detecting OS, compiler, architecture, and SIMD at compile time. \[MIT]
 * [tiny::optional](https://github.com/Sedeniono/tiny-optional/) ⭐ 147 | 🐛 0 | 🌐 C++ | 📅 2026-01-25 - Replacement for std::optional that does not waste memory unnecessarily. \[BSL-1.0]
 * [simdzone](https://github.com/NLnetLabs/simdzone) ⭐ 136 | 🐛 30 | 🌐 C | 📅 2026-02-12 - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 * [origin](https://github.com/asutton/origin) ⭐ 134 | 🐛 5 | 🌐 C++ | 📅 2017-03-28 - A C++ library for concepts, diagnostics, and other foundational utilities.
-* [rain](https://github.com/DOSAYGO-Research/rain) ⭐ 130 | 🐛 2 | 🌐 C++ | 📅 2025-12-20 - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
+* [rain](https://github.com/DOSAYGO-Research/rain) ⭐ 131 | 🐛 2 | 🌐 C++ | 📅 2025-12-20 - The fastest 128-bit and 256-bit non-crypto hash, passes all tests, and under 140 source lines of code. \[Apache-2.0]
 * [Wildcards](https://github.com/zemasoft/wildcards/) ⭐ 95 | 🐛 7 | 🌐 C++ | 📅 2024-03-22 - A simple C++ header-only template library implementing matching using wildcards. \[BSL-1.0]
 * [libnih](https://github.com/keybuk/libnih) ⭐ 92 | 🐛 2 | 🌐 C | 📅 2021-11-20 - A lightweight library of C functions and structures. \[GPL2.1]
 * [Boost.Signals2](https://github.com/boostorg/signals2) ⭐ 87 | 🐛 6 | 🌐 C++ | 📅 2026-04-22 - An implementation of a managed signals and slots system. \[Boost] [website](https://boost.org/libs/signals2)
@@ -1439,7 +1439,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *List of C or C++ compilers*
 
-* [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,178 | 🐛 25 | 🌐 C | 📅 2024-05-29 - The single instruction C compiler, compiling programs into only mov instructions. \[MIT]
+* [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,179 | 🐛 25 | 🌐 C | 📅 2024-05-29 - The single instruction C compiler, compiling programs into only mov instructions. \[MIT]
 * [8cc](https://github.com/rui314/8cc) ⭐ 6,380 | 🐛 45 | 🌐 C | 📅 2024-05-02 - A Small C Compiler.
 * [c](https://github.com/ryanmjacobs/c) ⭐ 2,178 | 🐛 11 | 🌐 Shell | 📅 2025-12-05 - Compile and execute C "scripts" in one go! \[MIT]
 * [PCC](https://github.com/IanHarvey/pcc) ⭐ 130 | 🐛 4 | 🌐 C | 📅 2024-08-01 - A very old C compiler. Supports C99.
@@ -1488,12 +1488,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *List of C or C++ nominal IDEs.*
 
-* [Microsoft Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 184,715 | 🐛 17,387 | 🌐 TypeScript | 📅 2026-05-09 :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
-* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) ⭐ 25,908 | 🐛 33 | 🌐 Python | 📅 2026-05-09 - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
+* [Microsoft Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 184,742 | 🐛 17,403 | 🌐 TypeScript | 📅 2026-05-10 :zap: - An open-source IDE from Microsoft. \[MIT] [website](https://code.visualstudio.com)
+* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) ⭐ 25,909 | 🐛 33 | 🌐 Python | 📅 2026-05-09 - YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.
 * [Qt Creator](https://github.com/qt-creator/qt-creator) ⭐ 3,007 | 🐛 3 | 🌐 C++ | 📅 2026-05-08 :zap: - A cross-platform C++, JavaScript and QML IDE which is part of the SDK for Qt. \[GPL3 with exceptions] [website](https://www.qt.io/product/development-tools)
-* [Embarcadero Dev-CPP](https://github.com/Embarcadero/Dev-Cpp) ⭐ 2,928 | 🐛 211 | 🌐 Pascal | 📅 2024-06-17 - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. \[GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
+* [Embarcadero Dev-CPP](https://github.com/Embarcadero/Dev-Cpp) ⭐ 2,926 | 🐛 211 | 🌐 Pascal | 📅 2024-06-17 - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. \[GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
 * [cquery](https://github.com/cquery-project/cquery/) ⚠️ Archived - A C++ code completion engine for vscode, emacs, vim, etc.
-* [rtags](https://github.com/Andersbakken/rtags) ⭐ 1,843 | 🐛 176 | 🌐 C++ | 📅 2026-05-07 - A c/c++ client/server indexer with for integration with emacs based on clang.
+* [rtags](https://github.com/Andersbakken/rtags) ⭐ 1,843 | 🐛 176 | 🌐 C++ | 📅 2026-05-10 - A c/c++ client/server indexer with for integration with emacs based on clang.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) ⭐ 913 | 🐛 170 | 🌐 Emacs Lisp | 📅 2023-10-18 - A C/C++ minor mode for Emacs powered by libclang.
 * [color\_coded](https://github.com/jeaye/color_coded) ⚠️ Archived - A vim plugin for libclang-based highlighting. \[MIT]
 * [Anjuta DevStudio](https://sourceforge.net/projects/anjuta/) - The GNOME IDE. \[GPL3]
@@ -1515,10 +1515,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Build Systems
 
-* [Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,006 | 🐛 1,244 | 🌐 CMake | 📅 2026-05-08 - C++ library manager for Windows, Linux, and MacOS. \[MIT]
+* [Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,008 | 🐛 1,254 | 🌐 CMake | 📅 2026-05-08 - C++ library manager for Windows, Linux, and MacOS. \[MIT]
 * [Buck](https://github.com/facebook/buck) ⚠️ Archived - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
-* [Sccache](https://github.com/mozilla/sccache) ⭐ 7,249 | 🐛 454 | 🌐 Rust | 📅 2026-05-06 - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
-* [Bear](https://github.com/rizsotto/Bear) ⭐ 6,313 | 🐛 1 | 🌐 Rust | 📅 2026-05-04 - A tool to generate compilation database for clang tooling. \[GPLv3]
+* [Sccache](https://github.com/mozilla/sccache) ⭐ 7,256 | 🐛 455 | 🌐 Rust | 📅 2026-05-06 - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
+* [Bear](https://github.com/rizsotto/Bear) ⭐ 6,319 | 🐛 1 | 🌐 Rust | 📅 2026-05-09 - A tool to generate compilation database for clang tooling. \[GPLv3]
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) ⭐ 5,377 | 🐛 6 | 📅 2025-12-15 - A curated list of awesome CMake scripts, modules, and resources.
 * [clib](https://github.com/clibs/clib) ⭐ 5,132 | 🐛 23 | 🌐 C | 📅 2025-10-11 - Package manager for the C programming language. \[MIT]
 * [cmake-examples](https://github.com/pr0g/cmake-examples) ⭐ 1,227 | 🐛 1 | 🌐 CMake | 📅 2025-02-22 - A collection of useful CMake examples for various scenarios. \[MIT]
@@ -1548,11 +1548,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *List of tools for improving quality and reducing defects by code analysis*
 
-* [Infer](https://github.com/facebook/infer) ⭐ 15,597 | 🐛 425 | 🌐 OCaml | 📅 2026-05-09 - A static analyzer for Java, C and Objective-C. \[BSD]
-* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck) ⭐ 6,605 | 🐛 192 | 🌐 C++ | 📅 2026-05-08
-* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) ⭐ 4,674 | 🐛 230 | 🌐 C++ | 📅 2026-05-07 - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+* [Infer](https://github.com/facebook/infer) ⭐ 15,597 | 🐛 426 | 🌐 OCaml | 📅 2026-05-09 - A static analyzer for Java, C and Objective-C. \[BSD]
+* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck) ⭐ 6,609 | 🐛 187 | 🌐 C++ | 📅 2026-05-09
+* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) ⭐ 4,676 | 🐛 230 | 🌐 C++ | 📅 2026-05-09 - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source](https://github.com/oclint/oclint) ⭐ 3,877 | 🐛 14 | 🌐 C++ | 📅 2026-02-23
-* [IKOS](https://github.com/NASA-SW-VnV/ikos) ⭐ 3,145 | 🐛 46 | 🌐 C++ | 📅 2025-04-24 - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
+* [IKOS](https://github.com/NASA-SW-VnV/ikos) ⭐ 3,146 | 🐛 46 | 🌐 C++ | 📅 2025-04-24 - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 * [CodeChecker](https://github.com/Ericsson/codechecker) ⭐ 2,567 | 🐛 443 | 🌐 Python | 📅 2026-05-07 - An analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang-Tidy. \[Apache-2.0]
 * [cpplint](https://github.com/cpplint/cpplint) ⭐ 1,816 | 🐛 73 | 🌐 Python | 📅 2026-05-04 - A C++ style checker following Google's C++ style guide.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) ⭐ 777 | 🐛 13 | 🌐 C++ | 📅 2026-01-13 - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
@@ -1586,7 +1586,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Fantastic C++ related articles.*
 
-* [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) ⭐ 21,649 | 🐛 4 | 📅 2026-03-01 - A cheatsheet of modern C++ language and library features.
+* [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) ⭐ 21,651 | 🐛 4 | 📅 2026-03-01 - A cheatsheet of modern C++ language and library features.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) ⭐ 2,300 | 🐛 1 | 🌐 C++ | 📅 2016-01-10 - CppCon 2014 Presentation Materials.
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) ⭐ 1,841 | 🐛 7 | 🌐 Python | 📅 2020-10-28 - CppCon 2017 Presentation Materials.
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) ⭐ 1,801 | 🐛 5 | 🌐 C++ | 📅 2018-04-13 - CppCon 2016 Presentation Materials.
@@ -1622,10 +1622,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Fantastic C or C++ related books.*
 
-* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) ⭐ 387,927 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - vhf/free-programming-books/C.
-* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) ⭐ 387,927 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - vhf/free-programming-books/C++.
-* [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md) ⭐ 71,136 | 🐛 310 | 📅 2026-05-03
-* [cppbestpractices](https://github.com/lefticus/cppbestpractices) ⭐ 8,733 | 🐛 39 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
+* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) ⭐ 387,965 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) ⭐ 387,965 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - vhf/free-programming-books/C++.
+* [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md) ⭐ 71,152 | 🐛 310 | 📅 2026-05-09
+* [cppbestpractices](https://github.com/lefticus/cppbestpractices) ⭐ 8,732 | 🐛 39 | 📅 2024-08-06 - Collaborative Collection of C++ Best Practices.
 * [Practical Guide to Bare Metal C++](https://github.com/arobenko/bare_metal_cpp) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2021-02-13
 
 ## Coding Standards
@@ -1637,8 +1637,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Coding Style
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 44,965 | 🐛 248 | 🌐 CSS | 📅 2026-04-16 - "Official" set of C++ guidelines, reviewed by the author of C++.
-* [google-styleguide](https://github.com/google/styleguide) ⭐ 39,278 | 🐛 170 | 🌐 HTML | 📅 2026-05-01 - Style guides for Google-originated open-source projects.
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 44,969 | 🐛 248 | 🌐 CSS | 📅 2026-04-16 - "Official" set of C++ guidelines, reviewed by the author of C++.
+* [google-styleguide](https://github.com/google/styleguide) ⭐ 39,281 | 🐛 170 | 🌐 HTML | 📅 2026-05-01 - Style guides for Google-originated open-source projects.
 * [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [GNU Coding Standard](http://www.gnu.org/prep/standards/standards.html)
@@ -1662,7 +1662,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Fantastic C or C++ related videos.*
 
-* [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md) ⭐ 71,136 | 🐛 310 | 📅 2026-05-03
+* [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md) ⭐ 71,152 | 🐛 310 | 📅 2026-05-09
 * [Awesome C Programming Tutorials in Hi Def \[HD\]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - A collection of detailed C Programming Language Tutorials for Beginners and New Programmers.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
@@ -1728,7 +1728,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Collection of useful codes, snippets, ...*
 
-* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) ⭐ 14,533 | 🐛 41 | 🌐 Rust | 📅 2026-05-07 - A curated list of static analysis tools for all programming languages.
+* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) ⭐ 14,535 | 🐛 42 | 🌐 Rust | 📅 2026-05-07 - A curated list of static analysis tools for all programming languages.
 * [algorithms\_and\_data\_structures](https://github.com/mandliya/algorithms_and_data_structures) ⭐ 6,136 | 🐛 171 | 🌐 C++ | 📅 2024-02-06 - Implementation of algorithms and data structures in C++.
 * [algorithms](https://github.com/xtaci/algorithms) ⭐ 5,449 | 🐛 104 | 🌐 C++ | 📅 2024-08-01 - Algorithms & Data Structures in C++.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) ⭐ 3,599 | 🐛 10 | 🌐 C | 📅 2026-03-17 - C algorithms library.
@@ -1740,21 +1740,21 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *Other amazingly awesome lists*
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,201 | 🐛 71 | 📅 2026-05-05 :zap: - A curated list of awesome lists.
-* [free-programming-books](https://github.com/vhf/free-programming-books) ⭐ 387,927 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - List of Freely Available Programming Books.
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 106,008 | 🐛 3 | 🌐 Shell | 📅 2026-05-07 - Papers from the computer science community to read and discuss.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 464,636 | 🐛 73 | 📅 2026-05-05 :zap: - A curated list of awesome lists.
+* [free-programming-books](https://github.com/vhf/free-programming-books) ⭐ 387,965 | 🐛 82 | 🌐 Python | 📅 2026-05-07 - List of Freely Available Programming Books.
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 106,033 | 🐛 3 | 🌐 Shell | 📅 2026-05-07 - Papers from the computer science community to read and discuss.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) ⚠️ Archived - A list of lists of interview questions for the most popular technologies, including C and C++.
-* [Projects](https://github.com/karan/Projects) ⭐ 47,634 | 🐛 117 | 📅 2024-08-14 - A list of practical projects that anyone can solve in any programming language.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,417 | 🐛 54 | 🌐 Ruby | 📅 2024-06-02 - A curated list of awesome awesomeness.
-* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,093 | 🐛 1 | 📅 2026-04-18 - A curated list of awesome places to learn and/or practice algorithms.
+* [Projects](https://github.com/karan/Projects) ⭐ 47,637 | 🐛 117 | 📅 2024-08-14 - A list of practical projects that anyone can solve in any programming language.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,418 | 🐛 54 | 🌐 Ruby | 📅 2024-06-02 - A curated list of awesome awesomeness.
+* [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,096 | 🐛 1 | 📅 2026-04-18 - A curated list of awesome places to learn and/or practice algorithms.
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 12,990 | 🐛 18 | 🌐 HTML | 📅 2024-08-20 - A collection of resources on modern C++.
-* [lists](https://github.com/jnv/lists) ⭐ 11,181 | 🐛 8 | 📅 2026-03-23 - List of (awesome) lists curated on GitHub.
-* [nothings/single\_file\_libs](https://github.com/nothings/single_file_libs) ⭐ 9,876 | 🐛 6 | 📅 2026-02-18 :zap: - List of single-file C/C++ libraries.
+* [lists](https://github.com/jnv/lists) ⭐ 11,184 | 🐛 8 | 📅 2026-03-23 - List of (awesome) lists curated on GitHub.
+* [nothings/single\_file\_libs](https://github.com/nothings/single_file_libs) ⭐ 9,878 | 🐛 5 | 📅 2026-05-09 :zap: - List of single-file C/C++ libraries.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) ⭐ 6,190 | 🐛 29 | 📅 2025-07-07 - A lot of screencasts, recordings of user group gatherings and conference talks.
-* [C++ links](https://github.com/MattPD/cpplinks) ⭐ 5,234 | 🐛 1 | 📅 2026-05-08 - A categorized list of C++ resources.
+* [C++ links](https://github.com/MattPD/cpplinks) ⭐ 5,232 | 🐛 1 | 📅 2026-05-10 - A categorized list of C++ resources.
 * [awesome-hpp](https://github.com/p-ranav/awesome-hpp) ⭐ 4,104 | 🐛 24 | 📅 2025-11-06 - A curated list of awesome header-only C++ libraries.
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) ⚠️ Archived 2
-* [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) ⭐ 2,526 | 🐛 4 | 🌐 CSS | 📅 2022-09-22 - A curated list of awesome C/C++ performance optimization resources.
+* [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) ⭐ 2,527 | 🐛 4 | 🌐 CSS | 📅 2022-09-22 - A curated list of awesome C/C++ performance optimization resources.
 * [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Inqlude](http://inqlude.org/) - The Qt library archive.
@@ -1769,7 +1769,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 # Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) ⭐ 71,136 | 🐛 310 | 📅 2026-05-03 for details.
-Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ⭐ 71,136 | 🐛 310 | 📅 2026-05-03; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) ⭐ 71,152 | 🐛 310 | 📅 2026-05-09 for details.
+Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ⭐ 71,152 | 🐛 310 | 📅 2026-05-09; you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
